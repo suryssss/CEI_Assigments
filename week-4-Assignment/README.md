@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 What This Assignment Was About
+## What This Assignment Was About
 
 This week's assignment was all about getting hands-on with **Microsoft Azure** — specifically learning how to build a **data pipeline** using **Azure Data Factory (ADF)**. The goal was to move data from one storage location to another in the cloud, automate the process for multiple files, and understand how access control works in Azure.
 
 ---
 
-## 🛠️ What I Did (Step by Step)
+## What I Did (Step by Step)
 
 ### 1. Set Up the Azure Environment
 
@@ -66,20 +66,8 @@ This week's assignment was all about getting hands-on with **Microsoft Azure** �
 - Assigned the Reader role successfully. However, I **couldn't assign the Contributor role** due to limitations of the student account.
 - Provided ADF access to the storage account by assigning **Storage Blob Data Contributor** and **Storage Blob Data Reader** roles.
 
----
 
-## 📁 Datasets Used
-
-| File Name | Description |
-|---|---|
-| `Sample - Superstore.csv` | Main dataset used for copy operations |
-| `customer1.csv` | Small customer dataset (IDs 101–103, cities: Hyderabad, Bangalore, Chennai) |
-| `customer2.csv` | Small customer dataset (IDs 104–106, cities: Mumbai, Pune, Delhi) |
-| `customer3.csv` | Small customer dataset (IDs 107–109, cities: Kolkata, Jaipur, Ahmedabad) |
-
----
-
-## 😤 Challenges I Faced
+## Challenges I Faced
 
 1. **ForEach Activity Configuration** – This was hands down the hardest part. I couldn't figure out how to get the ForEach loop to process multiple files at first. The issue was that I didn't understand how dataset parameters work and how values are passed dynamically. I kept getting errors until I realized I needed to use expressions like `@item().name` to pass the current file name from the iteration into the Copy activity. It took me a lot of trial and error to get this right.
 
@@ -91,7 +79,7 @@ This week's assignment was all about getting hands-on with **Microsoft Azure** �
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - **Azure Resource Organization** – How Resource Groups, Storage Accounts, and services are structured and connected in Azure.
 - **Azure Blob Storage** – How to create containers, upload files, and why blob storage is a good fit for unstructured data like CSVs.
@@ -104,7 +92,7 @@ This week's assignment was all about getting hands-on with **Microsoft Azure** �
 
 ---
 
-## 🧾 Summary
+## Summary
 
 This was probably the most hands-on week of my internship so far. Moving from SQL and databases (Weeks 2–3) to cloud services and data pipelines felt like a big jump. The ForEach activity alone taught me more about debugging and patience than anything else this week. But by the end, I had a fully working pipeline that could automatically copy multiple files from one blob container to another — and that felt really satisfying.
 
