@@ -1,6 +1,5 @@
 # Week 4 – Azure Cloud Fundamentals & Data Pipeline Implementation using ADF
 
-**Intern:** G Rithwik Surya  
 **Week:** 4  
 **Topic:** Azure Data Factory (ADF), Azure Blob Storage, IAM Roles & Pipeline Development
 
