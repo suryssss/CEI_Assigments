@@ -232,18 +232,4 @@ pipeline_df = (
 
 5. **Data Quality Matters**: The raw data had duplicates, nulls, and inconsistent formats. Cleaning had to be done carefully — dropping rows where critical data was missing (sale_amount) but filling with defaults where dropping would lose too much data (status).
 
-6. **Pipeline Thinking**: Chaining transformations together into a single pipeline makes the code cleaner and allows Spark's Catalyst optimizer to find the most efficient execution plan.
-
 ---
-
-## How to Run
-
-1. Upload `spark_assignment_dataset.csv` to Databricks (DBFS or Unity Catalog Volume)
-2. Open `week5_assignment.ipynb` in Databricks
-3. Attach a cluster and run all cells sequentially
-
----
-
-## Author
-
-CEI Internship – Week 5, Task 1
