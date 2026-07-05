@@ -1,0 +1,1001 @@
+order_id,customer_name,email,product_category,product_name,quantity,unit_price,discount_percent,total_amount,order_date,city,country,payment_method,order_status,rating
+ORD00001,Wei Reddy,,Home & Kitchen,Coffee Maker,2.0,339.97,0.0,679.94,2024-08-27,Tokyo,Japan,Credit Card,Delivered,5.0
+ORD00002,Ava Sharma,ava.sharma734@example.com,Beauty,Perfume,8.0,296.69,0.0,2373.52,2023-06-13,Kyoto,Japan,UPI,Shipped,4.0
+ORD00003,Ishaan Kumar,ishaan.kumar368@example.com,Home & Kitchen,Storage Jars,1.0,366.22,20.0,292.98,2023-03-22,Rio de Janeiro,Brazil,,Returned,4.0
+ORD00004,Liam Smith,liam.smith47@example.com,Beauty,Shampoo,2.0,428.38,20.0,685.41,2023-10-12,Marseille,France,Debit Card,Processing,4.0
+ORD00005,Chen Kumar,chen.kumar176@example.com,Sports,Dumbbell Set,7.0,138.62,5.0,921.82,2023-11-29,Delhi,India,,Delivered,4.0
+ORD00006,Sara Kumar,sara.kumar966@example.com,Sports,Cricket Bat,8.0,200.84,25.0,1205.04,2023-05-27,Vancouver,Canada,Debit Card,Returned,5.0
+ORD00007,Emma Muller,emma.muller225@example.com,Clothing,Rain Jacket,1.0,431.25,0.0,431.25,2024-11-27,Tokyo,Japan,Net Banking,Cancelled,5.0
+ORD00008,David Brown,david.brown882@example.com,Electronics,Bluetooth Speaker,9.0,376.68,15.0,2881.6,2023-04-25,Calgary,Canada,Debit Card,Cancelled,
+ORD00009,Yuki Brown,yuki.brown781@example.com,Clothing,Rain Jacket,5.0,421.63,5.0,2002.74,2023-06-06,Melbourne,Australia,Cash on Delivery,Returned,5.0
+ORD00010,James Martinez,,Home & Kitchen,Blender,4.0,439.61,0.0,1758.44,2024-05-12,San Francisco,USA,,Shipped,5.0
+ORD00011,Sophia Gupta,sophia.gupta894@example.com,Sports,Football,9.0,378.86,10.0,3068.77,2024-02-13,Perth,Australia,Cash on Delivery,Cancelled,3.0
+ORD00012,Aditya Zhang,,Sports,Dumbbell Set,1.0,40.14,5.0,38.13,2023-03-11,Bengaluru,India,Credit Card,Returned,5.0
+ORD00013,Ananya Rossi,ananya.rossi958@example.com,Sports,Cycling Helmet,8.0,404.71,0.0,3237.68,2024-11-05,Kyoto,Japan,Net Banking,Cancelled,1.0
+ORD00014,Li Reddy,li.reddy746@example.com,Home & Kitchen,Non-stick Pan,4.0,270.46,0.0,1081.84,2023-10-13,Lyon,France,,Delivered,5.0
+ORD00015,Ishaan Patel,ishaan.patel554@example.com,Electronics,Bluetooth Speaker,4.0,87.32,5.0,331.82,2024-02-15,Delhi,India,Net Banking,Delivered,4.0
+ORD00016,Isabella Garcia,isabella.garcia714@example.com,Beauty,Perfume,8.0,81.62,0.0,652.96,2024-08-16,Sao Paulo,Brazil,PayPal,Processing,
+ORD00017,Liam Martinez,liam.martinez874@example.com,Sports,Dumbbell Set,9.0,44.66,0.0,401.94,2024-11-22,Frankfurt,Germany,Credit Card,Returned,5.0
+ORD00018,Vivaan Dubois,vivaan.dubois674@example.com,Sports,Cycling Helmet,5.0,106.11,5.0,504.02,2023-09-29,Osaka,Japan,PayPal,Processing,2.0
+ORD00019,Aarav Garcia,aarav.garcia577@example.com,Electronics,Bluetooth Speaker,9.0,136.27,0.0,1226.43,2023-09-08,Brisbane,Australia,Debit Card,Cancelled,4.0
+ORD00020,Ava Silva,,Sports,Cricket Bat,2.0,469.77,0.0,939.54,2023-04-20,Sao Paulo,Brazil,UPI,Processing,4.0
+ORD00021,Ananya Brown,ananya.brown258@example.com,Electronics,Bluetooth Speaker,5.0,26.82,0.0,134.1,2024-10-14,Vancouver,Canada,PayPal,Cancelled,4.0
+ORD00022,Sophia Sharma,sophia.sharma968@example.com,Beauty,Shampoo,6.0,293.34,0.0,1760.04,2023-02-12,Montreal,Canada,,Delivered,3.0
+ORD00023,Li Johnson,li.johnson363@example.com,Sports,Football,3.0,463.25,0.0,1389.75,2023-07-01,Tokyo,Japan,Debit Card,Processing,4.0
+ORD00024,Mei Johnson,mei.johnson807@example.com,Beauty,Face Serum,1.0,430.0,25.0,322.5,2023-12-25,Vancouver,Canada,Debit Card,Delivered,4.0
+ORD00025,James Brown,james.brown991@example.com,Home & Kitchen,Blender,7.0,341.36,15.0,2031.09,2023-01-29,Chicago,USA,Debit Card,Returned,4.0
+ORD00026,Vivaan Reddy,vivaan.reddy354@example.com,Beauty,Lipstick Set,9.0,62.24,5.0,532.15,2023-09-18,Pune,India,Net Banking,Delivered,5.0
+ORD00027,Li Smith,li.smith72@example.com,Beauty,Lipstick Set,2.0,361.28,10.0,650.3,2024-11-13,Kyoto,Japan,Net Banking,Processing,3.0
+ORD00028,Emma Tanaka,emma.tanaka925@example.com,Clothing,Rain Jacket,7.0,276.23,,1933.61,2023-10-21,Frankfurt,Germany,,Returned,4.0
+ORD00029,Michael Garcia,michael.garcia219@example.com,Sports,Football,3.0,331.13,15.0,844.38,2023-04-06,Hamburg,Germany,Debit Card,Shipped,1.0
+ORD00030,Diya Martinez,diya.martinez787@example.com,Electronics,Earbuds,10.0,101.25,25.0,759.38,2024-02-14,Munich,Germany,PayPal,Delivered,2.0
+ORD00031,Haruto Suzuki,haruto.suzuki824@example.com,Beauty,Perfume,9.0,128.35,25.0,866.36,2023-05-17,Marseille,France,,Cancelled,5.0
+ORD00032,Emma Rossi,emma.rossi163@example.com,Beauty,Sunscreen,4.0,420.73,25.0,1262.19,2024-10-03,Hamburg,Germany,Net Banking,Delivered,3.0
+ORD00033,Sara Zhang,sara.zhang554@example.com,Electronics,USB-C Cable,7.0,348.51,0.0,2439.57,2024-02-29,Kyoto,Japan,Cash on Delivery,Cancelled,3.0
+ORD00034,Sofia Suzuki,sofia.suzuki789@example.com,Sports,Yoga Mat,10.0,193.29,,1932.9,2023-12-27,Calgary,Canada,,Cancelled,5.0
+ORD00035,Mei Dubois,mei.dubois500@example.com,Clothing,Running Shoes,1.0,197.48,20.0,157.98,2023-06-19,Lyon,France,Cash on Delivery,Returned,
+ORD00036,John Muller,john.muller28@example.com,Electronics,Smartwatch,8.0,94.96,15.0,645.73,2023-08-05,Marseille,France,UPI,Cancelled,4.0
+ORD00037,Sara Kumar,sara.kumar768@example.com,Sports,Yoga Mat,6.0,115.99,0.0,695.94,2023-02-01,Munich,Germany,,Delivered,3.0
+ORD00038,Rohan Martinez,rohan.martinez578@example.com,Clothing,Wool Sweater,6.0,88.06,0.0,528.36,2023-06-17,Toronto,Canada,Cash on Delivery,Delivered,5.0
+ORD00039,Li Tanaka,li.tanaka733@example.com,Clothing,Cotton T-Shirt,4.0,55.44,0.0,221.76,2024-08-02,Bengaluru,India,Cash on Delivery,Cancelled,2.0
+ORD00040,David Zhang,,Books,History Book,6.0,319.61,0.0,1917.66,2024-03-21,Birmingham,UK,Cash on Delivery,Returned,5.0
+ORD00041,Emma Muller,emma.muller873@example.com,Clothing,Cotton T-Shirt,8.0,125.71,20.0,804.54,2023-12-11,Chennai,India,,Processing,3.0
+ORD00042,Mary Brown,mary.brown902@example.com,Sports,Cricket Bat,9.0,474.29,20.0,3414.89,2024-05-15,Sao Paulo,Brazil,PayPal,Cancelled,5.0
+ORD00043,Michael Sharma,michael.sharma227@example.com,Books,Cookbook,10.0,187.67,15.0,1595.19,2024-03-11,Rio de Janeiro,Brazil,UPI,Cancelled,4.0
+ORD00044,Diya Reddy,diya.reddy324@example.com,Electronics,USB-C Cable,8.0,141.87,10.0,1021.46,2023-04-13,Hamburg,Germany,Debit Card,Processing,1.0
+ORD00045,Chen Rossi,chen.rossi47@example.com,Electronics,Webcam,3.0,320.75,0.0,962.25,2023-01-13,Abu Dhabi,UAE,Net Banking,Cancelled,3.0
+ORD00046,Vivaan Brown,vivaan.brown490@example.com,Electronics,Bluetooth Speaker,2.0,290.63,0.0,581.26,2023-06-02,Abu Dhabi,UAE,Credit Card,Shipped,4.0
+ORD00047,Ava Dubois,ava.dubois232@example.com,Sports,Football,8.0,152.19,20.0,974.02,2023-11-09,Sharjah,UAE,Credit Card,Returned,2.0
+ORD00048,Haruto Smith,haruto.smith271@example.com,Beauty,Face Serum,3.0,278.24,20.0,667.78,2024-04-06,Abu Dhabi,UAE,UPI,Delivered,4.0
+ORD00049,Chen Garcia,chen.garcia240@example.com,Home & Kitchen,LED Lamp,4.0,215.44,0.0,861.76,2023-09-30,London,UK,Credit Card,Shipped,5.0
+ORD00050,Yuki Muller,yuki.muller450@example.com,Electronics,Earbuds,7.0,471.62,25.0,2476.01,2024-03-24,San Francisco,USA,Credit Card,Cancelled,5.0
+ORD00051,Sara Sharma,sara.sharma985@example.com,Beauty,Perfume,1.0,499.79,10.0,449.81,2024-08-13,Delhi,India,Net Banking,Returned,4.0
+ORD00052,Priya Muller,priya.muller834@example.com,Books,Fiction Novel,7.0,169.99,0.0,1189.93,2023-12-04,Yokohama,Japan,UPI,Cancelled,5.0
+ORD00053,Vivaan Garcia,vivaan.garcia259@example.com,Home & Kitchen,Non-stick Pan,7.0,433.13,0.0,3031.91,2024-11-04,Rio de Janeiro,Brazil,Net Banking,Delivered,4.0
+ORD00054,Ava Martinez,ava.martinez779@example.com,Electronics,Laptop Stand,3.0,464.2,25.0,1044.45,2023-05-05,Pune,India,Cash on Delivery,Shipped,4.0
+ORD00055,Sophia Sharma,sophia.sharma96@example.com,Clothing,Cotton T-Shirt,2.0,325.62,10.0,586.12,2024-06-05,Calgary,Canada,,Cancelled,3.0
+ORD00056,Michael Rossi,michael.rossi196@example.com,Sports,Cycling Helmet,3.0,432.69,20.0,1038.46,2023-12-15,Rio de Janeiro,Brazil,,Delivered,4.0
+ORD00057,Sofia Muller,sofia.muller676@example.com,Books,Cookbook,8.0,175.84,20.0,1125.38,2024-04-11,Melbourne,Australia,PayPal,Shipped,3.0
+ORD00058,Lucas Suzuki,lucas.suzuki763@example.com,Books,History Book,3.0,250.19,,750.57,2024-05-29,Abu Dhabi,UAE,,Delivered,5.0
+ORD00059,Ishaan Silva,ishaan.silva16@example.com,Beauty,Shampoo,3.0,42.04,10.0,113.51,2023-12-13,Sharjah,UAE,Net Banking,Delivered,5.0
+ORD00060,John Zhang,john.zhang909@example.com,Books,Children's Storybook,2.0,121.21,10.0,218.18,2023-08-21,Houston,USA,Credit Card,Delivered,4.0
+ORD00061,Mateo Sharma,mateo.sharma816@example.com,Electronics,Webcam,7.0,77.06,0.0,539.42,2023-06-24,London,UK,Cash on Delivery,Cancelled,3.0
+ORD00062,Olivia Muller,olivia.muller473@example.com,Beauty,Lipstick Set,1.0,449.96,10.0,404.96,2024-11-24,Sao Paulo,Brazil,Credit Card,Cancelled,5.0
+ORD00063,Kavya Suzuki,kavya.suzuki468@example.com,Home & Kitchen,Coffee Maker,8.0,57.79,15.0,392.97,2024-08-11,Montreal,Canada,Credit Card,Cancelled,5.0
+ORD00064,Lucas Patel,lucas.patel764@example.com,Books,Self-Help Guide,4.0,305.5,5.0,1160.9,2024-09-27,Vancouver,Canada,PayPal,Delivered,1.0
+ORD00065,Kavya Garcia,,Home & Kitchen,LED Lamp,5.0,166.73,5.0,791.97,2023-05-16,Rio de Janeiro,Brazil,Cash on Delivery,Returned,3.0
+ORD00066,Sara Martinez,sara.martinez303@example.com,Beauty,Lipstick Set,8.0,481.63,5.0,3660.39,2024-11-23,Kyoto,Japan,Credit Card,Cancelled,
+ORD00067,Sophia Reddy,sophia.reddy689@example.com,Beauty,Lipstick Set,6.0,58.63,0.0,351.78,2024-09-26,Rio de Janeiro,Brazil,Cash on Delivery,Shipped,5.0
+ORD00068,Isabella Williams,isabella.williams120@example.com,Clothing,Cotton T-Shirt,5.0,497.98,5.0,2365.41,2024-07-04,Leeds,UK,Net Banking,Processing,5.0
+ORD00069,Emma Muller,emma.muller159@example.com,Books,Fiction Novel,10.0,207.02,0.0,2070.2,2024-01-15,Frankfurt,Germany,Net Banking,Shipped,2.0
+ORD00070,Li Wang,li.wang661@example.com,Home & Kitchen,Non-stick Pan,4.0,484.26,25.0,1452.78,2023-04-04,Berlin,Germany,Credit Card,Processing,3.0
+ORD00071,Mei Muller,mei.muller850@example.com,Sports,Dumbbell Set,4.0,167.64,0.0,670.56,2023-10-11,Manchester,UK,Cash on Delivery,Processing,2.0
+ORD00072,Li Sharma,li.sharma367@example.com,Clothing,Rain Jacket,3.0,136.36,20.0,327.26,2024-06-22,New York,USA,Net Banking,Cancelled,5.0
+ORD00073,Liam Reddy,liam.reddy227@example.com,Sports,Yoga Mat,9.0,154.31,0.0,1388.79,2023-03-04,Nice,France,Net Banking,Delivered,5.0
+ORD00074,Aditya Kumar,aditya.kumar152@example.com,Electronics,USB-C Cable,10.0,276.44,10.0,2487.96,2024-04-09,Brasilia,Brazil,Net Banking,Delivered,2.0
+ORD00075,Lucas Rossi,lucas.rossi221@example.com,Books,History Book,7.0,172.77,20.0,967.51,2023-04-08,Perth,Australia,UPI,Processing,3.0
+ORD00076,Li Martinez,li.martinez852@example.com,Electronics,Bluetooth Speaker,6.0,406.83,15.0,2074.83,2024-11-17,Houston,USA,UPI,Cancelled,1.0
+ORD00077,Kavya Dubois,kavya.dubois107@example.com,Sports,Cycling Helmet,8.0,116.0,15.0,788.8,2023-04-28,Vancouver,Canada,,Cancelled,5.0
+ORD00078,Ava Rossi,,Beauty,Lipstick Set,,140.27,15.0,,2023-12-26,Delhi,India,,Shipped,4.0
+ORD00079,Aditya Singh,aditya.singh996@example.com,Electronics,Bluetooth Speaker,4.0,191.22,0.0,764.88,2024-01-14,Montreal,Canada,,Returned,1.0
+ORD00080,Rohan Gupta,rohan.gupta51@example.com,Beauty,Face Serum,7.0,245.4,10.0,1546.02,2023-08-09,Sao Paulo,Brazil,UPI,Cancelled,5.0
+ORD00081,Olivia Silva,olivia.silva47@example.com,Clothing,Wool Sweater,1.0,8.81,5.0,8.37,2023-05-21,Montreal,Canada,UPI,Delivered,
+ORD00082,Yuki Suzuki,yuki.suzuki390@example.com,Sports,Dumbbell Set,6.0,40.68,0.0,244.08,2024-03-22,Chennai,India,Credit Card,Processing,5.0
+ORD00083,John Suzuki,john.suzuki415@example.com,Electronics,Power Bank,10.0,232.75,15.0,1978.38,2023-04-01,Tokyo,Japan,Debit Card,Cancelled,5.0
+ORD00084,Aditya Tanaka,aditya.tanaka764@example.com,Home & Kitchen,Coffee Maker,3.0,42.81,5.0,122.01,2023-12-24,Melbourne,Australia,Debit Card,Delivered,3.0
+ORD00085,Priya Dubois,priya.dubois778@example.com,Beauty,Face Serum,8.0,234.66,25.0,1407.96,2024-11-28,Sharjah,UAE,PayPal,Returned,4.0
+ORD00086,Rohan Garcia,rohan.garcia453@example.com,Beauty,Lipstick Set,10.0,32.81,10.0,295.29,2024-04-17,Paris,France,Credit Card,Processing,2.0
+ORD00087,Wei Kumar,wei.kumar520@example.com,Books,History Book,1.0,227.62,5.0,216.24,2023-11-26,Abu Dhabi,UAE,Cash on Delivery,Shipped,5.0
+ORD00088,Ishaan Zhang,ishaan.zhang87@example.com,Sports,Dumbbell Set,8.0,495.54,0.0,3964.32,2024-01-08,Brisbane,Australia,Net Banking,Cancelled,5.0
+ORD00089,Vivaan Zhang,vivaan.zhang97@example.com,Sports,Football,10.0,437.27,0.0,4372.7,2023-12-25,Calgary,Canada,Debit Card,Returned,2.0
+ORD00090,Kavya Rossi,kavya.rossi811@example.com,Home & Kitchen,Coffee Maker,9.0,51.26,15.0,392.14,2023-01-19,Brisbane,Australia,Debit Card,Shipped,5.0
+ORD00091,Ananya Johnson,ananya.johnson159@example.com,Electronics,Webcam,2.0,256.31,0.0,512.62,2024-11-08,Melbourne,Australia,Cash on Delivery,Cancelled,3.0
+ORD00092,Sofia Dubois,sofia.dubois170@example.com,Beauty,Sunscreen,6.0,339.8,25.0,1529.1,2024-09-17,Calgary,Canada,Debit Card,Returned,5.0
+ORD00093,Mateo Smith,mateo.smith970@example.com,Sports,Football,5.0,390.17,20.0,1560.68,2023-06-15,Munich,Germany,,Processing,
+ORD00094,Olivia Wang,olivia.wang106@example.com,Beauty,Perfume,5.0,46.52,25.0,174.45,2024-06-09,Leeds,UK,Credit Card,Shipped,4.0
+ORD00095,Isabella Sharma,isabella.sharma406@example.com,Sports,Cricket Bat,2.0,190.58,,381.16,2023-04-12,Melbourne,Australia,Debit Card,Delivered,5.0
+ORD00096,Chen Singh,chen.singh481@example.com,Books,Children's Storybook,,44.22,0.0,,2024-07-15,Sharjah,UAE,Net Banking,Delivered,3.0
+ORD00097,Kavya Reddy,kavya.reddy430@example.com,Beauty,Perfume,2.0,419.16,0.0,838.32,2024-10-09,Brasilia,Brazil,Debit Card,Shipped,1.0
+ORD00098,Ava Wang,ava.wang427@example.com,Clothing,Baseball Cap,9.0,487.45,0.0,4387.05,2024-02-04,Paris,France,PayPal,Cancelled,4.0
+ORD00099,Yuki Sharma,yuki.sharma70@example.com,Home & Kitchen,Coffee Maker,2.0,386.89,15.0,657.71,2023-05-17,Bengaluru,India,Cash on Delivery,Processing,3.0
+ORD00100,Sofia Garcia,sofia.garcia491@example.com,Beauty,Shampoo,2.0,359.44,0.0,718.88,2023-10-28,Berlin,Germany,,Shipped,4.0
+ORD00101,Isabella Williams,isabella.williams835@example.com,Sports,Football,4.0,146.62,0.0,586.48,2024-11-02,Brisbane,Australia,Credit Card,Processing,4.0
+ORD00102,Yuki Garcia,yuki.garcia396@example.com,Home & Kitchen,Coffee Maker,8.0,186.84,10.0,1345.25,2023-03-26,Tokyo,Japan,Net Banking,Returned,3.0
+ORD00103,Sophia Williams,sophia.williams82@example.com,Home & Kitchen,LED Lamp,8.0,303.3,25.0,1819.8,2023-12-26,Paris,France,PayPal,Processing,4.0
+ORD00104,Sara Patel,sara.patel653@example.com,Books,Self-Help Guide,3.0,476.63,25.0,1072.42,2023-02-05,London,UK,Debit Card,Processing,5.0
+ORD00105,Vivaan Dubois,vivaan.dubois461@example.com,Home & Kitchen,Blender,2.0,289.09,20.0,462.54,2023-11-18,Vancouver,Canada,Credit Card,Delivered,5.0
+ORD00106,David Tanaka,david.tanaka121@example.com,Home & Kitchen,Blender,4.0,498.2,25.0,1494.6,2023-07-24,Los Angeles,USA,,Delivered,5.0
+ORD00107,Aditya Zhang,aditya.zhang727@example.com,Electronics,Webcam,3.0,357.35,0.0,1072.05,2024-01-06,Sao Paulo,Brazil,Credit Card,Shipped,3.0
+ORD00108,Mei Martinez,,Sports,Cycling Helmet,9.0,69.24,0.0,623.16,2023-11-13,Yokohama,Japan,Cash on Delivery,Cancelled,5.0
+ORD00109,Aditya Singh,aditya.singh658@example.com,Electronics,Earbuds,9.0,175.53,0.0,1579.77,2023-05-13,Tokyo,Japan,,Delivered,4.0
+ORD00110,Priya Gupta,priya.gupta727@example.com,Clothing,Running Shoes,9.0,447.99,10.0,3628.72,2023-07-21,Rio de Janeiro,Brazil,Debit Card,Processing,2.0
+ORD00111,David Gupta,david.gupta595@example.com,Clothing,Denim Jeans,10.0,172.12,0.0,1721.2,2023-01-30,New York,USA,PayPal,Returned,3.0
+ORD00112,Haruto Muller,haruto.muller655@example.com,Electronics,Earbuds,9.0,148.39,25.0,1001.63,2023-09-08,Kyoto,Japan,Net Banking,Delivered,3.0
+ORD00113,Michael Suzuki,michael.suzuki209@example.com,Home & Kitchen,Storage Jars,6.0,368.43,20.0,1768.46,2023-05-14,Sydney,Australia,UPI,Shipped,4.0
+ORD00114,Michael Johnson,michael.johnson52@example.com,Home & Kitchen,Cutlery Set,7.0,127.89,0.0,895.23,2023-12-02,Sharjah,UAE,UPI,Shipped,5.0
+ORD00115,David Garcia,david.garcia316@example.com,Books,Fiction Novel,7.0,255.2,5.0,1697.08,2024-08-20,Sydney,Australia,Credit Card,Processing,5.0
+ORD00116,Kavya Rossi,,Electronics,Smartwatch,5.0,365.12,15.0,1551.76,2023-02-16,Tokyo,Japan,Cash on Delivery,Returned,5.0
+ORD00117,Kavya Kumar,kavya.kumar462@example.com,Sports,Cricket Bat,10.0,341.8,0.0,3418.0,2024-02-08,Brisbane,Australia,Cash on Delivery,Processing,3.0
+ORD00118,Ava Silva,ava.silva42@example.com,Electronics,Wireless Mouse,6.0,402.96,0.0,2417.76,2024-09-12,Sao Paulo,Brazil,UPI,Returned,4.0
+ORD00119,Ava Williams,ava.williams520@example.com,Sports,Cycling Helmet,10.0,153.4,15.0,1303.9,2023-12-06,Houston,USA,Cash on Delivery,Processing,1.0
+ORD00120,Ava Martinez,ava.martinez672@example.com,Sports,Cycling Helmet,1.0,293.84,20.0,235.07,2023-06-01,Berlin,Germany,Cash on Delivery,Delivered,5.0
+ORD00121,James Suzuki,james.suzuki708@example.com,Clothing,Wool Sweater,10.0,460.66,0.0,4606.6,2023-05-22,Sao Paulo,Brazil,Cash on Delivery,Processing,5.0
+ORD00122,David Tanaka,david.tanaka178@example.com,Books,Children's Storybook,6.0,339.55,10.0,1833.57,2024-09-16,Lyon,France,Debit Card,Processing,3.0
+ORD00123,Kavya Williams,kavya.williams707@example.com,Beauty,Sunscreen,6.0,282.44,10.0,1525.18,2023-10-22,San Francisco,USA,PayPal,Returned,4.0
+ORD00124,Sofia Wang,sofia.wang824@example.com,Clothing,Running Shoes,2.0,176.45,10.0,317.61,2024-05-05,Munich,Germany,,Returned,5.0
+ORD00125,Chen Brown,chen.brown631@example.com,Beauty,Perfume,1.0,336.57,5.0,319.74,2023-02-23,Houston,USA,UPI,Cancelled,3.0
+ORD00126,Aarav Rossi,aarav.rossi162@example.com,Books,History Book,4.0,379.18,10.0,1365.05,2024-10-23,Mumbai,India,PayPal,Returned,1.0
+ORD00127,Isabella Gupta,isabella.gupta858@example.com,Clothing,Cotton T-Shirt,7.0,395.04,10.0,2488.75,2023-02-08,Bengaluru,India,Cash on Delivery,Returned,4.0
+ORD00128,Kavya Garcia,kavya.garcia557@example.com,Sports,Football,3.0,426.27,5.0,1214.87,2023-04-26,Melbourne,Australia,PayPal,Cancelled,3.0
+ORD00129,Aarav Zhang,aarav.zhang582@example.com,Beauty,Shampoo,7.0,414.36,0.0,2900.52,2024-02-15,Los Angeles,USA,Debit Card,Cancelled,3.0
+ORD00130,Aarav Brown,aarav.brown458@example.com,Home & Kitchen,Blender,10.0,10.66,5.0,101.27,2023-03-05,Houston,USA,UPI,Shipped,5.0
+ORD00131,Isabella Williams,isabella.williams655@example.com,Home & Kitchen,Blender,4.0,478.89,25.0,1436.67,2024-09-12,Perth,Australia,PayPal,Returned,5.0
+ORD00132,Mei Smith,mei.smith697@example.com,Sports,Yoga Mat,9.0,353.36,0.0,3180.24,2023-03-05,Brasilia,Brazil,Debit Card,Returned,3.0
+ORD00133,James Silva,james.silva697@example.com,Clothing,Baseball Cap,2.0,449.95,0.0,899.9,2024-04-09,Leeds,UK,Net Banking,Returned,
+ORD00134,Michael Williams,michael.williams406@example.com,Home & Kitchen,Non-stick Pan,10.0,41.15,0.0,411.5,2024-07-08,Mumbai,India,Net Banking,Delivered,3.0
+ORD00135,Haruto Singh,haruto.singh747@example.com,Beauty,Sunscreen,7.0,227.03,20.0,1271.37,2024-01-20,San Francisco,USA,Debit Card,Processing,5.0
+ORD00136,John Silva,john.silva229@example.com,Electronics,Wireless Mouse,8.0,338.38,20.0,2165.63,2023-08-24,Frankfurt,Germany,UPI,Shipped,2.0
+ORD00137,Vivaan Suzuki,vivaan.suzuki959@example.com,Electronics,Laptop Stand,2.0,299.0,0.0,598.0,2023-09-08,Chennai,India,Net Banking,Shipped,1.0
+ORD00138,Rohan Silva,rohan.silva240@example.com,Beauty,Perfume,10.0,387.41,5.0,3680.39,2023-11-06,Manchester,UK,Net Banking,Processing,5.0
+ORD00139,Liam Gupta,liam.gupta438@example.com,Sports,Football,6.0,471.09,15.0,2402.56,2024-03-02,Osaka,Japan,UPI,Cancelled,5.0
+ORD00140,Olivia Johnson,olivia.johnson308@example.com,Beauty,Shampoo,1.0,283.38,0.0,283.38,2024-02-02,Hamburg,Germany,Debit Card,Processing,5.0
+ORD00141,Lucas Wang,lucas.wang742@example.com,Clothing,Cotton T-Shirt,10.0,303.45,5.0,2882.78,2024-08-24,Sao Paulo,Brazil,Net Banking,Shipped,4.0
+ORD00142,Kavya Sharma,kavya.sharma195@example.com,Beauty,Face Serum,8.0,457.65,5.0,3478.14,2024-02-11,Hamburg,Germany,,Processing,5.0
+ORD00143,Wei Wang,wei.wang369@example.com,Sports,Football,8.0,382.01,5.0,2903.28,2024-01-15,Perth,Australia,Credit Card,Returned,3.0
+ORD00144,Aarav Brown,aarav.brown599@example.com,Sports,Football,4.0,168.28,5.0,639.46,2024-05-26,Brasilia,Brazil,PayPal,Processing,5.0
+ORD00145,Yuki Martinez,yuki.martinez751@example.com,Home & Kitchen,Coffee Maker,9.0,246.72,0.0,2220.48,2024-06-20,Mumbai,India,,Delivered,4.0
+ORD00146,Rohan Johnson,rohan.johnson155@example.com,Electronics,Laptop Stand,6.0,34.92,25.0,157.14,2024-11-06,Paris,France,Credit Card,Returned,1.0
+ORD00147,Aarav Silva,aarav.silva549@example.com,Home & Kitchen,Non-stick Pan,7.0,404.05,0.0,2828.35,2023-04-09,Sao Paulo,Brazil,Debit Card,Shipped,4.0
+ORD00148,Sofia Wang,sofia.wang407@example.com,Electronics,Power Bank,8.0,284.68,5.0,2163.57,2023-11-04,New York,USA,Credit Card,Cancelled,5.0
+ORD00149,Olivia Patel,olivia.patel720@example.com,Clothing,Cotton T-Shirt,7.0,324.23,0.0,2269.61,2024-06-24,Delhi,India,Debit Card,Returned,1.0
+ORD00150,Isabella Kumar,isabella.kumar288@example.com,Sports,Cycling Helmet,3.0,464.74,5.0,1324.51,2024-08-24,Leeds,UK,Credit Card,Processing,3.0
+ORD00151,Liam Tanaka,liam.tanaka554@example.com,Home & Kitchen,Cutlery Set,3.0,396.3,0.0,1188.9,2024-05-27,Sydney,Australia,Credit Card,Cancelled,2.0
+ORD00152,James Dubois,james.dubois978@example.com,Sports,Football,6.0,19.66,25.0,88.47,2024-05-17,Hamburg,Germany,Cash on Delivery,Cancelled,5.0
+ORD00153,Li Tanaka,li.tanaka634@example.com,Home & Kitchen,Coffee Maker,2.0,137.65,0.0,275.3,2024-02-03,Brisbane,Australia,Credit Card,Delivered,
+ORD00154,Kavya Garcia,kavya.garcia277@example.com,Electronics,USB-C Cable,7.0,227.18,20.0,1272.21,2023-04-16,Mumbai,India,UPI,Returned,5.0
+ORD00155,Mei Zhang,mei.zhang13@example.com,Home & Kitchen,Cutlery Set,2.0,363.8,5.0,691.22,2024-08-08,Sao Paulo,Brazil,PayPal,Cancelled,4.0
+ORD00156,Kavya Brown,kavya.brown65@example.com,Clothing,Wool Sweater,5.0,244.69,10.0,1101.11,2023-09-10,Lyon,France,Net Banking,Delivered,1.0
+ORD00157,John Zhang,john.zhang390@example.com,Home & Kitchen,Cutlery Set,10.0,72.38,5.0,687.61,2024-05-05,Melbourne,Australia,Net Banking,Processing,5.0
+ORD00158,Liam Johnson,liam.johnson288@example.com,Books,Self-Help Guide,10.0,103.9,0.0,1039.0,2024-11-29,Sao Paulo,Brazil,PayPal,Cancelled,3.0
+ORD00159,Michael Williams,michael.williams71@example.com,Books,History Book,5.0,124.8,20.0,499.2,2024-01-22,Houston,USA,Cash on Delivery,Cancelled,5.0
+ORD00160,David Suzuki,david.suzuki810@example.com,Home & Kitchen,LED Lamp,9.0,298.94,0.0,2690.46,2023-09-12,Melbourne,Australia,PayPal,Returned,
+ORD00161,Wei Tanaka,wei.tanaka340@example.com,Books,Fiction Novel,,133.08,5.0,,2024-04-01,Perth,Australia,Net Banking,Returned,3.0
+ORD00162,Mary Sharma,mary.sharma303@example.com,Books,Fiction Novel,3.0,177.42,5.0,505.65,2024-06-17,Marseille,France,Net Banking,Delivered,5.0
+ORD00163,James Kumar,james.kumar830@example.com,Beauty,Face Serum,,174.82,0.0,,2023-09-07,Sao Paulo,Brazil,Cash on Delivery,Shipped,4.0
+ORD00164,Michael Johnson,michael.johnson645@example.com,Clothing,Denim Jeans,7.0,200.81,5.0,1335.39,2024-04-05,Abu Dhabi,UAE,Net Banking,Delivered,3.0
+ORD00165,Sara Kumar,sara.kumar819@example.com,Sports,Dumbbell Set,4.0,231.49,25.0,694.47,2024-06-24,Perth,Australia,Cash on Delivery,Cancelled,4.0
+ORD00166,Mary Garcia,mary.garcia834@example.com,Beauty,Lipstick Set,10.0,46.95,0.0,469.5,2023-09-02,Toronto,Canada,Debit Card,Processing,5.0
+ORD00167,John Suzuki,john.suzuki589@example.com,Books,History Book,9.0,348.25,0.0,3134.25,2024-07-22,Leeds,UK,UPI,Shipped,5.0
+ORD00168,Ava Patel,ava.patel975@example.com,Electronics,Earbuds,7.0,482.1,25.0,2531.03,2024-02-23,Nice,France,PayPal,Cancelled,2.0
+ORD00169,Liam Sharma,liam.sharma226@example.com,Home & Kitchen,Non-stick Pan,9.0,147.89,25.0,998.26,2024-07-16,Sao Paulo,Brazil,Cash on Delivery,Delivered,5.0
+ORD00170,Sofia Wang,sofia.wang775@example.com,Electronics,Earbuds,7.0,55.7,5.0,370.41,2023-11-01,Chennai,India,UPI,Processing,2.0
+ORD00171,Michael Reddy,michael.reddy243@example.com,Clothing,Baseball Cap,6.0,431.22,20.0,2069.86,2023-06-19,Dubai,UAE,,Shipped,1.0
+ORD00172,Liam Wang,liam.wang612@example.com,Sports,Dumbbell Set,5.0,148.22,0.0,741.1,2023-05-19,Tokyo,Japan,UPI,Shipped,3.0
+ORD00173,Diya Singh,diya.singh849@example.com,Clothing,Baseball Cap,3.0,290.83,20.0,697.99,2024-01-20,Paris,France,PayPal,Delivered,4.0
+ORD00174,Chen Wang,chen.wang500@example.com,Home & Kitchen,Storage Jars,,388.2,25.0,,2024-10-12,Sydney,Australia,,Returned,4.0
+ORD00175,Sofia Smith,sofia.smith331@example.com,Home & Kitchen,Blender,3.0,285.24,15.0,727.36,2024-11-29,Mumbai,India,Credit Card,Cancelled,
+ORD00176,Isabella Gupta,isabella.gupta1@example.com,Books,Cookbook,3.0,441.66,10.0,1192.48,2023-04-06,Brisbane,Australia,Credit Card,Processing,3.0
+ORD00177,Vivaan Tanaka,vivaan.tanaka744@example.com,Beauty,Shampoo,2.0,353.33,,706.66,2024-05-03,Los Angeles,USA,Cash on Delivery,Shipped,5.0
+ORD00178,Aarav Sharma,aarav.sharma837@example.com,Electronics,Smartwatch,8.0,40.06,0.0,320.48,2023-04-16,Brisbane,Australia,UPI,Shipped,3.0
+ORD00179,Wei Singh,wei.singh577@example.com,Electronics,USB-C Cable,4.0,315.9,20.0,1010.88,2024-09-22,Lyon,France,Credit Card,Delivered,2.0
+ORD00180,Liam Tanaka,liam.tanaka440@example.com,Home & Kitchen,Coffee Maker,2.0,127.84,10.0,230.11,2023-01-28,Vancouver,Canada,Cash on Delivery,Returned,4.0
+ORD00181,Kavya Patel,kavya.patel813@example.com,Clothing,Wool Sweater,4.0,252.29,0.0,1009.16,2024-01-05,Melbourne,Australia,Net Banking,Returned,5.0
+ORD00182,Li Gupta,li.gupta978@example.com,Electronics,Wireless Mouse,1.0,134.78,,134.78,2023-03-03,Kyoto,Japan,PayPal,Returned,4.0
+ORD00183,Chen Tanaka,chen.tanaka550@example.com,Sports,Cycling Helmet,2.0,158.4,5.0,300.96,2023-06-09,Rio de Janeiro,Brazil,Net Banking,Returned,2.0
+ORD00184,Kavya Suzuki,kavya.suzuki867@example.com,Clothing,Cotton T-Shirt,7.0,62.41,0.0,436.87,2023-11-13,London,UK,Credit Card,Shipped,3.0
+ORD00185,Olivia Wang,olivia.wang802@example.com,Beauty,Lipstick Set,3.0,376.14,0.0,1128.42,2023-01-31,Perth,Australia,UPI,Returned,5.0
+ORD00186,Wei Kumar,wei.kumar524@example.com,Home & Kitchen,Non-stick Pan,10.0,87.61,0.0,876.1,2024-08-10,Los Angeles,USA,PayPal,Returned,
+ORD00187,Lucas Sharma,lucas.sharma484@example.com,Home & Kitchen,Cutlery Set,3.0,465.92,20.0,1118.21,2023-08-18,Melbourne,Australia,Net Banking,Processing,2.0
+ORD00188,Liam Wang,liam.wang690@example.com,Electronics,USB-C Cable,9.0,490.8,0.0,4417.2,2024-04-21,Montreal,Canada,UPI,Delivered,1.0
+ORD00189,Mary Smith,mary.smith804@example.com,Home & Kitchen,LED Lamp,8.0,187.3,5.0,1423.48,2024-07-13,Munich,Germany,Credit Card,Cancelled,
+ORD00190,Sophia Wang,sophia.wang711@example.com,Electronics,Power Bank,,330.37,10.0,,2023-04-17,Munich,Germany,Net Banking,Cancelled,3.0
+ORD00191,Chen Brown,chen.brown944@example.com,Clothing,Rain Jacket,6.0,231.94,0.0,1391.64,2024-06-01,Leeds,UK,Credit Card,Returned,4.0
+ORD00192,Li Singh,li.singh268@example.com,Home & Kitchen,Cutlery Set,6.0,162.44,0.0,974.64,2023-07-27,London,UK,Debit Card,Delivered,5.0
+ORD00193,James Suzuki,james.suzuki367@example.com,Clothing,Wool Sweater,5.0,426.98,10.0,1921.41,2024-09-09,Delhi,India,,Processing,3.0
+ORD00194,Mary Tanaka,mary.tanaka694@example.com,Home & Kitchen,Blender,3.0,20.39,25.0,45.88,2024-07-23,Sao Paulo,Brazil,Credit Card,Cancelled,3.0
+ORD00195,Ishaan Sharma,ishaan.sharma800@example.com,Clothing,Denim Jeans,7.0,189.26,0.0,1324.82,2024-08-19,Abu Dhabi,UAE,,Delivered,
+ORD00196,Aditya Smith,aditya.smith455@example.com,Clothing,Cotton T-Shirt,6.0,65.65,0.0,393.9,2023-06-22,Abu Dhabi,UAE,,Cancelled,4.0
+ORD00197,Li Suzuki,li.suzuki220@example.com,Clothing,Running Shoes,3.0,22.15,5.0,63.13,2024-10-24,Calgary,Canada,Net Banking,Returned,2.0
+ORD00198,Sara Tanaka,sara.tanaka205@example.com,Beauty,Perfume,9.0,398.45,15.0,3048.14,2024-05-06,Rio de Janeiro,Brazil,UPI,Returned,4.0
+ORD00199,Sara Gupta,,Sports,Dumbbell Set,,406.29,25.0,,2024-06-26,Melbourne,Australia,Debit Card,Delivered,3.0
+ORD00200,Sara Rossi,sara.rossi940@example.com,Beauty,Face Serum,4.0,289.97,20.0,927.9,2023-12-30,Manchester,UK,Debit Card,Returned,4.0
+ORD00201,Isabella Muller,,Beauty,Lipstick Set,10.0,75.34,25.0,565.05,2024-07-09,Vancouver,Canada,Net Banking,Delivered,3.0
+ORD00202,Ava Johnson,,Books,Fiction Novel,10.0,104.72,0.0,1047.2,2023-11-28,Mumbai,India,Debit Card,Returned,3.0
+ORD00203,Haruto Reddy,haruto.reddy882@example.com,Home & Kitchen,Non-stick Pan,7.0,295.08,15.0,1755.73,2023-05-20,Leeds,UK,,Cancelled,3.0
+ORD00204,Chen Rossi,chen.rossi952@example.com,Sports,Cricket Bat,10.0,408.15,10.0,3673.35,2023-05-11,London,UK,PayPal,Returned,5.0
+ORD00205,Vivaan Gupta,vivaan.gupta944@example.com,Sports,Dumbbell Set,2.0,468.66,0.0,937.32,2023-09-01,Brisbane,Australia,Debit Card,Delivered,4.0
+ORD00206,Michael Sharma,michael.sharma256@example.com,Beauty,Face Serum,2.0,361.6,,723.2,2024-03-24,Osaka,Japan,Net Banking,Cancelled,4.0
+ORD00207,Sophia Tanaka,sophia.tanaka491@example.com,Sports,Dumbbell Set,2.0,400.6,,801.2,2023-01-21,Brisbane,Australia,Credit Card,Delivered,4.0
+ORD00208,Priya Kumar,priya.kumar920@example.com,Electronics,Power Bank,10.0,447.15,20.0,3577.2,2024-10-31,Leeds,UK,Debit Card,Delivered,3.0
+ORD00209,Ananya Suzuki,ananya.suzuki740@example.com,Beauty,Perfume,5.0,152.21,20.0,608.84,2024-08-08,Rio de Janeiro,Brazil,Debit Card,Delivered,4.0
+ORD00210,Aditya Williams,aditya.williams641@example.com,Sports,Football,1.0,107.44,0.0,107.44,2024-04-29,Chicago,USA,,Cancelled,4.0
+ORD00211,Aditya Rossi,aditya.rossi380@example.com,Books,Self-Help Guide,1.0,135.33,5.0,128.56,2023-10-03,Dubai,UAE,Debit Card,Delivered,4.0
+ORD00212,Mei Rossi,mei.rossi775@example.com,Sports,Dumbbell Set,7.0,410.11,25.0,2153.08,2024-08-09,Frankfurt,Germany,UPI,Delivered,1.0
+ORD00213,David Muller,david.muller820@example.com,Sports,Cycling Helmet,8.0,90.58,5.0,688.41,2023-07-17,London,UK,Net Banking,Delivered,4.0
+ORD00214,Ananya Singh,ananya.singh265@example.com,Home & Kitchen,LED Lamp,2.0,48.08,15.0,81.74,2023-10-10,Rio de Janeiro,Brazil,,Delivered,5.0
+ORD00215,Liam Silva,liam.silva116@example.com,Books,Cookbook,10.0,293.43,0.0,2934.3,2023-04-19,Dubai,UAE,,Processing,4.0
+ORD00216,Mateo Suzuki,mateo.suzuki671@example.com,Books,Children's Storybook,1.0,90.24,20.0,72.19,2023-02-09,Kyoto,Japan,PayPal,Shipped,
+ORD00217,Olivia Brown,olivia.brown21@example.com,Home & Kitchen,Blender,8.0,429.83,5.0,3266.71,2023-05-18,Calgary,Canada,,Processing,4.0
+ORD00218,Ava Kumar,ava.kumar217@example.com,Books,History Book,6.0,411.4,0.0,2468.4,2023-03-09,Calgary,Canada,Debit Card,Returned,1.0
+ORD00219,Priya Smith,priya.smith206@example.com,Electronics,Laptop Stand,1.0,459.43,10.0,413.49,2024-01-13,Nice,France,PayPal,Delivered,3.0
+ORD00220,Mary Martinez,mary.martinez182@example.com,Books,Children's Storybook,6.0,85.94,0.0,515.64,2023-10-19,Chennai,India,Credit Card,Shipped,3.0
+ORD00221,Lucas Johnson,lucas.johnson694@example.com,Clothing,Running Shoes,9.0,14.93,0.0,134.37,2024-04-30,Manchester,UK,Cash on Delivery,Delivered,5.0
+ORD00222,Mei Williams,mei.williams727@example.com,Beauty,Lipstick Set,7.0,426.54,5.0,2836.49,2024-04-22,Calgary,Canada,Cash on Delivery,Delivered,
+ORD00223,Li Wang,li.wang609@example.com,Sports,Cricket Bat,2.0,243.46,10.0,438.23,2024-10-17,Brisbane,Australia,UPI,Processing,5.0
+ORD00224,Haruto Johnson,haruto.johnson825@example.com,Sports,Football,3.0,362.04,10.0,977.51,2023-09-23,Yokohama,Japan,Net Banking,Delivered,5.0
+ORD00225,Sofia Smith,sofia.smith731@example.com,Clothing,Baseball Cap,8.0,453.73,10.0,3266.86,2023-06-24,Sao Paulo,Brazil,UPI,Delivered,4.0
+ORD00226,Yuki Rossi,yuki.rossi188@example.com,Beauty,Lipstick Set,4.0,180.87,10.0,651.13,2024-03-06,Brisbane,Australia,UPI,Returned,2.0
+ORD00227,Olivia Patel,olivia.patel598@example.com,Sports,Cycling Helmet,4.0,252.74,20.0,808.77,2024-06-26,Calgary,Canada,Credit Card,Shipped,3.0
+ORD00228,James Suzuki,james.suzuki915@example.com,Books,Cookbook,3.0,390.58,0.0,1171.74,2023-11-17,Mumbai,India,Net Banking,Processing,3.0
+ORD00229,Liam Gupta,liam.gupta782@example.com,Electronics,USB-C Cable,7.0,204.68,20.0,1146.21,2023-01-05,Hyderabad,India,Debit Card,Processing,4.0
+ORD00230,Haruto Silva,haruto.silva693@example.com,Electronics,Laptop Stand,6.0,159.49,10.0,861.25,2023-06-21,New York,USA,UPI,Processing,5.0
+ORD00231,Ava Silva,ava.silva910@example.com,Beauty,Shampoo,8.0,182.83,20.0,1170.11,2023-01-20,Munich,Germany,PayPal,Shipped,1.0
+ORD00232,Liam Silva,liam.silva376@example.com,Beauty,Face Serum,5.0,386.77,0.0,1933.85,2024-11-08,New York,USA,Credit Card,Delivered,4.0
+ORD00233,Ishaan Rossi,ishaan.rossi719@example.com,Clothing,Denim Jeans,1.0,154.05,10.0,138.65,2024-09-29,Sharjah,UAE,Debit Card,Cancelled,2.0
+ORD00234,David Dubois,david.dubois117@example.com,Electronics,Earbuds,4.0,390.09,5.0,1482.34,2024-01-02,Kyoto,Japan,Debit Card,Delivered,3.0
+ORD00235,Chen Martinez,chen.martinez3@example.com,Electronics,Bluetooth Speaker,10.0,336.17,0.0,3361.7,2024-06-07,New York,USA,UPI,Shipped,4.0
+ORD00236,Sara Garcia,sara.garcia833@example.com,Clothing,Cotton T-Shirt,6.0,401.79,0.0,2410.74,2023-04-08,Mumbai,India,,Shipped,3.0
+ORD00237,James Wang,james.wang979@example.com,Sports,Cricket Bat,2.0,189.45,0.0,378.9,2024-02-15,Yokohama,Japan,UPI,Cancelled,5.0
+ORD00238,Mei Suzuki,mei.suzuki817@example.com,Clothing,Cotton T-Shirt,1.0,490.88,0.0,490.88,2024-03-02,Abu Dhabi,UAE,,Returned,3.0
+ORD00239,Ava Tanaka,ava.tanaka627@example.com,Electronics,USB-C Cable,8.0,60.9,0.0,487.2,2023-03-06,Montreal,Canada,Credit Card,Returned,5.0
+ORD00240,Yuki Muller,yuki.muller979@example.com,Beauty,Lipstick Set,10.0,52.14,5.0,495.33,2024-05-08,Perth,Australia,Debit Card,Returned,5.0
+ORD00241,Vivaan Sharma,vivaan.sharma161@example.com,Sports,Football,3.0,42.06,5.0,119.87,2023-12-05,Toronto,Canada,Cash on Delivery,Shipped,4.0
+ORD00242,John Johnson,john.johnson455@example.com,Sports,Football,8.0,226.3,25.0,1357.8,2024-10-31,Mumbai,India,Net Banking,Cancelled,
+ORD00243,Sophia Sharma,sophia.sharma811@example.com,Sports,Cycling Helmet,9.0,283.35,25.0,1912.61,2023-12-16,Sydney,Australia,,Shipped,4.0
+ORD00244,Sophia Dubois,sophia.dubois734@example.com,Beauty,Lipstick Set,2.0,53.23,0.0,106.46,2023-12-16,Brisbane,Australia,Cash on Delivery,Returned,2.0
+ORD00245,Vivaan Gupta,vivaan.gupta842@example.com,Beauty,Sunscreen,10.0,101.98,20.0,815.84,2023-08-09,Lyon,France,PayPal,Processing,4.0
+ORD00246,Vivaan Muller,vivaan.muller914@example.com,Books,History Book,9.0,71.64,0.0,644.76,2024-07-20,Yokohama,Japan,Cash on Delivery,Shipped,3.0
+ORD00247,Yuki Singh,yuki.singh674@example.com,Sports,Cycling Helmet,9.0,441.29,5.0,3773.03,2023-10-08,Kyoto,Japan,UPI,Cancelled,3.0
+ORD00248,Emma Dubois,emma.dubois767@example.com,Sports,Cricket Bat,9.0,431.05,5.0,3685.48,2023-07-25,Hamburg,Germany,PayPal,Processing,3.0
+ORD00249,Chen Gupta,chen.gupta711@example.com,Beauty,Lipstick Set,6.0,283.33,20.0,1359.98,2024-11-21,Rio de Janeiro,Brazil,,Cancelled,5.0
+ORD00250,Ishaan Sharma,ishaan.sharma55@example.com,Beauty,Face Serum,3.0,491.85,0.0,1475.55,2023-03-05,Vancouver,Canada,,Returned,
+ORD00251,Sofia Garcia,sofia.garcia889@example.com,Beauty,Perfume,9.0,197.5,10.0,1599.75,2024-11-11,Chennai,India,Net Banking,Cancelled,4.0
+ORD00252,Sophia Patel,,Home & Kitchen,Coffee Maker,8.0,415.84,15.0,2827.71,2024-08-25,Brasilia,Brazil,Cash on Delivery,Shipped,3.0
+ORD00253,Kavya Garcia,kavya.garcia700@example.com,Electronics,USB-C Cable,9.0,64.08,,576.72,2023-10-13,Rio de Janeiro,Brazil,Debit Card,Shipped,4.0
+ORD00254,Aarav Zhang,aarav.zhang960@example.com,Clothing,Cotton T-Shirt,6.0,300.46,10.0,1622.48,2024-05-17,Sharjah,UAE,UPI,Delivered,4.0
+ORD00255,David Johnson,david.johnson534@example.com,Electronics,USB-C Cable,9.0,204.69,5.0,1750.1,2024-11-10,Brisbane,Australia,UPI,Processing,5.0
+ORD00256,David Martinez,david.martinez844@example.com,Beauty,Face Serum,6.0,225.61,5.0,1285.98,2023-02-10,Perth,Australia,,Delivered,5.0
+ORD00257,Yuki Williams,,Sports,Cricket Bat,9.0,225.55,,2029.95,2024-10-29,Hamburg,Germany,Cash on Delivery,Delivered,3.0
+ORD00258,Haruto Rossi,haruto.rossi642@example.com,Electronics,Laptop Stand,4.0,433.15,0.0,1732.6,2023-07-30,Brasilia,Brazil,PayPal,Cancelled,2.0
+ORD00259,Yuki Singh,,Beauty,Lipstick Set,2.0,31.86,0.0,63.72,2024-08-11,Hamburg,Germany,Net Banking,Cancelled,4.0
+ORD00260,Emma Zhang,,Beauty,Face Serum,10.0,36.3,0.0,363.0,2023-03-16,Sydney,Australia,UPI,Processing,4.0
+ORD00261,Haruto Garcia,haruto.garcia842@example.com,Beauty,Face Serum,9.0,113.83,10.0,922.02,2024-10-11,Birmingham,UK,PayPal,Processing,1.0
+ORD00262,Sophia Rossi,sophia.rossi43@example.com,Electronics,Smartwatch,2.0,155.82,15.0,264.89,2023-08-05,Osaka,Japan,Debit Card,Shipped,4.0
+ORD00263,Ananya Reddy,ananya.reddy819@example.com,Sports,Yoga Mat,9.0,233.33,10.0,1889.97,2024-11-18,Chicago,USA,Credit Card,Shipped,5.0
+ORD00264,James Wang,james.wang672@example.com,Clothing,Cotton T-Shirt,2.0,450.56,25.0,675.84,2023-12-03,Sharjah,UAE,UPI,Returned,5.0
+ORD00265,Mary Zhang,mary.zhang173@example.com,Electronics,Power Bank,4.0,357.54,10.0,1287.14,2024-01-04,Birmingham,UK,Net Banking,Cancelled,4.0
+ORD00266,Olivia Rossi,olivia.rossi662@example.com,Sports,Yoga Mat,3.0,446.19,0.0,1338.57,2023-03-19,Hyderabad,India,PayPal,Delivered,5.0
+ORD00267,John Muller,john.muller38@example.com,Sports,Cricket Bat,9.0,238.69,15.0,1825.98,2024-02-06,Hamburg,Germany,Debit Card,Cancelled,2.0
+ORD00268,John Wang,john.wang679@example.com,Clothing,Rain Jacket,9.0,74.48,0.0,670.32,2024-05-10,Sydney,Australia,Debit Card,Cancelled,4.0
+ORD00269,Mary Johnson,mary.johnson212@example.com,Sports,Cricket Bat,8.0,441.37,,3530.96,2024-10-26,Sydney,Australia,PayPal,Returned,4.0
+ORD00270,Sofia Brown,sofia.brown584@example.com,Clothing,Wool Sweater,6.0,295.9,0.0,1775.4,2024-06-13,Calgary,Canada,Debit Card,Returned,4.0
+ORD00271,Olivia Martinez,olivia.martinez7@example.com,Sports,Dumbbell Set,4.0,43.16,5.0,164.01,2023-06-03,Manchester,UK,UPI,Returned,2.0
+ORD00272,Li Johnson,li.johnson339@example.com,Beauty,Face Serum,8.0,242.12,20.0,1549.57,2023-01-23,Berlin,Germany,Debit Card,Returned,3.0
+ORD00273,Wei Silva,,Sports,Dumbbell Set,5.0,461.61,20.0,1846.44,2024-09-05,Sharjah,UAE,Credit Card,Processing,3.0
+ORD00274,Michael Dubois,michael.dubois889@example.com,Books,Cookbook,7.0,302.42,0.0,2116.94,2024-09-30,Rio de Janeiro,Brazil,Debit Card,Processing,5.0
+ORD00275,Liam Kumar,liam.kumar395@example.com,Clothing,Cotton T-Shirt,,263.74,20.0,,2023-06-03,Dubai,UAE,Debit Card,Cancelled,5.0
+ORD00276,Vivaan Rossi,vivaan.rossi121@example.com,Electronics,Earbuds,10.0,271.95,,2719.5,2024-11-25,Yokohama,Japan,UPI,Delivered,4.0
+ORD00277,Diya Martinez,diya.martinez391@example.com,Home & Kitchen,Storage Jars,10.0,53.37,25.0,400.27,2023-08-27,Chicago,USA,Cash on Delivery,Returned,3.0
+ORD00278,Aarav Sharma,aarav.sharma121@example.com,Sports,Yoga Mat,4.0,345.44,15.0,1174.5,2023-04-20,Leeds,UK,PayPal,Returned,5.0
+ORD00279,Emma Muller,emma.muller283@example.com,Beauty,Sunscreen,7.0,278.29,0.0,1948.03,2024-01-15,Brasilia,Brazil,Net Banking,Processing,5.0
+ORD00280,Mary Tanaka,mary.tanaka876@example.com,Beauty,Face Serum,8.0,392.64,0.0,3141.12,2023-08-08,Rio de Janeiro,Brazil,,Processing,5.0
+ORD00281,Chen Patel,chen.patel988@example.com,Beauty,Face Serum,3.0,238.48,0.0,715.44,2023-03-07,Vancouver,Canada,UPI,Delivered,4.0
+ORD00282,Isabella Tanaka,isabella.tanaka534@example.com,Home & Kitchen,LED Lamp,1.0,473.13,25.0,354.85,2024-03-25,Delhi,India,,Returned,1.0
+ORD00283,Mei Dubois,mei.dubois716@example.com,Clothing,Rain Jacket,1.0,183.07,0.0,183.07,2023-03-30,Calgary,Canada,UPI,Cancelled,3.0
+ORD00284,David Sharma,david.sharma71@example.com,Electronics,Webcam,9.0,457.93,10.0,3709.23,2023-08-20,Dubai,UAE,Net Banking,Cancelled,4.0
+ORD00285,Priya Suzuki,priya.suzuki573@example.com,Electronics,Webcam,2.0,402.46,10.0,724.43,2024-03-29,Yokohama,Japan,,Shipped,5.0
+ORD00286,Li Garcia,li.garcia883@example.com,Electronics,Earbuds,2.0,194.42,5.0,369.4,2024-11-24,Hamburg,Germany,Net Banking,Processing,1.0
+ORD00287,Chen Brown,chen.brown96@example.com,Books,Self-Help Guide,3.0,240.89,10.0,650.4,2023-07-07,Frankfurt,Germany,PayPal,Shipped,3.0
+ORD00288,Lucas Brown,lucas.brown208@example.com,Clothing,Rain Jacket,2.0,64.34,25.0,96.51,2024-09-20,Hyderabad,India,Credit Card,Cancelled,4.0
+ORD00289,Olivia Muller,olivia.muller503@example.com,Clothing,Rain Jacket,4.0,376.33,20.0,1204.26,2024-05-04,Sao Paulo,Brazil,Cash on Delivery,Processing,3.0
+ORD00290,Michael Reddy,michael.reddy472@example.com,Home & Kitchen,LED Lamp,,338.68,0.0,,2023-11-30,Brisbane,Australia,Debit Card,Returned,4.0
+ORD00291,Olivia Dubois,olivia.dubois189@example.com,Books,History Book,6.0,185.71,25.0,835.69,2023-07-04,Dubai,UAE,Cash on Delivery,Shipped,4.0
+ORD00292,Mei Johnson,mei.johnson877@example.com,Books,Cookbook,3.0,239.13,,717.39,2024-03-07,Lyon,France,,Returned,4.0
+ORD00293,Mei Martinez,mei.martinez576@example.com,Sports,Yoga Mat,3.0,34.72,25.0,78.12,2024-10-06,Houston,USA,PayPal,Processing,4.0
+ORD00294,Sophia Rossi,sophia.rossi264@example.com,Home & Kitchen,Non-stick Pan,6.0,434.35,5.0,2475.8,2024-08-13,Sharjah,UAE,PayPal,Returned,4.0
+ORD00295,Mary Zhang,mary.zhang500@example.com,Beauty,Sunscreen,7.0,308.76,0.0,2161.32,2023-06-21,Perth,Australia,PayPal,Returned,2.0
+ORD00296,Aditya Gupta,aditya.gupta322@example.com,Home & Kitchen,LED Lamp,5.0,304.67,25.0,1142.51,2024-01-07,Sharjah,UAE,Net Banking,Cancelled,1.0
+ORD00297,Rohan Johnson,rohan.johnson964@example.com,Beauty,Face Serum,7.0,55.99,25.0,293.95,2024-07-15,Mumbai,India,,Cancelled,2.0
+ORD00298,Ishaan Brown,ishaan.brown87@example.com,Beauty,Sunscreen,4.0,370.11,0.0,1480.44,2023-05-15,Sao Paulo,Brazil,Credit Card,Delivered,4.0
+ORD00299,Lucas Martinez,lucas.martinez892@example.com,Sports,Cricket Bat,3.0,484.92,0.0,1454.76,2024-08-28,Abu Dhabi,UAE,PayPal,Returned,5.0
+ORD00300,Kavya Wang,kavya.wang233@example.com,Electronics,Earbuds,7.0,133.6,0.0,935.2,2024-06-19,Birmingham,UK,UPI,Cancelled,5.0
+ORD00301,Haruto Martinez,haruto.martinez785@example.com,Books,Self-Help Guide,1.0,276.37,20.0,221.1,2024-02-09,Munich,Germany,PayPal,Cancelled,3.0
+ORD00302,Sara Kumar,sara.kumar246@example.com,Sports,Cycling Helmet,5.0,145.92,10.0,656.64,2024-02-27,Berlin,Germany,Debit Card,Shipped,5.0
+ORD00303,Ava Garcia,ava.garcia638@example.com,Books,Cookbook,3.0,29.57,0.0,88.71,2023-04-15,Montreal,Canada,Debit Card,Cancelled,3.0
+ORD00304,Aditya Singh,,Clothing,Running Shoes,8.0,498.99,0.0,3991.92,2023-12-05,Los Angeles,USA,Credit Card,Processing,2.0
+ORD00305,Sophia Martinez,sophia.martinez918@example.com,Home & Kitchen,Cutlery Set,2.0,487.43,20.0,779.89,2024-03-29,Berlin,Germany,Debit Card,Cancelled,2.0
+ORD00306,David Smith,david.smith698@example.com,Home & Kitchen,Blender,1.0,373.64,0.0,373.64,2023-09-17,Marseille,France,Debit Card,Processing,3.0
+ORD00307,Ishaan Johnson,ishaan.johnson333@example.com,Electronics,USB-C Cable,10.0,64.23,0.0,642.3,2023-02-13,Sharjah,UAE,Net Banking,Returned,2.0
+ORD00308,Diya Gupta,diya.gupta703@example.com,Sports,Cricket Bat,1.0,34.59,0.0,34.59,2023-05-09,Lyon,France,UPI,Returned,4.0
+ORD00309,Mei Garcia,mei.garcia22@example.com,Beauty,Sunscreen,3.0,129.09,,387.27,2024-03-24,Rio de Janeiro,Brazil,Cash on Delivery,Cancelled,3.0
+ORD00310,Sophia Wang,sophia.wang480@example.com,Home & Kitchen,Storage Jars,9.0,84.37,25.0,569.5,2023-10-30,Montreal,Canada,Net Banking,Delivered,5.0
+ORD00311,John Gupta,john.gupta635@example.com,Home & Kitchen,Storage Jars,2.0,330.85,20.0,529.36,2023-07-14,Brasilia,Brazil,Net Banking,Returned,4.0
+ORD00312,James Suzuki,james.suzuki114@example.com,Electronics,Bluetooth Speaker,3.0,93.43,,280.29,2023-04-20,Lyon,France,Credit Card,Delivered,4.0
+ORD00313,Li Martinez,li.martinez719@example.com,Sports,Cricket Bat,4.0,304.95,5.0,1158.81,2024-11-02,Paris,France,Net Banking,Delivered,4.0
+ORD00314,Sofia Wang,sofia.wang60@example.com,Sports,Cricket Bat,2.0,418.06,5.0,794.31,2024-06-15,New York,USA,PayPal,Shipped,3.0
+ORD00315,Ananya Silva,ananya.silva584@example.com,Beauty,Shampoo,9.0,210.52,15.0,1610.48,2024-11-21,Nice,France,Credit Card,Shipped,5.0
+ORD00316,John Silva,john.silva162@example.com,Sports,Cycling Helmet,6.0,451.73,15.0,2303.82,2024-01-16,Yokohama,Japan,,Processing,5.0
+ORD00317,Sophia Smith,sophia.smith564@example.com,Beauty,Lipstick Set,8.0,226.51,0.0,1812.08,2023-10-19,Dubai,UAE,Cash on Delivery,Shipped,4.0
+ORD00318,Aarav Williams,aarav.williams220@example.com,Home & Kitchen,Non-stick Pan,5.0,459.96,0.0,2299.8,2023-04-07,Chennai,India,UPI,Shipped,4.0
+ORD00319,Mateo Muller,mateo.muller263@example.com,Home & Kitchen,Non-stick Pan,10.0,459.35,15.0,3904.47,2024-05-09,Leeds,UK,,Returned,2.0
+ORD00320,Ava Williams,,Sports,Football,1.0,461.33,20.0,369.06,2024-03-02,Los Angeles,USA,PayPal,Returned,4.0
+ORD00321,Vivaan Williams,vivaan.williams327@example.com,Sports,Cycling Helmet,9.0,350.4,20.0,2522.88,2024-04-01,Sharjah,UAE,Cash on Delivery,Delivered,4.0
+ORD00322,Mei Tanaka,mei.tanaka345@example.com,Electronics,Earbuds,1.0,276.34,20.0,221.07,2024-05-28,Osaka,Japan,,Shipped,3.0
+ORD00323,Olivia Tanaka,olivia.tanaka201@example.com,Sports,Cycling Helmet,9.0,126.89,20.0,913.61,2023-11-28,Dubai,UAE,Credit Card,Cancelled,4.0
+ORD00324,Ananya Zhang,ananya.zhang672@example.com,Electronics,Webcam,6.0,310.03,25.0,1395.13,2024-09-30,Leeds,UK,Credit Card,Shipped,4.0
+ORD00325,Rohan Kumar,rohan.kumar56@example.com,Clothing,Rain Jacket,5.0,11.8,0.0,59.0,2023-11-09,Nice,France,Credit Card,Processing,5.0
+ORD00326,Ananya Smith,ananya.smith769@example.com,Home & Kitchen,Storage Jars,3.0,349.06,20.0,837.74,2024-08-19,Sao Paulo,Brazil,UPI,Shipped,3.0
+ORD00327,Mei Dubois,mei.dubois477@example.com,Beauty,Face Serum,5.0,333.18,15.0,1416.02,2023-04-21,Bengaluru,India,,Cancelled,4.0
+ORD00328,David Reddy,david.reddy497@example.com,Sports,Cycling Helmet,4.0,252.82,0.0,1011.28,2023-02-10,Hamburg,Germany,UPI,Cancelled,3.0
+ORD00329,Aarav Wang,aarav.wang364@example.com,Beauty,Lipstick Set,9.0,141.56,10.0,1146.64,2024-02-01,Hyderabad,India,UPI,Shipped,4.0
+ORD00330,Li Singh,li.singh392@example.com,Sports,Cycling Helmet,4.0,211.58,20.0,677.06,2023-11-16,Abu Dhabi,UAE,Net Banking,Returned,3.0
+ORD00331,Liam Rossi,liam.rossi208@example.com,Clothing,Running Shoes,9.0,455.23,0.0,4097.07,2024-11-02,Dubai,UAE,UPI,Delivered,2.0
+ORD00332,Priya Zhang,priya.zhang150@example.com,Beauty,Face Serum,7.0,480.79,10.0,3028.98,2023-06-05,Berlin,Germany,Debit Card,Shipped,
+ORD00333,Ava Dubois,ava.dubois581@example.com,Sports,Dumbbell Set,4.0,345.25,25.0,1035.75,2023-05-18,Brasilia,Brazil,Net Banking,Processing,4.0
+ORD00334,Olivia Martinez,olivia.martinez198@example.com,Clothing,Cotton T-Shirt,1.0,463.09,5.0,439.94,2024-11-18,Munich,Germany,Credit Card,Shipped,5.0
+ORD00335,Lucas Dubois,lucas.dubois333@example.com,Books,Cookbook,1.0,305.93,15.0,260.04,2024-02-08,Sharjah,UAE,Cash on Delivery,Returned,1.0
+ORD00336,David Reddy,david.reddy847@example.com,Electronics,Laptop Stand,7.0,492.0,,3444.0,2024-02-01,Brasilia,Brazil,Credit Card,Shipped,4.0
+ORD00337,Mateo Williams,mateo.williams293@example.com,Books,Cookbook,10.0,459.92,0.0,4599.2,2024-04-19,Paris,France,PayPal,Returned,5.0
+ORD00338,Mateo Rossi,mateo.rossi424@example.com,Home & Kitchen,Cutlery Set,,229.57,5.0,,2024-04-10,Chicago,USA,UPI,Shipped,2.0
+ORD00339,Aditya Reddy,aditya.reddy650@example.com,Home & Kitchen,Non-stick Pan,7.0,364.8,0.0,2553.6,2024-01-23,Rio de Janeiro,Brazil,Credit Card,Shipped,5.0
+ORD00340,Lucas Singh,lucas.singh149@example.com,Clothing,Baseball Cap,5.0,158.21,25.0,593.29,2023-10-23,London,UK,Debit Card,Shipped,
+ORD00341,Haruto Brown,,Books,History Book,1.0,305.95,5.0,290.65,2024-08-25,Nice,France,Net Banking,Cancelled,5.0
+ORD00342,Aarav Johnson,aarav.johnson285@example.com,Sports,Cycling Helmet,4.0,29.21,15.0,99.31,2023-02-07,London,UK,PayPal,Returned,4.0
+ORD00343,James Kumar,james.kumar427@example.com,Clothing,Denim Jeans,10.0,332.16,0.0,3321.6,2024-04-11,Abu Dhabi,UAE,Credit Card,Delivered,4.0
+ORD00344,Mary Tanaka,mary.tanaka777@example.com,Books,Children's Storybook,8.0,71.6,10.0,515.52,2023-12-04,Rio de Janeiro,Brazil,Cash on Delivery,Shipped,5.0
+ORD00345,Vivaan Reddy,vivaan.reddy645@example.com,Sports,Yoga Mat,10.0,467.28,10.0,4205.52,2024-03-13,Abu Dhabi,UAE,UPI,Returned,5.0
+ORD00346,Mary Singh,mary.singh509@example.com,Sports,Football,3.0,442.41,10.0,1194.51,2023-07-18,Mumbai,India,Credit Card,Cancelled,2.0
+ORD00347,Yuki Smith,yuki.smith425@example.com,Books,Fiction Novel,9.0,403.99,5.0,3454.11,2023-10-16,Toronto,Canada,UPI,Processing,4.0
+ORD00348,Haruto Sharma,haruto.sharma342@example.com,Home & Kitchen,Cutlery Set,10.0,480.26,5.0,4562.47,2023-12-05,Perth,Australia,Net Banking,Delivered,5.0
+ORD00349,Rohan Garcia,rohan.garcia550@example.com,Home & Kitchen,Cutlery Set,7.0,464.26,10.0,2924.84,2024-08-01,Sydney,Australia,Debit Card,Returned,4.0
+ORD00350,Aditya Singh,aditya.singh32@example.com,Home & Kitchen,Cutlery Set,3.0,287.64,0.0,862.92,2023-11-12,Sydney,Australia,UPI,Cancelled,3.0
+ORD00351,Mary Garcia,mary.garcia310@example.com,Clothing,Rain Jacket,2.0,190.24,,380.48,2023-07-26,Houston,USA,Cash on Delivery,Delivered,5.0
+ORD00352,Rohan Smith,rohan.smith496@example.com,Beauty,Perfume,6.0,75.93,0.0,455.58,2023-07-30,Chennai,India,Net Banking,Returned,4.0
+ORD00353,Isabella Patel,isabella.patel609@example.com,Electronics,Power Bank,1.0,56.04,10.0,50.44,2023-01-24,Abu Dhabi,UAE,PayPal,Shipped,3.0
+ORD00354,Kavya Brown,kavya.brown792@example.com,Books,Fiction Novel,3.0,140.45,,421.35,2024-09-29,Brasilia,Brazil,Credit Card,Shipped,5.0
+ORD00355,James Brown,james.brown722@example.com,Home & Kitchen,Storage Jars,2.0,159.13,25.0,238.69,2023-02-21,London,UK,Net Banking,Delivered,1.0
+ORD00356,Aditya Suzuki,aditya.suzuki722@example.com,Sports,Cycling Helmet,8.0,310.08,5.0,2356.61,2024-11-17,Sao Paulo,Brazil,,Cancelled,2.0
+ORD00357,Sofia Garcia,sofia.garcia318@example.com,Beauty,Sunscreen,4.0,76.14,10.0,274.1,2024-01-08,Osaka,Japan,PayPal,Processing,4.0
+ORD00358,Michael Martinez,,Books,Fiction Novel,8.0,423.65,15.0,2880.82,2024-09-10,Dubai,UAE,Cash on Delivery,Delivered,2.0
+ORD00359,James Rossi,james.rossi812@example.com,Home & Kitchen,Storage Jars,10.0,209.65,0.0,2096.5,2024-05-08,Tokyo,Japan,UPI,Shipped,5.0
+ORD00360,Emma Suzuki,emma.suzuki351@example.com,Sports,Dumbbell Set,2.0,370.99,25.0,556.49,2023-04-28,Sharjah,UAE,Net Banking,Processing,5.0
+ORD00361,Priya Williams,priya.williams72@example.com,Sports,Yoga Mat,10.0,386.81,25.0,2901.07,2024-10-22,Mumbai,India,Debit Card,Shipped,1.0
+ORD00362,Haruto Singh,haruto.singh464@example.com,Sports,Cricket Bat,10.0,226.34,15.0,1923.89,2023-11-03,Sharjah,UAE,UPI,Cancelled,4.0
+ORD00363,Aditya Muller,,Sports,Football,5.0,35.89,0.0,179.45,2023-01-01,Rio de Janeiro,Brazil,Credit Card,Processing,3.0
+ORD00364,Emma Muller,emma.muller326@example.com,Beauty,Sunscreen,7.0,274.83,25.0,1442.86,2023-05-23,Frankfurt,Germany,,Processing,3.0
+ORD00365,Kavya Singh,kavya.singh74@example.com,Beauty,Face Serum,8.0,330.67,0.0,2645.36,2023-03-28,Leeds,UK,,Cancelled,5.0
+ORD00366,Isabella Suzuki,isabella.suzuki466@example.com,Sports,Football,8.0,195.43,20.0,1250.75,2024-09-11,Hyderabad,India,Net Banking,Shipped,4.0
+ORD00367,Emma Rossi,emma.rossi35@example.com,Electronics,Earbuds,2.0,292.23,0.0,584.46,2023-05-26,Rio de Janeiro,Brazil,Net Banking,Returned,5.0
+ORD00368,Aditya Johnson,aditya.johnson760@example.com,Beauty,Face Serum,9.0,400.06,0.0,3600.54,2023-12-18,Sao Paulo,Brazil,Net Banking,Cancelled,5.0
+ORD00369,Liam Zhang,liam.zhang984@example.com,Home & Kitchen,Blender,10.0,375.97,10.0,3383.73,2023-03-04,Lyon,France,Cash on Delivery,Delivered,4.0
+ORD00370,Mei Dubois,,Books,Fiction Novel,2.0,426.47,0.0,852.94,2024-09-22,Montreal,Canada,,Processing,
+ORD00371,Ishaan Dubois,ishaan.dubois606@example.com,Beauty,Shampoo,6.0,404.88,5.0,2307.82,2024-05-11,London,UK,UPI,Delivered,5.0
+ORD00372,Isabella Singh,isabella.singh771@example.com,Books,History Book,8.0,364.37,15.0,2477.72,2023-02-25,Toronto,Canada,Credit Card,Shipped,5.0
+ORD00373,Kavya Martinez,kavya.martinez771@example.com,Sports,Dumbbell Set,7.0,239.92,20.0,1343.55,2023-01-13,Calgary,Canada,Net Banking,Processing,1.0
+ORD00374,Ishaan Rossi,ishaan.rossi980@example.com,Books,Children's Storybook,5.0,170.81,0.0,854.05,2023-09-19,Abu Dhabi,UAE,Net Banking,Shipped,5.0
+ORD00375,Haruto Smith,haruto.smith694@example.com,Beauty,Shampoo,1.0,338.04,0.0,338.04,2024-02-26,San Francisco,USA,Credit Card,Cancelled,4.0
+ORD00376,Sara Smith,,Sports,Yoga Mat,10.0,330.02,0.0,3300.2,2023-05-03,San Francisco,USA,Debit Card,Cancelled,5.0
+ORD00377,Mei Gupta,mei.gupta713@example.com,Clothing,Running Shoes,2.0,321.2,10.0,578.16,2024-03-13,Brisbane,Australia,Debit Card,Delivered,1.0
+ORD00378,John Tanaka,john.tanaka62@example.com,Home & Kitchen,Blender,2.0,248.4,20.0,397.44,2023-07-02,Paris,France,Debit Card,Returned,3.0
+ORD00379,Ava Reddy,ava.reddy733@example.com,Home & Kitchen,Non-stick Pan,2.0,287.82,25.0,431.73,2023-01-20,Lyon,France,PayPal,Delivered,4.0
+ORD00380,Sara Singh,sara.singh927@example.com,Books,Children's Storybook,,355.26,25.0,,2024-03-22,Tokyo,Japan,Cash on Delivery,Shipped,
+ORD00381,Chen Martinez,chen.martinez549@example.com,Home & Kitchen,Blender,7.0,32.32,0.0,226.24,2024-01-10,Rio de Janeiro,Brazil,Credit Card,Cancelled,4.0
+ORD00382,Wei Smith,wei.smith41@example.com,Books,Cookbook,7.0,448.75,15.0,2670.06,2024-05-13,Houston,USA,PayPal,Shipped,3.0
+ORD00383,Aarav Muller,aarav.muller399@example.com,Electronics,Webcam,8.0,483.45,,3867.6,2023-12-14,Bengaluru,India,,Delivered,3.0
+ORD00384,Mei Silva,mei.silva695@example.com,Sports,Dumbbell Set,4.0,462.78,,1851.12,2023-05-25,Paris,France,Net Banking,Returned,
+ORD00385,Chen Singh,,Beauty,Face Serum,2.0,230.81,0.0,461.62,2023-04-19,Houston,USA,Cash on Delivery,Returned,3.0
+ORD00386,Emma Zhang,emma.zhang756@example.com,Beauty,Sunscreen,10.0,275.21,5.0,2614.49,2023-02-16,Dubai,UAE,UPI,Delivered,3.0
+ORD00387,Haruto Suzuki,haruto.suzuki379@example.com,Sports,Dumbbell Set,10.0,25.15,20.0,201.2,2023-06-11,Chennai,India,Credit Card,Delivered,
+ORD00388,Isabella Kumar,isabella.kumar608@example.com,Home & Kitchen,Cutlery Set,8.0,347.72,10.0,2503.58,2024-06-19,Nice,France,Debit Card,Shipped,1.0
+ORD00389,Ava Gupta,ava.gupta627@example.com,Electronics,Webcam,1.0,281.07,0.0,281.07,2024-09-25,Melbourne,Australia,Net Banking,Shipped,3.0
+ORD00390,Ishaan Singh,ishaan.singh992@example.com,Books,History Book,1.0,31.74,5.0,30.15,2024-03-21,Montreal,Canada,Cash on Delivery,Cancelled,
+ORD00391,Yuki Patel,yuki.patel181@example.com,Clothing,Cotton T-Shirt,2.0,40.08,25.0,60.12,2024-08-29,Abu Dhabi,UAE,Net Banking,Shipped,4.0
+ORD00392,Diya Reddy,diya.reddy101@example.com,Clothing,Baseball Cap,4.0,190.89,25.0,572.67,2024-08-22,Paris,France,Net Banking,Shipped,5.0
+ORD00393,Michael Gupta,michael.gupta140@example.com,Books,Cookbook,5.0,105.09,0.0,525.45,2023-10-15,London,UK,,Cancelled,3.0
+ORD00394,Haruto Zhang,haruto.zhang303@example.com,Sports,Dumbbell Set,10.0,453.26,5.0,4305.97,2023-03-30,Yokohama,Japan,,Shipped,5.0
+ORD00395,Sara Sharma,sara.sharma754@example.com,Clothing,Denim Jeans,10.0,115.09,0.0,1150.9,2024-08-10,Chennai,India,Credit Card,Delivered,5.0
+ORD00396,Vivaan Suzuki,vivaan.suzuki491@example.com,Beauty,Face Serum,4.0,46.13,20.0,147.62,2023-08-12,Birmingham,UK,UPI,Shipped,2.0
+ORD00397,Aarav Martinez,aarav.martinez166@example.com,Beauty,Sunscreen,10.0,17.08,0.0,170.8,2024-02-20,Birmingham,UK,PayPal,Cancelled,1.0
+ORD00398,Lucas Kumar,lucas.kumar708@example.com,Home & Kitchen,Storage Jars,7.0,377.68,5.0,2511.57,2023-03-24,Abu Dhabi,UAE,PayPal,Delivered,4.0
+ORD00399,Mateo Patel,mateo.patel375@example.com,Books,Children's Storybook,6.0,91.76,0.0,550.56,2024-07-28,Munich,Germany,UPI,Shipped,5.0
+ORD00400,Yuki Muller,yuki.muller720@example.com,Clothing,Baseball Cap,6.0,179.59,20.0,862.03,2023-10-11,Mumbai,India,UPI,Processing,5.0
+ORD00401,David Reddy,david.reddy545@example.com,Beauty,Perfume,8.0,312.37,0.0,2498.96,2023-07-12,Paris,France,Credit Card,Cancelled,4.0
+ORD00402,Aditya Reddy,aditya.reddy115@example.com,Beauty,Shampoo,4.0,262.74,10.0,945.86,2024-03-02,Sao Paulo,Brazil,Net Banking,Processing,1.0
+ORD00403,Kavya Smith,kavya.smith893@example.com,Clothing,Rain Jacket,7.0,291.46,15.0,1734.19,2024-05-12,Sharjah,UAE,PayPal,Returned,5.0
+ORD00404,Michael Williams,michael.williams920@example.com,Home & Kitchen,Coffee Maker,4.0,244.7,0.0,978.8,2023-06-01,Brisbane,Australia,Net Banking,Shipped,3.0
+ORD00405,Chen Rossi,chen.rossi997@example.com,Clothing,Baseball Cap,3.0,84.82,15.0,216.29,2024-08-11,Leeds,UK,UPI,Processing,5.0
+ORD00406,Chen Patel,chen.patel353@example.com,Clothing,Running Shoes,3.0,269.15,0.0,807.45,2024-02-19,Lyon,France,Net Banking,Processing,5.0
+ORD00407,David Zhang,david.zhang303@example.com,Books,Self-Help Guide,10.0,335.11,25.0,2513.33,2023-12-13,Houston,USA,Credit Card,Shipped,2.0
+ORD00408,Kavya Sharma,kavya.sharma862@example.com,Clothing,Wool Sweater,6.0,32.24,5.0,183.77,2023-10-12,Berlin,Germany,Credit Card,Returned,2.0
+ORD00409,David Tanaka,david.tanaka326@example.com,Sports,Cycling Helmet,1.0,454.68,0.0,454.68,2024-03-13,Perth,Australia,UPI,Delivered,4.0
+ORD00410,Kavya Garcia,kavya.garcia90@example.com,Clothing,Baseball Cap,7.0,402.82,20.0,2255.79,2024-02-29,London,UK,Debit Card,Shipped,5.0
+ORD00411,James Kumar,james.kumar605@example.com,Books,Fiction Novel,,321.21,0.0,,2024-07-23,Lyon,France,Debit Card,Shipped,4.0
+ORD00412,Sophia Martinez,sophia.martinez847@example.com,Home & Kitchen,Storage Jars,9.0,371.23,0.0,3341.07,2023-06-07,Montreal,Canada,PayPal,Cancelled,4.0
+ORD00413,Emma Gupta,emma.gupta705@example.com,Beauty,Shampoo,,383.54,0.0,,2024-09-05,Perth,Australia,Cash on Delivery,Cancelled,5.0
+ORD00414,Chen Reddy,chen.reddy751@example.com,Sports,Yoga Mat,3.0,292.92,25.0,659.07,2023-05-19,Melbourne,Australia,Credit Card,Processing,4.0
+ORD00415,Vivaan Williams,vivaan.williams655@example.com,Electronics,Laptop Stand,3.0,383.52,0.0,1150.56,2024-07-10,Brisbane,Australia,,Processing,4.0
+ORD00416,Ishaan Rossi,ishaan.rossi844@example.com,Clothing,Cotton T-Shirt,5.0,189.64,15.0,805.97,2023-06-16,Los Angeles,USA,Debit Card,Returned,3.0
+ORD00417,Mei Rossi,mei.rossi852@example.com,Sports,Cycling Helmet,2.0,211.59,0.0,423.18,2023-05-15,Chennai,India,UPI,Processing,3.0
+ORD00418,Sofia Garcia,sofia.garcia612@example.com,Sports,Cricket Bat,5.0,19.24,5.0,91.39,2023-05-12,Manchester,UK,UPI,Shipped,2.0
+ORD00419,Emma Reddy,emma.reddy794@example.com,Books,History Book,2.0,21.23,0.0,42.46,2024-04-25,Chicago,USA,Credit Card,Delivered,1.0
+ORD00420,Haruto Reddy,haruto.reddy943@example.com,Sports,Dumbbell Set,4.0,96.47,0.0,385.88,2023-05-30,Montreal,Canada,UPI,Shipped,5.0
+ORD00421,Diya Silva,diya.silva102@example.com,Sports,Yoga Mat,4.0,482.31,0.0,1929.24,2023-04-12,Frankfurt,Germany,UPI,Returned,2.0
+ORD00422,Priya Wang,priya.wang435@example.com,Clothing,Rain Jacket,2.0,381.9,25.0,572.85,2023-04-23,Sao Paulo,Brazil,Net Banking,Processing,5.0
+ORD00423,Yuki Patel,yuki.patel506@example.com,Electronics,Smartwatch,10.0,369.41,25.0,2770.58,2023-08-20,Rio de Janeiro,Brazil,UPI,Cancelled,2.0
+ORD00424,Mateo Martinez,mateo.martinez377@example.com,Clothing,Cotton T-Shirt,8.0,337.69,0.0,2701.52,2023-05-03,Leeds,UK,Net Banking,Returned,3.0
+ORD00425,Aditya Wang,aditya.wang347@example.com,Clothing,Rain Jacket,7.0,65.77,25.0,345.29,2023-10-13,Sharjah,UAE,UPI,Cancelled,5.0
+ORD00426,John Martinez,john.martinez151@example.com,Books,Fiction Novel,8.0,251.15,0.0,2009.2,2023-01-31,New York,USA,,Delivered,1.0
+ORD00427,Priya Tanaka,priya.tanaka335@example.com,Clothing,Running Shoes,2.0,381.28,25.0,571.92,2024-04-22,Hamburg,Germany,PayPal,Cancelled,4.0
+ORD00428,Sophia Zhang,sophia.zhang554@example.com,Sports,Yoga Mat,1.0,495.4,0.0,495.4,2024-01-28,Marseille,France,,Cancelled,1.0
+ORD00429,Vivaan Gupta,vivaan.gupta882@example.com,Home & Kitchen,LED Lamp,7.0,71.57,25.0,375.74,2023-04-23,Sharjah,UAE,Net Banking,Returned,5.0
+ORD00430,Olivia Martinez,olivia.martinez161@example.com,Sports,Yoga Mat,8.0,297.57,15.0,2023.48,2023-10-19,Sydney,Australia,Credit Card,Returned,
+ORD00431,Sofia Wang,sofia.wang760@example.com,Sports,Yoga Mat,6.0,193.38,15.0,986.24,2024-02-26,Sydney,Australia,PayPal,Shipped,4.0
+ORD00432,Liam Kumar,liam.kumar68@example.com,Home & Kitchen,Non-stick Pan,1.0,271.52,,271.52,2024-11-04,Yokohama,Japan,UPI,Delivered,5.0
+ORD00433,Aarav Zhang,aarav.zhang400@example.com,Home & Kitchen,Storage Jars,8.0,54.53,15.0,370.8,2024-05-23,Brasilia,Brazil,UPI,Shipped,4.0
+ORD00434,Emma Smith,emma.smith868@example.com,Electronics,Laptop Stand,1.0,152.17,5.0,144.56,2024-10-01,San Francisco,USA,Credit Card,Returned,2.0
+ORD00435,Liam Silva,liam.silva215@example.com,Home & Kitchen,Non-stick Pan,5.0,254.8,15.0,1082.9,2023-07-24,Yokohama,Japan,UPI,Returned,5.0
+ORD00436,Priya Sharma,priya.sharma529@example.com,Clothing,Rain Jacket,8.0,137.63,20.0,880.83,2024-08-02,Hyderabad,India,Debit Card,Processing,3.0
+ORD00437,Rohan Williams,rohan.williams421@example.com,Home & Kitchen,Non-stick Pan,7.0,137.13,0.0,959.91,2023-09-20,Dubai,UAE,Net Banking,Shipped,3.0
+ORD00438,Aarav Johnson,aarav.johnson318@example.com,Books,History Book,7.0,213.9,5.0,1422.43,2023-06-13,Vancouver,Canada,Credit Card,Processing,4.0
+ORD00439,Li Rossi,li.rossi873@example.com,Electronics,Earbuds,1.0,430.49,10.0,387.44,2023-03-07,Kyoto,Japan,PayPal,Delivered,3.0
+ORD00440,Diya Reddy,diya.reddy513@example.com,Electronics,Webcam,2.0,122.85,15.0,208.84,2023-12-04,Sharjah,UAE,Net Banking,Shipped,3.0
+ORD00441,Rohan Reddy,rohan.reddy994@example.com,Home & Kitchen,Cutlery Set,10.0,32.68,0.0,326.8,2023-11-21,Rio de Janeiro,Brazil,Net Banking,Shipped,3.0
+ORD00442,Mary Martinez,mary.martinez842@example.com,Home & Kitchen,Non-stick Pan,10.0,22.23,0.0,222.3,2024-11-18,Hamburg,Germany,Cash on Delivery,Cancelled,4.0
+ORD00443,Mateo Reddy,mateo.reddy243@example.com,Books,History Book,,480.57,10.0,,2023-11-05,Los Angeles,USA,UPI,Shipped,3.0
+ORD00444,Isabella Garcia,isabella.garcia901@example.com,Beauty,Sunscreen,5.0,433.89,25.0,1627.09,2024-04-27,Kyoto,Japan,PayPal,Cancelled,2.0
+ORD00445,Sofia Gupta,sofia.gupta519@example.com,Electronics,Power Bank,9.0,370.2,0.0,3331.8,2023-02-23,Leeds,UK,,Shipped,
+ORD00446,Ananya Williams,ananya.williams85@example.com,Electronics,USB-C Cable,3.0,424.25,15.0,1081.84,2024-04-07,Lyon,France,UPI,Shipped,4.0
+ORD00447,Mei Williams,mei.williams425@example.com,Home & Kitchen,Coffee Maker,7.0,472.65,5.0,3143.12,2023-01-22,Hyderabad,India,PayPal,Returned,2.0
+ORD00448,Michael Smith,michael.smith873@example.com,Clothing,Cotton T-Shirt,7.0,302.19,15.0,1798.03,2023-06-24,Dubai,UAE,Credit Card,Returned,5.0
+ORD00449,Sofia Martinez,sofia.martinez731@example.com,Clothing,Denim Jeans,5.0,147.54,0.0,737.7,2024-03-17,Munich,Germany,,Processing,3.0
+ORD00450,Emma Gupta,emma.gupta150@example.com,Electronics,Webcam,4.0,310.75,15.0,1056.55,2024-08-19,Paris,France,Credit Card,Cancelled,4.0
+ORD00451,Chen Tanaka,chen.tanaka731@example.com,Books,History Book,5.0,41.16,0.0,205.8,2023-12-07,Frankfurt,Germany,UPI,Returned,5.0
+ORD00452,Chen Patel,,Sports,Cycling Helmet,7.0,337.27,0.0,2360.89,2024-08-17,Birmingham,UK,Debit Card,Returned,4.0
+ORD00453,Mateo Garcia,mateo.garcia325@example.com,Beauty,Perfume,5.0,62.84,,314.2,2023-05-11,Marseille,France,PayPal,Processing,4.0
+ORD00454,Mateo Brown,mateo.brown780@example.com,Home & Kitchen,Storage Jars,3.0,161.19,0.0,483.57,2024-07-23,Paris,France,Debit Card,Shipped,
+ORD00455,Priya Patel,priya.patel168@example.com,Beauty,Sunscreen,8.0,25.19,25.0,151.14,2024-04-13,Paris,France,,Shipped,2.0
+ORD00456,Ananya Williams,ananya.williams173@example.com,Beauty,Perfume,10.0,445.99,0.0,4459.9,2024-06-22,Dubai,UAE,Net Banking,Delivered,5.0
+ORD00457,Li Reddy,li.reddy27@example.com,Home & Kitchen,LED Lamp,2.0,200.11,0.0,400.22,2023-11-28,London,UK,Credit Card,Cancelled,5.0
+ORD00458,Michael Brown,michael.brown6@example.com,Home & Kitchen,Non-stick Pan,8.0,165.83,0.0,1326.64,2023-08-05,Pune,India,UPI,Processing,2.0
+ORD00459,Sophia Dubois,sophia.dubois409@example.com,Home & Kitchen,Coffee Maker,7.0,49.15,0.0,344.05,2024-02-02,Kyoto,Japan,PayPal,Shipped,5.0
+ORD00460,Mei Suzuki,mei.suzuki944@example.com,Home & Kitchen,LED Lamp,6.0,334.43,5.0,1906.25,2024-05-16,Nice,France,Net Banking,Processing,4.0
+ORD00461,Aditya Suzuki,aditya.suzuki629@example.com,Clothing,Wool Sweater,2.0,25.02,25.0,37.53,2024-11-23,Munich,Germany,Net Banking,Returned,5.0
+ORD00462,Aditya Williams,aditya.williams82@example.com,Books,Self-Help Guide,3.0,343.74,5.0,979.66,2024-06-19,Kyoto,Japan,Cash on Delivery,Delivered,1.0
+ORD00463,David Reddy,david.reddy423@example.com,Electronics,Earbuds,10.0,407.35,0.0,4073.5,2024-05-30,Mumbai,India,PayPal,Cancelled,3.0
+ORD00464,Sofia Tanaka,sofia.tanaka427@example.com,Beauty,Lipstick Set,8.0,379.89,10.0,2735.21,2023-12-16,Manchester,UK,Debit Card,Delivered,5.0
+ORD00465,Sara Reddy,sara.reddy19@example.com,Electronics,Smartwatch,3.0,329.62,20.0,791.09,2024-11-04,Sharjah,UAE,Net Banking,Processing,5.0
+ORD00466,Mary Tanaka,mary.tanaka90@example.com,Clothing,Denim Jeans,,60.4,,,2023-07-12,Delhi,India,Net Banking,Shipped,4.0
+ORD00467,Sofia Rossi,sofia.rossi309@example.com,Books,Cookbook,1.0,62.65,25.0,46.99,2024-05-11,Paris,France,,Cancelled,3.0
+ORD00468,Kavya Muller,kavya.muller402@example.com,Electronics,Power Bank,,317.05,20.0,,2024-05-22,Sharjah,UAE,PayPal,Returned,1.0
+ORD00469,Olivia Tanaka,olivia.tanaka606@example.com,Beauty,Perfume,8.0,119.79,0.0,958.32,2024-03-08,Abu Dhabi,UAE,Cash on Delivery,Delivered,4.0
+ORD00470,Mateo Martinez,mateo.martinez638@example.com,Beauty,Lipstick Set,7.0,15.3,5.0,101.75,2024-04-25,Perth,Australia,Debit Card,Returned,4.0
+ORD00471,Isabella Dubois,isabella.dubois733@example.com,Beauty,Sunscreen,5.0,362.88,20.0,1451.52,2024-11-20,Perth,Australia,,Shipped,4.0
+ORD00472,Chen Kumar,chen.kumar133@example.com,Clothing,Denim Jeans,8.0,54.95,25.0,329.7,2023-11-07,Munich,Germany,Cash on Delivery,Delivered,4.0
+ORD00473,Mateo Brown,mateo.brown163@example.com,Clothing,Rain Jacket,2.0,172.18,5.0,327.14,2023-05-04,Sao Paulo,Brazil,Net Banking,Processing,4.0
+ORD00474,Haruto Patel,haruto.patel571@example.com,Home & Kitchen,Coffee Maker,9.0,304.12,0.0,2737.08,2024-03-24,Paris,France,Credit Card,Returned,2.0
+ORD00475,Sofia Rossi,sofia.rossi108@example.com,Clothing,Baseball Cap,4.0,455.94,10.0,1641.38,2024-03-28,Rio de Janeiro,Brazil,PayPal,Delivered,4.0
+ORD00476,James Singh,james.singh207@example.com,Books,History Book,1.0,126.43,15.0,107.47,2023-10-21,Sao Paulo,Brazil,Credit Card,Processing,4.0
+ORD00477,Mary Johnson,mary.johnson772@example.com,Sports,Football,3.0,401.88,20.0,964.51,2024-04-14,Brasilia,Brazil,UPI,Delivered,1.0
+ORD00478,Chen Silva,chen.silva87@example.com,Home & Kitchen,Blender,3.0,219.87,0.0,659.61,2024-11-07,London,UK,PayPal,Returned,4.0
+ORD00479,John Rossi,john.rossi739@example.com,Beauty,Lipstick Set,1.0,414.37,0.0,414.37,2024-02-18,Lyon,France,Cash on Delivery,Returned,5.0
+ORD00480,Chen Wang,chen.wang801@example.com,Beauty,Sunscreen,5.0,46.72,20.0,186.88,2023-05-10,Brasilia,Brazil,UPI,Shipped,5.0
+ORD00481,Kavya Silva,kavya.silva651@example.com,Clothing,Cotton T-Shirt,,399.32,5.0,,2023-11-08,Tokyo,Japan,PayPal,Delivered,4.0
+ORD00482,Wei Silva,wei.silva49@example.com,Beauty,Face Serum,10.0,369.75,5.0,3512.62,2024-08-18,Sharjah,UAE,PayPal,Returned,3.0
+ORD00483,Mary Williams,mary.williams804@example.com,Beauty,Perfume,7.0,262.23,15.0,1560.27,2024-06-12,Dubai,UAE,,Processing,3.0
+ORD00484,Chen Suzuki,chen.suzuki84@example.com,Electronics,Wireless Mouse,3.0,240.75,15.0,613.91,2024-11-24,Rio de Janeiro,Brazil,Cash on Delivery,Returned,4.0
+ORD00485,Lucas Brown,lucas.brown652@example.com,Books,History Book,8.0,367.2,0.0,2937.6,2023-05-28,Sao Paulo,Brazil,Net Banking,Cancelled,5.0
+ORD00486,Lucas Silva,lucas.silva218@example.com,Books,History Book,3.0,472.31,0.0,1416.93,2024-09-08,Tokyo,Japan,Credit Card,Processing,1.0
+ORD00487,David Singh,david.singh313@example.com,Home & Kitchen,Blender,1.0,396.65,20.0,317.32,2023-02-19,Montreal,Canada,Debit Card,Shipped,5.0
+ORD00488,Aarav Reddy,aarav.reddy70@example.com,Electronics,Smartwatch,5.0,285.05,20.0,1140.2,2024-05-01,Dubai,UAE,,Shipped,5.0
+ORD00489,Haruto Garcia,haruto.garcia153@example.com,Beauty,Lipstick Set,10.0,333.93,5.0,3172.34,2024-02-09,Sydney,Australia,PayPal,Cancelled,2.0
+ORD00490,Lucas Gupta,lucas.gupta586@example.com,Beauty,Lipstick Set,2.0,323.74,0.0,647.48,2024-08-06,Sao Paulo,Brazil,,Cancelled,1.0
+ORD00491,Ishaan Rossi,ishaan.rossi20@example.com,Home & Kitchen,Coffee Maker,10.0,224.89,15.0,1911.56,2024-02-16,Dubai,UAE,Net Banking,Delivered,3.0
+ORD00492,Emma Sharma,emma.sharma325@example.com,Books,Self-Help Guide,2.0,273.18,0.0,546.36,2023-09-19,Los Angeles,USA,UPI,Cancelled,1.0
+ORD00493,Ava Zhang,ava.zhang731@example.com,Electronics,Webcam,6.0,75.52,10.0,407.81,2024-01-20,New York,USA,Debit Card,Shipped,5.0
+ORD00494,Diya Martinez,diya.martinez517@example.com,Books,Fiction Novel,6.0,235.09,25.0,1057.9,2023-01-30,Osaka,Japan,Credit Card,Processing,5.0
+ORD00495,Li Reddy,li.reddy569@example.com,Beauty,Shampoo,7.0,225.76,5.0,1501.3,2023-05-26,Melbourne,Australia,,Shipped,4.0
+ORD00496,Isabella Rossi,isabella.rossi2@example.com,Books,Children's Storybook,3.0,5.27,25.0,11.86,2023-10-07,Abu Dhabi,UAE,,Cancelled,3.0
+ORD00497,Liam Silva,liam.silva166@example.com,Beauty,Perfume,5.0,49.41,0.0,247.05,2024-07-23,Calgary,Canada,Debit Card,Returned,4.0
+ORD00498,Mateo Zhang,mateo.zhang771@example.com,Beauty,Sunscreen,6.0,174.11,15.0,887.96,2023-01-17,London,UK,Cash on Delivery,Cancelled,
+ORD00499,Aarav Gupta,aarav.gupta917@example.com,Beauty,Sunscreen,9.0,45.17,0.0,406.53,2024-07-05,Pune,India,Net Banking,Delivered,4.0
+ORD00500,Sofia Dubois,sofia.dubois182@example.com,Beauty,Face Serum,6.0,468.44,5.0,2670.11,2023-01-21,Montreal,Canada,Debit Card,Delivered,4.0
+ORD00501,Mei Johnson,mei.johnson506@example.com,Home & Kitchen,Non-stick Pan,10.0,108.5,20.0,868.0,2023-04-24,Calgary,Canada,Debit Card,Returned,5.0
+ORD00502,Li Dubois,li.dubois67@example.com,Sports,Dumbbell Set,3.0,133.51,5.0,380.5,2024-06-19,Vancouver,Canada,,Delivered,5.0
+ORD00503,Ava Brown,ava.brown905@example.com,Books,Fiction Novel,1.0,427.66,20.0,342.13,2023-10-08,San Francisco,USA,Net Banking,Cancelled,1.0
+ORD00504,Mateo Johnson,mateo.johnson941@example.com,Books,Children's Storybook,1.0,198.97,0.0,198.97,2023-08-20,Tokyo,Japan,Debit Card,Shipped,4.0
+ORD00505,Aditya Reddy,,Books,Fiction Novel,6.0,421.05,25.0,1894.73,2023-09-02,Sydney,Australia,,Processing,3.0
+ORD00506,Aditya Dubois,aditya.dubois783@example.com,Electronics,Earbuds,2.0,487.39,20.0,779.82,2023-11-17,Los Angeles,USA,Credit Card,Cancelled,
+ORD00507,Ava Suzuki,ava.suzuki694@example.com,Electronics,Wireless Mouse,7.0,203.83,20.0,1141.45,2023-08-27,Sharjah,UAE,Cash on Delivery,Delivered,5.0
+ORD00508,Mei Suzuki,mei.suzuki635@example.com,Electronics,Power Bank,1.0,229.77,5.0,218.28,2023-04-21,New York,USA,Cash on Delivery,Delivered,3.0
+ORD00509,Mateo Muller,mateo.muller522@example.com,Home & Kitchen,Blender,10.0,225.09,0.0,2250.9,2023-03-03,Birmingham,UK,Cash on Delivery,Cancelled,4.0
+ORD00510,Kavya Muller,kavya.muller795@example.com,Clothing,Denim Jeans,10.0,174.74,0.0,1747.4,2024-06-14,Sharjah,UAE,PayPal,Shipped,
+ORD00511,David Rossi,david.rossi433@example.com,Home & Kitchen,Coffee Maker,4.0,393.71,25.0,1181.13,2024-04-23,Sharjah,UAE,UPI,Returned,4.0
+ORD00512,Ava Williams,ava.williams167@example.com,Electronics,Earbuds,1.0,250.49,5.0,237.97,2023-08-24,Lyon,France,Debit Card,Cancelled,4.0
+ORD00513,Mei Tanaka,mei.tanaka189@example.com,Electronics,Power Bank,,182.15,0.0,,2023-10-25,Lyon,France,PayPal,Returned,4.0
+ORD00514,Vivaan Sharma,vivaan.sharma291@example.com,Clothing,Denim Jeans,3.0,173.21,0.0,519.63,2023-07-20,Delhi,India,,Processing,1.0
+ORD00515,Sofia Singh,sofia.singh807@example.com,Electronics,Power Bank,5.0,230.82,15.0,980.98,2024-11-07,Leeds,UK,PayPal,Delivered,3.0
+ORD00516,Mei Smith,mei.smith388@example.com,Beauty,Lipstick Set,7.0,488.61,0.0,3420.27,2024-09-22,Dubai,UAE,,Returned,3.0
+ORD00517,James Johnson,james.johnson815@example.com,Home & Kitchen,Coffee Maker,10.0,443.49,0.0,4434.9,2024-04-26,Dubai,UAE,Debit Card,Returned,5.0
+ORD00518,Mary Martinez,mary.martinez184@example.com,Home & Kitchen,LED Lamp,8.0,359.25,10.0,2586.6,2024-08-18,Tokyo,Japan,Debit Card,Shipped,5.0
+ORD00519,Lucas Johnson,lucas.johnson314@example.com,Books,History Book,6.0,130.99,0.0,785.94,2023-10-30,Marseille,France,Debit Card,Returned,
+ORD00520,David Dubois,david.dubois462@example.com,Books,History Book,8.0,161.93,0.0,1295.44,2024-03-28,Hamburg,Germany,PayPal,Delivered,2.0
+ORD00521,Kavya Silva,kavya.silva660@example.com,Electronics,Webcam,2.0,63.7,5.0,121.03,2023-12-08,Hamburg,Germany,UPI,Processing,4.0
+ORD00522,Ananya Dubois,ananya.dubois876@example.com,Beauty,Perfume,1.0,386.19,15.0,328.26,2024-02-18,Tokyo,Japan,Net Banking,Returned,3.0
+ORD00523,Lucas Tanaka,lucas.tanaka741@example.com,Beauty,Shampoo,9.0,295.57,25.0,1995.1,2024-04-17,Sydney,Australia,UPI,Shipped,4.0
+ORD00524,Ananya Garcia,ananya.garcia572@example.com,Electronics,Power Bank,3.0,156.26,25.0,351.58,2024-11-05,Brisbane,Australia,Debit Card,Cancelled,4.0
+ORD00525,Haruto Rossi,haruto.rossi602@example.com,Electronics,Wireless Mouse,3.0,488.74,20.0,1172.98,2024-01-26,Frankfurt,Germany,Credit Card,Returned,5.0
+ORD00526,Ishaan Zhang,ishaan.zhang463@example.com,Beauty,Lipstick Set,2.0,339.07,25.0,508.61,2023-01-28,Manchester,UK,Credit Card,Cancelled,3.0
+ORD00527,Kavya Silva,kavya.silva59@example.com,Home & Kitchen,Storage Jars,,166.75,20.0,,2023-06-10,Los Angeles,USA,Cash on Delivery,Cancelled,2.0
+ORD00528,John Smith,john.smith211@example.com,Home & Kitchen,Cutlery Set,8.0,83.6,10.0,601.92,2024-08-24,Frankfurt,Germany,UPI,Shipped,
+ORD00529,Rohan Garcia,rohan.garcia409@example.com,Sports,Dumbbell Set,10.0,440.22,0.0,4402.2,2023-04-04,Calgary,Canada,UPI,Processing,3.0
+ORD00530,Emma Johnson,emma.johnson633@example.com,Beauty,Sunscreen,3.0,350.77,0.0,1052.31,2023-09-03,Birmingham,UK,PayPal,Returned,2.0
+ORD00531,Chen Smith,chen.smith422@example.com,Sports,Yoga Mat,2.0,378.92,15.0,644.16,2024-02-24,Lyon,France,UPI,Shipped,5.0
+ORD00532,Aarav Kumar,aarav.kumar692@example.com,Beauty,Sunscreen,7.0,428.61,0.0,3000.27,2023-09-14,Los Angeles,USA,UPI,Cancelled,2.0
+ORD00533,Aditya Rossi,aditya.rossi731@example.com,Books,Cookbook,5.0,421.57,0.0,2107.85,2024-09-13,Los Angeles,USA,UPI,Delivered,4.0
+ORD00534,Priya Kumar,priya.kumar12@example.com,Beauty,Lipstick Set,6.0,93.08,5.0,530.56,2024-03-28,Pune,India,,Returned,2.0
+ORD00535,John Williams,john.williams613@example.com,Electronics,Wireless Mouse,4.0,464.77,5.0,1766.13,2023-07-24,New York,USA,Net Banking,Delivered,4.0
+ORD00536,Sofia Smith,sofia.smith65@example.com,Clothing,Cotton T-Shirt,3.0,363.39,,1090.17,2024-06-08,Chicago,USA,UPI,Returned,5.0
+ORD00537,Ananya Rossi,ananya.rossi439@example.com,Electronics,Laptop Stand,6.0,165.07,,990.42,2024-10-31,Sydney,Australia,Net Banking,Shipped,2.0
+ORD00538,Li Brown,li.brown378@example.com,Electronics,Bluetooth Speaker,7.0,154.26,0.0,1079.82,2024-07-03,Dubai,UAE,UPI,Delivered,4.0
+ORD00539,Li Singh,li.singh651@example.com,Beauty,Lipstick Set,8.0,38.42,,307.36,2024-08-22,Nice,France,Cash on Delivery,Shipped,1.0
+ORD00540,Diya Sharma,diya.sharma919@example.com,Electronics,Webcam,7.0,379.84,0.0,2658.88,2023-05-21,Perth,Australia,UPI,Shipped,3.0
+ORD00541,Wei Patel,wei.patel743@example.com,Sports,Football,6.0,71.46,0.0,428.76,2024-06-17,Kyoto,Japan,,Delivered,4.0
+ORD00542,James Johnson,james.johnson56@example.com,Beauty,Shampoo,4.0,305.99,15.0,1040.37,2023-07-07,Paris,France,Credit Card,Cancelled,3.0
+ORD00543,Vivaan Singh,vivaan.singh129@example.com,Electronics,USB-C Cable,4.0,121.97,25.0,365.91,2023-11-15,Manchester,UK,Debit Card,Cancelled,3.0
+ORD00544,Kavya Williams,kavya.williams991@example.com,Beauty,Shampoo,8.0,44.61,20.0,285.5,2024-01-22,Leeds,UK,Net Banking,Cancelled,4.0
+ORD00545,Haruto Singh,haruto.singh813@example.com,Books,Fiction Novel,7.0,427.75,10.0,2694.83,2024-09-01,Sao Paulo,Brazil,Cash on Delivery,Shipped,5.0
+ORD00546,Kavya Garcia,kavya.garcia576@example.com,Sports,Football,3.0,358.86,5.0,1022.75,2023-01-05,Hyderabad,India,PayPal,Processing,4.0
+ORD00547,John Wang,john.wang316@example.com,Beauty,Perfume,1.0,496.27,0.0,496.27,2023-07-18,Kyoto,Japan,,Processing,5.0
+ORD00548,Wei Wang,wei.wang667@example.com,Books,History Book,4.0,241.47,15.0,821.0,2024-10-08,Pune,India,PayPal,Shipped,5.0
+ORD00549,Li Singh,li.singh617@example.com,Sports,Dumbbell Set,,386.63,20.0,,2024-02-12,Dubai,UAE,Cash on Delivery,Shipped,3.0
+ORD00550,Sofia Suzuki,sofia.suzuki310@example.com,Sports,Cycling Helmet,7.0,295.11,0.0,2065.77,2023-04-22,Abu Dhabi,UAE,,Shipped,3.0
+ORD00551,Isabella Tanaka,isabella.tanaka7@example.com,Clothing,Wool Sweater,,39.57,20.0,,2024-11-01,Calgary,Canada,Debit Card,Shipped,3.0
+ORD00552,Ananya Martinez,ananya.martinez972@example.com,Electronics,Earbuds,4.0,96.89,0.0,387.56,2023-07-16,Calgary,Canada,Net Banking,Returned,3.0
+ORD00553,Aditya Williams,aditya.williams128@example.com,Home & Kitchen,Non-stick Pan,10.0,121.22,0.0,1212.2,2023-01-10,Bengaluru,India,,Delivered,1.0
+ORD00554,Ishaan Smith,ishaan.smith8@example.com,Books,Children's Storybook,5.0,466.4,15.0,1982.2,2024-09-10,Kyoto,Japan,UPI,Processing,3.0
+ORD00555,Mary Tanaka,mary.tanaka59@example.com,Home & Kitchen,Blender,1.0,231.18,0.0,231.18,2023-01-27,Dubai,UAE,,Returned,3.0
+ORD00556,Mary Garcia,mary.garcia675@example.com,Books,Children's Storybook,4.0,6.55,15.0,22.27,2023-01-18,Sydney,Australia,,Processing,3.0
+ORD00557,Ava Martinez,ava.martinez628@example.com,Electronics,Power Bank,8.0,493.5,0.0,3948.0,2024-01-30,Vancouver,Canada,PayPal,Shipped,5.0
+ORD00558,Mei Silva,,Books,Fiction Novel,9.0,493.67,25.0,3332.27,2023-04-29,Lyon,France,Debit Card,Shipped,2.0
+ORD00559,Ishaan Suzuki,ishaan.suzuki30@example.com,Clothing,Running Shoes,5.0,114.09,25.0,427.84,2024-11-17,Los Angeles,USA,Cash on Delivery,Cancelled,4.0
+ORD00560,Lucas Johnson,lucas.johnson785@example.com,Sports,Yoga Mat,7.0,455.53,20.0,2550.97,2024-10-31,Rio de Janeiro,Brazil,,Shipped,2.0
+ORD00561,Kavya Kumar,kavya.kumar349@example.com,Beauty,Perfume,2.0,288.56,15.0,490.55,2024-01-25,Sharjah,UAE,Credit Card,Processing,5.0
+ORD00562,Ananya Tanaka,ananya.tanaka328@example.com,Home & Kitchen,LED Lamp,3.0,262.28,5.0,747.5,2023-04-20,Tokyo,Japan,Cash on Delivery,Cancelled,4.0
+ORD00563,Sofia Johnson,sofia.johnson467@example.com,Clothing,Rain Jacket,1.0,301.45,0.0,301.45,2023-10-08,Abu Dhabi,UAE,PayPal,Shipped,4.0
+ORD00564,Vivaan Zhang,vivaan.zhang734@example.com,Clothing,Baseball Cap,4.0,351.7,0.0,1406.8,2024-05-14,Kyoto,Japan,,Shipped,5.0
+ORD00565,John Zhang,john.zhang485@example.com,Home & Kitchen,Cutlery Set,9.0,364.74,5.0,3118.53,2024-07-15,Tokyo,Japan,Debit Card,Processing,5.0
+ORD00566,Lucas Patel,lucas.patel727@example.com,Home & Kitchen,Cutlery Set,10.0,73.09,10.0,657.81,2023-05-29,Munich,Germany,,Shipped,1.0
+ORD00567,Mary Muller,mary.muller805@example.com,Clothing,Wool Sweater,7.0,341.33,0.0,2389.31,2023-04-09,Perth,Australia,Debit Card,Delivered,5.0
+ORD00568,Wei Zhang,wei.zhang994@example.com,Clothing,Baseball Cap,4.0,21.83,25.0,65.49,2023-11-06,Dubai,UAE,PayPal,Cancelled,2.0
+ORD00569,Haruto Garcia,haruto.garcia666@example.com,Books,Self-Help Guide,8.0,186.82,0.0,1494.56,2023-05-05,Lyon,France,Credit Card,Returned,5.0
+ORD00570,Olivia Brown,olivia.brown97@example.com,Sports,Dumbbell Set,7.0,152.69,15.0,908.51,2023-03-07,Sao Paulo,Brazil,Net Banking,Delivered,5.0
+ORD00571,Mei Silva,mei.silva532@example.com,Sports,Cycling Helmet,2.0,377.99,0.0,755.98,2023-07-05,Sharjah,UAE,Debit Card,Delivered,4.0
+ORD00572,Ishaan Patel,ishaan.patel212@example.com,Beauty,Shampoo,5.0,426.47,,2132.35,2023-05-08,Rio de Janeiro,Brazil,UPI,Returned,1.0
+ORD00573,Diya Williams,diya.williams969@example.com,Sports,Cricket Bat,8.0,74.23,15.0,504.76,2024-06-19,Melbourne,Australia,PayPal,Delivered,1.0
+ORD00574,Diya Patel,diya.patel307@example.com,Clothing,Denim Jeans,4.0,297.93,20.0,953.38,2023-03-18,Rio de Janeiro,Brazil,UPI,Cancelled,3.0
+ORD00575,John Garcia,john.garcia261@example.com,Beauty,Sunscreen,3.0,270.27,10.0,729.73,2024-10-10,Hamburg,Germany,Cash on Delivery,Returned,4.0
+ORD00576,Sofia Singh,sofia.singh807@example.com,Books,History Book,,303.79,0.0,,2024-06-28,San Francisco,USA,Net Banking,Delivered,2.0
+ORD00577,Mary Zhang,mary.zhang150@example.com,Clothing,Running Shoes,,191.69,20.0,,2023-04-18,Los Angeles,USA,Cash on Delivery,Processing,5.0
+ORD00578,Ishaan Silva,ishaan.silva586@example.com,Home & Kitchen,Storage Jars,2.0,448.8,20.0,718.08,2023-07-05,Perth,Australia,Net Banking,Returned,1.0
+ORD00579,Li Silva,li.silva674@example.com,Clothing,Denim Jeans,5.0,31.17,15.0,132.47,2023-09-13,Abu Dhabi,UAE,PayPal,Cancelled,4.0
+ORD00580,Mei Garcia,mei.garcia283@example.com,Books,Children's Storybook,4.0,156.07,10.0,561.85,2024-02-21,Sydney,Australia,PayPal,Delivered,3.0
+ORD00581,Aditya Gupta,aditya.gupta87@example.com,Beauty,Lipstick Set,8.0,405.13,,3241.04,2024-03-10,Brasilia,Brazil,Debit Card,Cancelled,5.0
+ORD00582,Chen Reddy,chen.reddy632@example.com,Clothing,Baseball Cap,,215.36,15.0,,2023-09-08,Brasilia,Brazil,Cash on Delivery,Delivered,3.0
+ORD00583,Li Silva,li.silva180@example.com,Electronics,Power Bank,9.0,179.88,25.0,1214.19,2024-01-24,Birmingham,UK,Credit Card,Processing,3.0
+ORD00584,Sofia Rossi,sofia.rossi879@example.com,Electronics,Webcam,5.0,136.05,,680.25,2024-10-08,Abu Dhabi,UAE,Debit Card,Processing,5.0
+ORD00585,Sofia Patel,sofia.patel914@example.com,Sports,Football,1.0,309.69,15.0,263.24,2023-04-20,Bengaluru,India,PayPal,Shipped,1.0
+ORD00586,Ishaan Suzuki,ishaan.suzuki87@example.com,Sports,Cycling Helmet,7.0,66.3,0.0,464.1,2024-11-03,Vancouver,Canada,Net Banking,Cancelled,4.0
+ORD00587,Emma Gupta,emma.gupta276@example.com,Electronics,Earbuds,8.0,85.11,20.0,544.7,2023-01-06,Melbourne,Australia,Credit Card,Shipped,3.0
+ORD00588,John Suzuki,john.suzuki923@example.com,Electronics,USB-C Cable,8.0,480.05,0.0,3840.4,2024-03-07,Nice,France,,Shipped,4.0
+ORD00589,David Tanaka,david.tanaka981@example.com,Electronics,Wireless Mouse,6.0,252.5,5.0,1439.25,2023-02-23,Perth,Australia,Cash on Delivery,Delivered,4.0
+ORD00590,Kavya Martinez,kavya.martinez440@example.com,Clothing,Rain Jacket,9.0,97.5,0.0,877.5,2023-09-27,Frankfurt,Germany,Debit Card,Cancelled,2.0
+ORD00591,Chen Silva,chen.silva194@example.com,Sports,Dumbbell Set,3.0,203.64,5.0,580.37,2023-05-30,Tokyo,Japan,Cash on Delivery,Shipped,1.0
+ORD00592,John Suzuki,john.suzuki717@example.com,Beauty,Shampoo,7.0,242.2,0.0,1695.4,2023-11-08,Chicago,USA,UPI,Processing,4.0
+ORD00593,Diya Zhang,diya.zhang187@example.com,Electronics,Wireless Mouse,6.0,109.93,0.0,659.58,2024-03-17,Birmingham,UK,Net Banking,Processing,2.0
+ORD00594,Ishaan Sharma,ishaan.sharma789@example.com,Clothing,Running Shoes,6.0,372.75,15.0,1901.02,2023-09-01,Vancouver,Canada,Cash on Delivery,Cancelled,2.0
+ORD00595,Rohan Dubois,rohan.dubois601@example.com,Beauty,Shampoo,8.0,463.12,15.0,3149.22,2023-11-05,Lyon,France,Cash on Delivery,Shipped,
+ORD00596,Ananya Suzuki,ananya.suzuki259@example.com,Sports,Cricket Bat,8.0,316.78,20.0,2027.39,2023-03-11,Nice,France,Cash on Delivery,Returned,3.0
+ORD00597,Ava Brown,ava.brown133@example.com,Home & Kitchen,Non-stick Pan,1.0,398.22,20.0,318.58,2024-05-21,Brasilia,Brazil,Credit Card,Shipped,5.0
+ORD00598,John Rossi,john.rossi411@example.com,Sports,Cricket Bat,1.0,84.2,0.0,84.2,2024-06-09,Marseille,France,UPI,Shipped,4.0
+ORD00599,Sophia Reddy,sophia.reddy47@example.com,Sports,Dumbbell Set,3.0,471.31,0.0,1413.93,2023-10-04,Pune,India,Debit Card,Shipped,1.0
+ORD00600,Wei Wang,wei.wang996@example.com,Home & Kitchen,Blender,9.0,135.7,10.0,1099.17,2023-11-29,Pune,India,,Delivered,3.0
+ORD00601,Yuki Brown,yuki.brown995@example.com,Electronics,Bluetooth Speaker,7.0,473.1,5.0,3146.12,2024-03-28,Hamburg,Germany,UPI,Shipped,4.0
+ORD00602,Rohan Garcia,rohan.garcia744@example.com,Books,Self-Help Guide,8.0,51.38,0.0,411.04,2023-06-30,Frankfurt,Germany,PayPal,Shipped,1.0
+ORD00603,Kavya Gupta,kavya.gupta838@example.com,Books,Children's Storybook,3.0,40.66,20.0,97.58,2023-04-13,Sao Paulo,Brazil,PayPal,Delivered,4.0
+ORD00604,John Sharma,john.sharma14@example.com,Beauty,Face Serum,2.0,137.49,0.0,274.98,2023-01-10,San Francisco,USA,PayPal,Processing,2.0
+ORD00605,Ananya Singh,ananya.singh577@example.com,Books,Cookbook,8.0,81.48,10.0,586.66,2024-10-04,Sao Paulo,Brazil,Credit Card,Delivered,4.0
+ORD00606,Ishaan Silva,ishaan.silva426@example.com,Clothing,Cotton T-Shirt,1.0,117.2,15.0,99.62,2024-11-02,Vancouver,Canada,PayPal,Cancelled,2.0
+ORD00607,Olivia Gupta,olivia.gupta230@example.com,Electronics,Webcam,10.0,170.19,0.0,1701.9,2023-02-14,Dubai,UAE,Debit Card,Cancelled,5.0
+ORD00608,Priya Suzuki,priya.suzuki684@example.com,Beauty,Lipstick Set,5.0,177.45,25.0,665.44,2024-11-08,Brisbane,Australia,,Delivered,3.0
+ORD00609,Haruto Singh,haruto.singh400@example.com,Books,History Book,2.0,291.03,10.0,523.85,2023-05-29,Chicago,USA,Debit Card,Shipped,4.0
+ORD00610,James Martinez,james.martinez711@example.com,Books,Children's Storybook,6.0,73.42,5.0,418.49,2024-01-28,Yokohama,Japan,Cash on Delivery,Returned,5.0
+ORD00611,Sofia Johnson,sofia.johnson595@example.com,Beauty,Sunscreen,4.0,353.03,0.0,1412.12,2023-07-28,Bengaluru,India,Cash on Delivery,Cancelled,2.0
+ORD00612,Vivaan Wang,vivaan.wang870@example.com,Clothing,Running Shoes,9.0,486.05,5.0,4155.73,2023-08-04,Berlin,Germany,PayPal,Shipped,3.0
+ORD00613,John Sharma,john.sharma435@example.com,Home & Kitchen,Non-stick Pan,10.0,41.52,0.0,415.2,2023-01-31,Birmingham,UK,Debit Card,Delivered,1.0
+ORD00614,Liam Suzuki,liam.suzuki187@example.com,Books,Cookbook,5.0,237.74,25.0,891.53,2024-10-22,Bengaluru,India,Credit Card,Shipped,1.0
+ORD00615,Ava Gupta,ava.gupta12@example.com,Books,History Book,8.0,279.31,10.0,2011.03,2023-08-21,Osaka,Japan,UPI,Delivered,3.0
+ORD00616,Yuki Smith,yuki.smith58@example.com,Clothing,Wool Sweater,9.0,304.52,25.0,2055.51,2024-05-03,Perth,Australia,,Cancelled,4.0
+ORD00617,Wei Suzuki,wei.suzuki112@example.com,Electronics,Bluetooth Speaker,6.0,18.88,0.0,113.28,2023-03-08,Berlin,Germany,,Processing,3.0
+ORD00618,Wei Patel,wei.patel88@example.com,Sports,Cycling Helmet,8.0,27.61,10.0,198.79,2023-01-09,Brisbane,Australia,Net Banking,Returned,4.0
+ORD00619,Yuki Wang,yuki.wang720@example.com,Beauty,Face Serum,9.0,55.0,0.0,495.0,2023-01-25,Abu Dhabi,UAE,Net Banking,Returned,1.0
+ORD00620,Kavya Gupta,kavya.gupta475@example.com,Electronics,Bluetooth Speaker,4.0,442.78,0.0,1771.12,2023-06-14,Brasilia,Brazil,PayPal,Returned,4.0
+ORD00621,Michael Singh,michael.singh369@example.com,Sports,Football,7.0,123.36,0.0,863.52,2023-06-06,Sharjah,UAE,Net Banking,Delivered,3.0
+ORD00622,Haruto Williams,haruto.williams993@example.com,Electronics,Earbuds,6.0,89.01,0.0,534.06,2023-10-14,Abu Dhabi,UAE,UPI,Delivered,5.0
+ORD00623,Sara Martinez,sara.martinez782@example.com,Books,Cookbook,10.0,246.69,10.0,2220.21,2024-02-15,Osaka,Japan,Net Banking,Processing,5.0
+ORD00624,James Wang,james.wang424@example.com,Sports,Football,1.0,312.2,5.0,296.59,2024-07-28,Delhi,India,,Delivered,3.0
+ORD00625,Liam Tanaka,liam.tanaka229@example.com,Books,History Book,6.0,235.61,25.0,1060.25,2023-04-22,Los Angeles,USA,PayPal,Delivered,4.0
+ORD00626,Haruto Suzuki,haruto.suzuki337@example.com,Electronics,Power Bank,10.0,245.72,25.0,1842.9,2023-04-28,Calgary,Canada,Credit Card,Returned,5.0
+ORD00627,Rohan Smith,rohan.smith33@example.com,Sports,Football,6.0,395.83,5.0,2256.23,2023-02-25,Berlin,Germany,,Cancelled,3.0
+ORD00628,Aditya Singh,aditya.singh415@example.com,Electronics,Webcam,8.0,436.29,10.0,3141.29,2023-07-08,Mumbai,India,Net Banking,Processing,4.0
+ORD00629,Priya Smith,priya.smith430@example.com,Books,History Book,3.0,482.97,20.0,1159.13,2023-01-11,Brasilia,Brazil,Debit Card,Delivered,5.0
+ORD00630,Ava Singh,ava.singh844@example.com,Beauty,Lipstick Set,,448.77,25.0,,2023-11-21,Houston,USA,UPI,Returned,5.0
+ORD00631,Sofia Singh,sofia.singh655@example.com,Sports,Yoga Mat,4.0,212.99,0.0,851.96,2024-09-07,Osaka,Japan,UPI,Shipped,5.0
+ORD00632,Aarav Wang,aarav.wang17@example.com,Home & Kitchen,Blender,2.0,351.16,25.0,526.74,2024-02-28,Kyoto,Japan,UPI,Returned,4.0
+ORD00633,Ishaan Gupta,ishaan.gupta383@example.com,Clothing,Rain Jacket,9.0,220.76,20.0,1589.47,2024-10-11,Toronto,Canada,Credit Card,Delivered,1.0
+ORD00634,Ava Suzuki,ava.suzuki768@example.com,Sports,Cycling Helmet,8.0,254.16,10.0,1829.95,2024-03-06,Munich,Germany,,Cancelled,2.0
+ORD00635,Ananya Martinez,ananya.martinez360@example.com,Books,History Book,7.0,8.76,5.0,58.25,2024-06-03,Montreal,Canada,PayPal,Processing,4.0
+ORD00636,Li Johnson,,Books,Fiction Novel,,80.92,15.0,,2023-12-10,Leeds,UK,Debit Card,Returned,3.0
+ORD00637,Ava Tanaka,ava.tanaka821@example.com,Sports,Football,7.0,488.79,15.0,2908.3,2024-06-13,Leeds,UK,Debit Card,Delivered,3.0
+ORD00638,David Reddy,david.reddy804@example.com,Books,Self-Help Guide,3.0,474.61,0.0,1423.83,2023-01-27,Tokyo,Japan,PayPal,Returned,5.0
+ORD00639,Chen Rossi,chen.rossi81@example.com,Sports,Football,,368.41,15.0,,2023-07-11,Munich,Germany,UPI,Shipped,3.0
+ORD00640,Yuki Tanaka,yuki.tanaka676@example.com,Electronics,Webcam,3.0,315.58,0.0,946.74,2023-04-24,Paris,France,Credit Card,Shipped,3.0
+ORD00641,Aditya Kumar,aditya.kumar371@example.com,Clothing,Wool Sweater,1.0,209.8,0.0,209.8,2023-08-04,Yokohama,Japan,UPI,Cancelled,3.0
+ORD00642,Kavya Sharma,kavya.sharma676@example.com,Sports,Cycling Helmet,2.0,488.08,25.0,732.12,2024-09-20,Sharjah,UAE,Credit Card,Shipped,4.0
+ORD00643,Isabella Reddy,isabella.reddy31@example.com,Sports,Yoga Mat,3.0,112.07,5.0,319.4,2023-01-31,Melbourne,Australia,Debit Card,Delivered,3.0
+ORD00644,Sara Brown,sara.brown977@example.com,Electronics,Power Bank,5.0,236.19,20.0,944.76,2024-06-08,Osaka,Japan,UPI,Shipped,4.0
+ORD00645,John Reddy,john.reddy785@example.com,Sports,Cricket Bat,4.0,477.11,25.0,1431.33,2024-03-09,Sharjah,UAE,UPI,Processing,5.0
+ORD00646,John Suzuki,john.suzuki362@example.com,Home & Kitchen,LED Lamp,8.0,87.79,,702.32,2024-06-07,Calgary,Canada,UPI,Returned,5.0
+ORD00647,Mary Tanaka,,Clothing,Running Shoes,3.0,182.08,15.0,464.3,2024-01-16,Birmingham,UK,Credit Card,Delivered,1.0
+ORD00648,Chen Zhang,chen.zhang582@example.com,Home & Kitchen,Coffee Maker,7.0,145.39,5.0,966.84,2023-04-16,Rio de Janeiro,Brazil,PayPal,Returned,2.0
+ORD00649,Liam Suzuki,liam.suzuki446@example.com,Home & Kitchen,Blender,1.0,402.35,10.0,362.12,2024-03-07,New York,USA,Net Banking,Shipped,5.0
+ORD00650,John Johnson,john.johnson292@example.com,Electronics,Wireless Mouse,5.0,69.87,0.0,349.35,2024-06-30,Sao Paulo,Brazil,UPI,Delivered,2.0
+ORD00651,Sofia Suzuki,sofia.suzuki282@example.com,Home & Kitchen,Blender,9.0,388.43,0.0,3495.87,2024-02-07,Calgary,Canada,Net Banking,Delivered,5.0
+ORD00652,Ishaan Sharma,ishaan.sharma846@example.com,Electronics,USB-C Cable,6.0,431.39,5.0,2458.92,2023-06-24,Los Angeles,USA,PayPal,Processing,5.0
+ORD00653,Aarav Patel,aarav.patel804@example.com,Electronics,Bluetooth Speaker,5.0,42.15,20.0,168.6,2023-10-04,Manchester,UK,Cash on Delivery,Cancelled,4.0
+ORD00654,Lucas Singh,lucas.singh910@example.com,Books,History Book,9.0,266.16,25.0,1796.58,2023-10-15,Perth,Australia,Debit Card,Delivered,4.0
+ORD00655,Chen Kumar,chen.kumar856@example.com,Clothing,Baseball Cap,4.0,349.01,25.0,1047.03,2023-03-03,Berlin,Germany,PayPal,Shipped,4.0
+ORD00656,Ananya Martinez,ananya.martinez214@example.com,Sports,Cycling Helmet,6.0,381.44,25.0,1716.48,2024-11-02,London,UK,Debit Card,Shipped,4.0
+ORD00657,Michael Dubois,michael.dubois799@example.com,Books,Cookbook,7.0,86.28,0.0,603.96,2023-05-31,Paris,France,PayPal,Delivered,5.0
+ORD00658,Priya Brown,,Beauty,Perfume,5.0,63.57,15.0,270.17,2024-03-17,Munich,Germany,Net Banking,Returned,4.0
+ORD00659,Vivaan Garcia,vivaan.garcia101@example.com,Electronics,Smartwatch,7.0,101.0,0.0,707.0,2024-08-31,Calgary,Canada,Cash on Delivery,Cancelled,1.0
+ORD00660,Wei Johnson,wei.johnson225@example.com,Electronics,Wireless Mouse,10.0,136.76,0.0,1367.6,2023-10-10,Frankfurt,Germany,Net Banking,Cancelled,4.0
+ORD00661,Olivia Smith,olivia.smith209@example.com,Home & Kitchen,LED Lamp,10.0,147.55,,1475.5,2023-07-09,Brasilia,Brazil,Cash on Delivery,Cancelled,3.0
+ORD00662,Priya Zhang,priya.zhang171@example.com,Clothing,Running Shoes,3.0,481.31,20.0,1155.14,2023-12-09,Delhi,India,UPI,Delivered,1.0
+ORD00663,Ava Wang,ava.wang598@example.com,Electronics,Earbuds,8.0,59.15,10.0,425.88,2023-08-22,Brasilia,Brazil,Debit Card,Shipped,2.0
+ORD00664,Kavya Zhang,kavya.zhang753@example.com,Home & Kitchen,Storage Jars,8.0,130.5,15.0,887.4,2023-11-05,Perth,Australia,Credit Card,Processing,1.0
+ORD00665,Rohan Suzuki,rohan.suzuki676@example.com,Clothing,Running Shoes,4.0,290.9,20.0,930.88,2024-01-04,Berlin,Germany,Debit Card,Cancelled,4.0
+ORD00666,Mateo Rossi,mateo.rossi461@example.com,Sports,Dumbbell Set,6.0,444.56,20.0,2133.89,2023-10-10,Vancouver,Canada,Credit Card,Returned,4.0
+ORD00667,Sofia Dubois,sofia.dubois815@example.com,Books,Children's Storybook,6.0,147.76,25.0,664.92,2023-05-31,Lyon,France,Cash on Delivery,Processing,3.0
+ORD00668,Kavya Martinez,kavya.martinez819@example.com,Home & Kitchen,Non-stick Pan,4.0,145.09,0.0,580.36,2024-05-15,Toronto,Canada,Net Banking,Processing,1.0
+ORD00669,Vivaan Brown,vivaan.brown900@example.com,Home & Kitchen,Storage Jars,9.0,81.74,10.0,662.09,2023-05-27,Frankfurt,Germany,Cash on Delivery,Delivered,1.0
+ORD00670,Olivia Wang,olivia.wang695@example.com,Beauty,Sunscreen,2.0,447.05,10.0,804.69,2023-06-27,Abu Dhabi,UAE,PayPal,Processing,3.0
+ORD00671,Li Smith,li.smith427@example.com,Sports,Dumbbell Set,2.0,152.18,25.0,228.27,2024-07-12,Leeds,UK,,Cancelled,5.0
+ORD00672,Michael Zhang,michael.zhang702@example.com,Beauty,Lipstick Set,7.0,235.94,25.0,1238.68,2023-01-29,Sao Paulo,Brazil,,Cancelled,3.0
+ORD00673,Ava Williams,ava.williams595@example.com,Sports,Cricket Bat,9.0,450.46,0.0,4054.14,2024-02-07,Leeds,UK,PayPal,Delivered,5.0
+ORD00674,Michael Patel,michael.patel277@example.com,Beauty,Face Serum,2.0,411.86,15.0,700.16,2023-03-04,San Francisco,USA,PayPal,Returned,1.0
+ORD00675,Chen Smith,chen.smith576@example.com,Beauty,Sunscreen,3.0,153.94,0.0,461.82,2024-05-11,Sharjah,UAE,Debit Card,Delivered,3.0
+ORD00676,Ava Reddy,ava.reddy254@example.com,Clothing,Cotton T-Shirt,9.0,224.69,0.0,2022.21,2023-11-04,Yokohama,Japan,Debit Card,Shipped,5.0
+ORD00677,Sara Dubois,sara.dubois880@example.com,Beauty,Perfume,3.0,319.92,5.0,911.77,2023-06-24,Brasilia,Brazil,PayPal,Returned,5.0
+ORD00678,Kavya Williams,kavya.williams983@example.com,Sports,Football,5.0,198.64,0.0,993.2,2024-04-20,Yokohama,Japan,Debit Card,Delivered,2.0
+ORD00679,Liam Tanaka,,Home & Kitchen,Non-stick Pan,10.0,225.02,15.0,1912.67,2023-05-23,Nice,France,UPI,Delivered,4.0
+ORD00680,David Silva,david.silva925@example.com,Beauty,Perfume,2.0,91.38,15.0,155.35,2024-04-15,Birmingham,UK,,Processing,2.0
+ORD00681,Isabella Martinez,isabella.martinez484@example.com,Sports,Dumbbell Set,9.0,388.82,0.0,3499.38,2023-11-28,Sharjah,UAE,UPI,Returned,4.0
+ORD00682,Aditya Patel,,Beauty,Shampoo,2.0,252.22,15.0,428.77,2023-08-26,Berlin,Germany,Debit Card,Cancelled,4.0
+ORD00683,Isabella Kumar,isabella.kumar257@example.com,Electronics,Wireless Mouse,2.0,223.56,0.0,447.12,2023-06-28,Sydney,Australia,PayPal,Cancelled,5.0
+ORD00684,Sophia Smith,sophia.smith503@example.com,Books,Self-Help Guide,3.0,219.86,5.0,626.6,2023-03-30,Dubai,UAE,PayPal,Delivered,3.0
+ORD00685,Mateo Sharma,mateo.sharma418@example.com,Sports,Cycling Helmet,6.0,96.73,25.0,435.28,2023-07-14,Frankfurt,Germany,Cash on Delivery,Processing,5.0
+ORD00686,Lucas Singh,lucas.singh450@example.com,Books,History Book,10.0,43.68,10.0,393.12,2023-04-14,Houston,USA,Debit Card,Delivered,4.0
+ORD00687,Aarav Johnson,aarav.johnson297@example.com,Home & Kitchen,Cutlery Set,2.0,436.86,10.0,786.35,2023-03-18,Brasilia,Brazil,Debit Card,Returned,5.0
+ORD00688,Kavya Tanaka,kavya.tanaka560@example.com,Beauty,Face Serum,5.0,328.35,,1641.75,2024-03-07,Vancouver,Canada,UPI,Delivered,5.0
+ORD00689,Sofia Zhang,sofia.zhang680@example.com,Electronics,Laptop Stand,10.0,452.64,0.0,4526.4,2023-12-21,Houston,USA,Cash on Delivery,Returned,5.0
+ORD00690,Olivia Singh,olivia.singh43@example.com,Electronics,Wireless Mouse,4.0,326.92,10.0,1176.91,2023-08-22,Mumbai,India,Credit Card,Shipped,4.0
+ORD00691,Li Sharma,li.sharma54@example.com,Books,History Book,7.0,352.16,0.0,2465.12,2024-03-24,San Francisco,USA,UPI,Processing,4.0
+ORD00692,Isabella Patel,isabella.patel95@example.com,Sports,Yoga Mat,9.0,286.18,0.0,2575.62,2023-09-13,Mumbai,India,Credit Card,Shipped,4.0
+ORD00693,Vivaan Zhang,vivaan.zhang671@example.com,Clothing,Running Shoes,7.0,241.96,0.0,1693.72,2023-03-20,Vancouver,Canada,Net Banking,Processing,3.0
+ORD00694,Michael Williams,michael.williams799@example.com,Sports,Cricket Bat,4.0,265.79,0.0,1063.16,2023-02-25,Perth,Australia,PayPal,Returned,2.0
+ORD00695,Ananya Singh,ananya.singh534@example.com,Clothing,Running Shoes,4.0,65.76,0.0,263.04,2023-02-06,Frankfurt,Germany,PayPal,Cancelled,1.0
+ORD00696,Olivia Patel,olivia.patel603@example.com,Books,Self-Help Guide,2.0,34.56,20.0,55.3,2024-05-22,Chennai,India,Net Banking,Cancelled,
+ORD00697,Ananya Tanaka,ananya.tanaka442@example.com,Sports,Yoga Mat,1.0,273.07,0.0,273.07,2024-09-15,Brisbane,Australia,,Returned,1.0
+ORD00698,James Dubois,james.dubois438@example.com,Beauty,Face Serum,9.0,197.11,10.0,1596.59,2024-07-01,Nice,France,Cash on Delivery,Returned,4.0
+ORD00699,Priya Tanaka,priya.tanaka947@example.com,Clothing,Denim Jeans,5.0,400.8,0.0,2004.0,2023-09-13,Rio de Janeiro,Brazil,UPI,Returned,5.0
+ORD00700,Sara Wang,sara.wang257@example.com,Beauty,Perfume,,156.91,10.0,,2023-07-03,Nice,France,Credit Card,Cancelled,
+ORD00701,Vivaan Wang,vivaan.wang865@example.com,Sports,Dumbbell Set,10.0,469.72,15.0,3992.62,2023-03-07,Lyon,France,UPI,Processing,5.0
+ORD00702,Rohan Johnson,rohan.johnson151@example.com,Sports,Yoga Mat,1.0,96.21,25.0,72.16,2024-08-16,Sydney,Australia,Cash on Delivery,Shipped,4.0
+ORD00703,Sara Sharma,sara.sharma879@example.com,Home & Kitchen,Storage Jars,10.0,121.17,25.0,908.78,2023-04-26,Sao Paulo,Brazil,Debit Card,Shipped,4.0
+ORD00704,Sofia Suzuki,sofia.suzuki437@example.com,Home & Kitchen,Coffee Maker,,305.45,20.0,,2024-10-29,Perth,Australia,UPI,Returned,
+ORD00705,Mary Patel,mary.patel154@example.com,Sports,Yoga Mat,4.0,404.98,15.0,1376.93,2023-08-09,Tokyo,Japan,PayPal,Shipped,2.0
+ORD00706,Aditya Johnson,aditya.johnson589@example.com,Beauty,Perfume,9.0,367.86,0.0,3310.74,2024-09-13,Nice,France,UPI,Processing,5.0
+ORD00707,Kavya Johnson,kavya.johnson819@example.com,Home & Kitchen,Coffee Maker,2.0,348.07,20.0,556.91,2024-01-06,Chicago,USA,Cash on Delivery,Returned,4.0
+ORD00708,Wei Martinez,wei.martinez460@example.com,Books,Cookbook,3.0,463.23,20.0,1111.75,2024-11-21,Sharjah,UAE,Debit Card,Returned,4.0
+ORD00709,James Zhang,james.zhang419@example.com,Books,Children's Storybook,10.0,249.63,5.0,2371.49,2023-07-04,Paris,France,Debit Card,Delivered,5.0
+ORD00710,Chen Martinez,chen.martinez130@example.com,Electronics,Smartwatch,,87.63,20.0,,2024-03-08,Melbourne,Australia,Net Banking,Returned,4.0
+ORD00711,Ishaan Zhang,ishaan.zhang920@example.com,Home & Kitchen,Storage Jars,2.0,497.1,,994.2,2023-12-30,Nice,France,PayPal,Cancelled,4.0
+ORD00712,Kavya Martinez,kavya.martinez752@example.com,Clothing,Baseball Cap,9.0,46.48,15.0,355.57,2024-11-21,Nice,France,UPI,Cancelled,5.0
+ORD00713,Sara Reddy,sara.reddy506@example.com,Home & Kitchen,Non-stick Pan,9.0,292.01,20.0,2102.47,2023-10-20,Perth,Australia,UPI,Shipped,1.0
+ORD00714,Sofia Smith,sofia.smith285@example.com,Sports,Cycling Helmet,6.0,145.97,10.0,788.24,2024-05-13,Lyon,France,Debit Card,Processing,4.0
+ORD00715,Ava Reddy,ava.reddy683@example.com,Home & Kitchen,Coffee Maker,9.0,420.2,0.0,3781.8,2024-09-04,Hyderabad,India,Cash on Delivery,Shipped,
+ORD00716,Sofia Sharma,sofia.sharma289@example.com,Sports,Football,9.0,67.46,0.0,607.14,2023-05-03,Nice,France,Net Banking,Processing,3.0
+ORD00717,Sara Reddy,sara.reddy823@example.com,Electronics,Laptop Stand,6.0,82.58,25.0,371.61,2024-10-07,Brasilia,Brazil,,Delivered,4.0
+ORD00718,Mateo Patel,mateo.patel955@example.com,Beauty,Perfume,9.0,332.26,0.0,2990.34,2024-10-11,Delhi,India,Debit Card,Returned,3.0
+ORD00719,Li Smith,li.smith156@example.com,Books,Cookbook,5.0,70.24,0.0,351.2,2024-06-12,Berlin,Germany,Net Banking,Delivered,5.0
+ORD00720,Ananya Gupta,,Beauty,Lipstick Set,10.0,121.18,0.0,1211.8,2023-11-04,Hamburg,Germany,PayPal,Cancelled,4.0
+ORD00721,Ava Wang,ava.wang303@example.com,Electronics,Laptop Stand,5.0,212.7,5.0,1010.32,2024-11-09,Tokyo,Japan,Debit Card,Cancelled,2.0
+ORD00722,Mary Tanaka,mary.tanaka793@example.com,Books,History Book,4.0,19.34,5.0,73.49,2024-02-23,Hyderabad,India,,Processing,4.0
+ORD00723,Emma Tanaka,emma.tanaka436@example.com,Books,Self-Help Guide,5.0,245.33,0.0,1226.65,2023-11-12,Nice,France,Debit Card,Returned,5.0
+ORD00724,Ananya Reddy,ananya.reddy629@example.com,Sports,Cricket Bat,9.0,14.86,20.0,106.99,2023-04-03,Brisbane,Australia,,Returned,1.0
+ORD00725,David Smith,david.smith204@example.com,Clothing,Rain Jacket,4.0,148.64,15.0,505.38,2023-12-06,Osaka,Japan,Cash on Delivery,Shipped,1.0
+ORD00726,Lucas Sharma,lucas.sharma540@example.com,Electronics,Smartwatch,1.0,82.69,5.0,78.56,2024-10-08,Berlin,Germany,UPI,Delivered,4.0
+ORD00727,Wei Tanaka,wei.tanaka759@example.com,Home & Kitchen,Non-stick Pan,9.0,362.45,20.0,2609.64,2023-01-21,Pune,India,,Returned,3.0
+ORD00728,Ishaan Muller,ishaan.muller199@example.com,Sports,Cricket Bat,7.0,258.62,,1810.34,2023-10-08,Lyon,France,Credit Card,Processing,5.0
+ORD00729,Olivia Tanaka,olivia.tanaka96@example.com,Clothing,Wool Sweater,8.0,145.79,5.0,1108.0,2024-01-27,Chennai,India,PayPal,Cancelled,5.0
+ORD00730,Chen Reddy,chen.reddy592@example.com,Electronics,Smartwatch,8.0,188.06,10.0,1354.03,2023-12-07,London,UK,Credit Card,Returned,5.0
+ORD00731,Liam Johnson,liam.johnson413@example.com,Sports,Football,10.0,381.49,25.0,2861.18,2023-09-16,Kyoto,Japan,PayPal,Processing,1.0
+ORD00732,James Muller,james.muller893@example.com,Electronics,Webcam,9.0,398.37,15.0,3047.53,2024-10-29,Hamburg,Germany,Net Banking,Cancelled,2.0
+ORD00733,Isabella Reddy,isabella.reddy80@example.com,Books,Cookbook,3.0,262.37,5.0,747.75,2024-03-24,New York,USA,Net Banking,Cancelled,5.0
+ORD00734,Olivia Singh,olivia.singh561@example.com,Books,History Book,,63.2,10.0,,2024-06-19,Brisbane,Australia,Cash on Delivery,Shipped,5.0
+ORD00735,Li Smith,li.smith975@example.com,Beauty,Lipstick Set,5.0,238.69,15.0,1014.43,2023-05-19,Leeds,UK,Credit Card,Processing,3.0
+ORD00736,Olivia Kumar,olivia.kumar6@example.com,Home & Kitchen,LED Lamp,2.0,271.18,0.0,542.36,2024-10-01,Lyon,France,Credit Card,Processing,3.0
+ORD00737,Mary Sharma,mary.sharma282@example.com,Home & Kitchen,Cutlery Set,5.0,186.8,10.0,840.6,2024-07-28,Brasilia,Brazil,PayPal,Shipped,3.0
+ORD00738,Ishaan Smith,ishaan.smith270@example.com,Sports,Yoga Mat,9.0,295.72,15.0,2262.26,2024-08-12,Sharjah,UAE,UPI,Returned,5.0
+ORD00739,Ananya Gupta,,Clothing,Denim Jeans,10.0,77.51,0.0,775.1,2023-11-28,New York,USA,Debit Card,Returned,4.0
+ORD00740,Li Martinez,li.martinez513@example.com,Electronics,Laptop Stand,7.0,388.09,15.0,2309.14,2023-11-16,Rio de Janeiro,Brazil,Cash on Delivery,Delivered,3.0
+ORD00741,Priya Brown,priya.brown861@example.com,Books,Children's Storybook,5.0,344.26,20.0,1377.04,2024-10-29,Melbourne,Australia,Credit Card,Processing,4.0
+ORD00742,Yuki Suzuki,yuki.suzuki574@example.com,Clothing,Wool Sweater,1.0,101.94,5.0,96.84,2023-01-06,Abu Dhabi,UAE,UPI,Delivered,4.0
+ORD00743,David Sharma,david.sharma35@example.com,Beauty,Lipstick Set,7.0,26.74,10.0,168.46,2023-10-08,Hyderabad,India,,Delivered,5.0
+ORD00744,Ava Garcia,ava.garcia485@example.com,Beauty,Perfume,1.0,187.92,0.0,187.92,2023-07-01,London,UK,Net Banking,Delivered,
+ORD00745,Wei Patel,wei.patel879@example.com,Sports,Cricket Bat,4.0,329.28,15.0,1119.55,2024-11-19,Melbourne,Australia,Cash on Delivery,Processing,4.0
+ORD00746,Emma Patel,emma.patel845@example.com,Sports,Dumbbell Set,2.0,90.43,,180.86,2024-09-15,Frankfurt,Germany,Debit Card,Delivered,5.0
+ORD00747,Mary Reddy,mary.reddy582@example.com,Beauty,Face Serum,8.0,48.64,0.0,389.12,2023-03-30,Birmingham,UK,Cash on Delivery,Delivered,1.0
+ORD00748,Ananya Wang,ananya.wang899@example.com,Beauty,Shampoo,4.0,374.97,10.0,1349.89,2023-02-24,Kyoto,Japan,Debit Card,Processing,4.0
+ORD00749,Emma Johnson,emma.johnson280@example.com,Clothing,Denim Jeans,5.0,350.29,25.0,1313.59,2023-12-30,Abu Dhabi,UAE,UPI,Returned,3.0
+ORD00750,Vivaan Muller,vivaan.muller551@example.com,Sports,Dumbbell Set,7.0,176.73,10.0,1113.4,2023-08-01,Brisbane,Australia,Credit Card,Returned,4.0
+ORD00751,Ananya Garcia,ananya.garcia945@example.com,Electronics,USB-C Cable,8.0,295.48,20.0,1891.07,2024-11-05,Dubai,UAE,UPI,Delivered,1.0
+ORD00752,Priya Suzuki,priya.suzuki345@example.com,Beauty,Face Serum,6.0,156.61,0.0,939.66,2023-01-23,Nice,France,Cash on Delivery,Returned,4.0
+ORD00753,Olivia Johnson,olivia.johnson383@example.com,Sports,Cricket Bat,7.0,153.59,5.0,1021.37,2024-06-03,Houston,USA,Net Banking,Processing,4.0
+ORD00754,Liam Sharma,liam.sharma171@example.com,Home & Kitchen,Storage Jars,9.0,103.24,0.0,929.16,2023-05-14,Sydney,Australia,Credit Card,Processing,3.0
+ORD00755,Mei Wang,mei.wang170@example.com,Books,Fiction Novel,4.0,442.06,0.0,1768.24,2023-07-09,Munich,Germany,Net Banking,Delivered,3.0
+ORD00756,Li Rossi,li.rossi384@example.com,Electronics,Earbuds,2.0,238.05,5.0,452.3,2024-04-28,Yokohama,Japan,PayPal,Shipped,2.0
+ORD00757,John Singh,john.singh958@example.com,Clothing,Wool Sweater,5.0,410.8,20.0,1643.2,2024-09-03,Tokyo,Japan,UPI,Cancelled,5.0
+ORD00758,Aarav Johnson,aarav.johnson183@example.com,Clothing,Running Shoes,9.0,412.5,20.0,2970.0,2023-03-21,Munich,Germany,Net Banking,Shipped,
+ORD00759,Kavya Suzuki,kavya.suzuki394@example.com,Beauty,Shampoo,5.0,158.99,25.0,596.21,2023-02-05,Calgary,Canada,Debit Card,Shipped,5.0
+ORD00760,Sofia Reddy,sofia.reddy85@example.com,Home & Kitchen,LED Lamp,7.0,402.76,,2819.32,2023-11-23,Leeds,UK,PayPal,Cancelled,
+ORD00761,Wei Tanaka,wei.tanaka56@example.com,Home & Kitchen,Cutlery Set,2.0,303.8,25.0,455.7,2024-05-29,Perth,Australia,PayPal,Processing,4.0
+ORD00762,Ishaan Gupta,ishaan.gupta545@example.com,Books,Fiction Novel,6.0,474.36,10.0,2561.54,2023-07-22,Brasilia,Brazil,PayPal,Cancelled,5.0
+ORD00763,Kavya Patel,kavya.patel502@example.com,Books,Self-Help Guide,10.0,344.76,15.0,2930.46,2024-11-22,Toronto,Canada,Cash on Delivery,Processing,4.0
+ORD00764,Emma Sharma,emma.sharma305@example.com,Beauty,Face Serum,6.0,367.29,20.0,1762.99,2023-09-12,London,UK,Cash on Delivery,Delivered,3.0
+ORD00765,Wei Martinez,wei.martinez282@example.com,Home & Kitchen,Cutlery Set,4.0,459.79,25.0,1379.37,2023-02-11,Chicago,USA,UPI,Delivered,2.0
+ORD00766,John Silva,john.silva81@example.com,Home & Kitchen,LED Lamp,7.0,203.37,10.0,1281.23,2024-10-30,Houston,USA,Credit Card,Shipped,4.0
+ORD00767,Ava Silva,ava.silva813@example.com,Clothing,Baseball Cap,6.0,288.8,20.0,1386.24,2023-10-09,Birmingham,UK,Cash on Delivery,Delivered,3.0
+ORD00768,Li Williams,li.williams417@example.com,Clothing,Cotton T-Shirt,3.0,141.01,15.0,359.58,2023-04-10,Munich,Germany,Credit Card,Processing,5.0
+ORD00769,Kavya Dubois,kavya.dubois603@example.com,Books,Children's Storybook,7.0,240.42,15.0,1430.5,2023-12-15,Brisbane,Australia,,Cancelled,5.0
+ORD00770,Ananya Rossi,ananya.rossi690@example.com,Books,Self-Help Guide,10.0,484.02,15.0,4114.17,2023-03-27,Hamburg,Germany,UPI,Processing,5.0
+ORD00771,Li Garcia,,Sports,Cycling Helmet,6.0,284.62,0.0,1707.72,2023-10-18,Brasilia,Brazil,Net Banking,Shipped,5.0
+ORD00772,Rohan Tanaka,rohan.tanaka871@example.com,Electronics,Bluetooth Speaker,4.0,496.1,0.0,1984.4,2023-06-12,Yokohama,Japan,UPI,Shipped,5.0
+ORD00773,Sara Zhang,sara.zhang646@example.com,Electronics,Power Bank,9.0,199.13,25.0,1344.13,2024-04-20,Calgary,Canada,Debit Card,Shipped,1.0
+ORD00774,Sophia Zhang,sophia.zhang672@example.com,Clothing,Baseball Cap,7.0,292.18,20.0,1636.21,2024-02-25,Berlin,Germany,Cash on Delivery,Shipped,5.0
+ORD00775,David Kumar,david.kumar750@example.com,Books,Fiction Novel,4.0,87.4,0.0,349.6,2024-01-15,Pune,India,Cash on Delivery,Cancelled,3.0
+ORD00776,Lucas Gupta,lucas.gupta741@example.com,Clothing,Denim Jeans,4.0,164.75,0.0,659.0,2023-07-31,Abu Dhabi,UAE,Net Banking,Shipped,5.0
+ORD00777,Diya Gupta,diya.gupta513@example.com,Beauty,Face Serum,6.0,436.68,5.0,2489.08,2024-04-18,New York,USA,PayPal,Delivered,4.0
+ORD00778,Lucas Silva,lucas.silva883@example.com,Books,Fiction Novel,5.0,442.26,0.0,2211.3,2024-03-25,Paris,France,UPI,Cancelled,1.0
+ORD00779,Mary Tanaka,mary.tanaka524@example.com,Beauty,Sunscreen,2.0,56.29,0.0,112.58,2023-06-23,Perth,Australia,PayPal,Processing,3.0
+ORD00780,Mei Martinez,mei.martinez100@example.com,Home & Kitchen,LED Lamp,8.0,450.1,5.0,3420.76,2023-09-24,Brisbane,Australia,PayPal,Cancelled,5.0
+ORD00781,Chen Brown,chen.brown609@example.com,Electronics,USB-C Cable,5.0,17.84,15.0,75.82,2023-10-26,Vancouver,Canada,Cash on Delivery,Processing,5.0
+ORD00782,Li Williams,li.williams825@example.com,Beauty,Shampoo,5.0,430.28,5.0,2043.83,2023-01-29,Hamburg,Germany,Debit Card,Returned,
+ORD00783,Mary Silva,mary.silva530@example.com,Books,History Book,3.0,486.34,15.0,1240.17,2024-06-19,Perth,Australia,,Cancelled,5.0
+ORD00784,Olivia Gupta,olivia.gupta389@example.com,Electronics,Bluetooth Speaker,5.0,107.18,0.0,535.9,2024-10-27,Hamburg,Germany,Net Banking,Cancelled,1.0
+ORD00785,Sofia Silva,sofia.silva760@example.com,Clothing,Running Shoes,7.0,315.07,0.0,2205.49,2023-10-05,Brasilia,Brazil,,Returned,1.0
+ORD00786,Michael Muller,michael.muller251@example.com,Home & Kitchen,LED Lamp,4.0,118.03,0.0,472.12,2023-02-11,Abu Dhabi,UAE,Cash on Delivery,Processing,3.0
+ORD00787,Yuki Kumar,yuki.kumar136@example.com,Sports,Cricket Bat,4.0,125.75,25.0,377.25,2024-04-20,San Francisco,USA,,Delivered,2.0
+ORD00788,Ananya Martinez,ananya.martinez86@example.com,Books,Cookbook,10.0,111.42,0.0,1114.2,2024-08-18,Tokyo,Japan,PayPal,Cancelled,3.0
+ORD00789,Liam Dubois,liam.dubois1@example.com,Home & Kitchen,Cutlery Set,8.0,317.41,25.0,1904.46,2024-06-10,Montreal,Canada,UPI,Returned,4.0
+ORD00790,Li Rossi,li.rossi641@example.com,Books,Fiction Novel,3.0,246.35,25.0,554.29,2024-05-22,Manchester,UK,Credit Card,Cancelled,2.0
+ORD00791,Isabella Garcia,isabella.garcia704@example.com,Sports,Dumbbell Set,2.0,382.61,10.0,688.7,2023-11-24,Rio de Janeiro,Brazil,Credit Card,Processing,3.0
+ORD00792,Liam Singh,liam.singh197@example.com,Books,Cookbook,10.0,332.98,25.0,2497.35,2024-10-31,Abu Dhabi,UAE,,Processing,4.0
+ORD00793,Olivia Williams,olivia.williams314@example.com,Home & Kitchen,LED Lamp,6.0,227.61,20.0,1092.53,2024-03-03,Chennai,India,Credit Card,Cancelled,3.0
+ORD00794,Michael Brown,,Beauty,Shampoo,5.0,150.92,15.0,641.41,2024-03-13,Kyoto,Japan,Cash on Delivery,Returned,3.0
+ORD00795,Ava Silva,ava.silva281@example.com,Electronics,Bluetooth Speaker,6.0,362.81,25.0,1632.64,2023-02-17,Yokohama,Japan,Debit Card,Processing,5.0
+ORD00796,John Patel,john.patel655@example.com,Home & Kitchen,Blender,8.0,462.19,0.0,3697.52,2023-03-17,Perth,Australia,,Shipped,5.0
+ORD00797,Kavya Muller,kavya.muller91@example.com,Books,Cookbook,9.0,382.58,10.0,3098.9,2023-01-23,London,UK,,Processing,4.0
+ORD00798,Mateo Garcia,mateo.garcia220@example.com,Clothing,Running Shoes,8.0,184.29,10.0,1326.89,2023-09-19,Sharjah,UAE,Credit Card,Shipped,4.0
+ORD00799,Emma Tanaka,emma.tanaka818@example.com,Electronics,Wireless Mouse,9.0,189.87,0.0,1708.83,2024-05-31,Perth,Australia,UPI,Returned,2.0
+ORD00800,Yuki Kumar,yuki.kumar998@example.com,Sports,Yoga Mat,9.0,423.92,25.0,2861.46,2024-09-16,Berlin,Germany,,Cancelled,5.0
+ORD00801,Michael Singh,michael.singh75@example.com,Clothing,Baseball Cap,8.0,266.22,20.0,1703.81,2023-01-22,Kyoto,Japan,Credit Card,Returned,1.0
+ORD00802,Aarav Johnson,aarav.johnson155@example.com,Home & Kitchen,Coffee Maker,6.0,268.52,5.0,1530.56,2024-08-11,Melbourne,Australia,Debit Card,Shipped,3.0
+ORD00803,Ishaan Sharma,ishaan.sharma968@example.com,Electronics,USB-C Cable,2.0,167.09,5.0,317.47,2024-11-04,Munich,Germany,UPI,Shipped,4.0
+ORD00804,Diya Smith,diya.smith28@example.com,Clothing,Wool Sweater,7.0,17.58,5.0,116.91,2024-01-25,Chennai,India,Net Banking,Cancelled,4.0
+ORD00805,Liam Reddy,liam.reddy180@example.com,Sports,Cycling Helmet,2.0,85.63,25.0,128.44,2024-09-11,Brisbane,Australia,Net Banking,Shipped,2.0
+ORD00806,Mei Silva,mei.silva262@example.com,Sports,Yoga Mat,1.0,8.59,20.0,6.87,2023-04-13,Brisbane,Australia,UPI,Delivered,4.0
+ORD00807,Diya Kumar,diya.kumar830@example.com,Books,History Book,,482.3,15.0,,2023-02-16,Manchester,UK,Debit Card,Returned,
+ORD00808,David Singh,david.singh482@example.com,Electronics,Wireless Mouse,4.0,433.84,15.0,1475.06,2024-09-24,Osaka,Japan,Net Banking,Shipped,5.0
+ORD00809,Rohan Gupta,rohan.gupta948@example.com,Electronics,USB-C Cable,,106.02,15.0,,2023-09-29,Abu Dhabi,UAE,Credit Card,Delivered,5.0
+ORD00810,Vivaan Singh,vivaan.singh48@example.com,Sports,Football,9.0,89.02,15.0,681.0,2023-08-17,Houston,USA,Credit Card,Delivered,5.0
+ORD00811,Emma Rossi,emma.rossi878@example.com,Sports,Yoga Mat,8.0,450.28,15.0,3061.9,2024-11-03,Rio de Janeiro,Brazil,Cash on Delivery,Delivered,5.0
+ORD00812,Ananya Singh,ananya.singh133@example.com,Clothing,Denim Jeans,2.0,360.05,0.0,720.1,2023-09-13,Hamburg,Germany,Debit Card,Processing,5.0
+ORD00813,Li Muller,li.muller592@example.com,Home & Kitchen,Coffee Maker,6.0,332.29,0.0,1993.74,2024-01-30,Delhi,India,Debit Card,Delivered,1.0
+ORD00814,Sofia Johnson,sofia.johnson331@example.com,Electronics,Earbuds,6.0,97.94,20.0,470.11,2024-04-07,Frankfurt,Germany,Cash on Delivery,Processing,2.0
+ORD00815,Yuki Brown,yuki.brown527@example.com,Home & Kitchen,Blender,3.0,131.37,25.0,295.58,2024-07-16,Paris,France,PayPal,Processing,4.0
+ORD00816,Aditya Wang,aditya.wang27@example.com,Sports,Dumbbell Set,8.0,415.89,10.0,2994.41,2023-05-10,Brisbane,Australia,Net Banking,Cancelled,2.0
+ORD00817,Lucas Silva,lucas.silva840@example.com,Sports,Dumbbell Set,4.0,389.08,15.0,1322.87,2024-06-22,Dubai,UAE,Cash on Delivery,Returned,5.0
+ORD00818,Mary Rossi,mary.rossi970@example.com,Sports,Dumbbell Set,2.0,341.8,5.0,649.42,2023-06-05,Brasilia,Brazil,Net Banking,Shipped,4.0
+ORD00819,Kavya Tanaka,kavya.tanaka996@example.com,Books,History Book,3.0,362.17,0.0,1086.51,2023-09-15,Brasilia,Brazil,UPI,Shipped,5.0
+ORD00820,Ava Kumar,ava.kumar421@example.com,Clothing,Denim Jeans,3.0,383.47,5.0,1092.89,2024-02-05,Leeds,UK,Net Banking,Returned,4.0
+ORD00821,Aditya Johnson,aditya.johnson283@example.com,Clothing,Wool Sweater,10.0,472.45,25.0,3543.38,2023-05-26,Montreal,Canada,Credit Card,Delivered,5.0
+ORD00822,Ishaan Dubois,ishaan.dubois677@example.com,Books,Self-Help Guide,9.0,372.74,0.0,3354.66,2023-12-16,Toronto,Canada,Net Banking,Processing,5.0
+ORD00823,Emma Muller,emma.muller727@example.com,Beauty,Sunscreen,4.0,263.81,15.0,896.95,2023-09-05,Nice,France,Net Banking,Delivered,4.0
+ORD00824,Sofia Brown,sofia.brown656@example.com,Sports,Cricket Bat,5.0,491.63,0.0,2458.15,2024-05-12,Frankfurt,Germany,Debit Card,Returned,4.0
+ORD00825,Ishaan Martinez,ishaan.martinez858@example.com,Sports,Football,7.0,25.84,0.0,180.88,2024-08-12,New York,USA,,Shipped,5.0
+ORD00826,Emma Tanaka,emma.tanaka41@example.com,Home & Kitchen,LED Lamp,8.0,288.81,20.0,1848.38,2024-10-05,Tokyo,Japan,Debit Card,Returned,4.0
+ORD00827,Ishaan Williams,ishaan.williams822@example.com,Electronics,Earbuds,5.0,182.5,15.0,775.62,2023-09-12,Calgary,Canada,,Delivered,4.0
+ORD00828,Haruto Gupta,haruto.gupta790@example.com,Sports,Cricket Bat,6.0,391.58,25.0,1762.11,2023-04-02,Brisbane,Australia,Cash on Delivery,Returned,3.0
+ORD00829,James Williams,james.williams740@example.com,Electronics,Smartwatch,8.0,321.54,5.0,2443.7,2023-09-29,Marseille,France,UPI,Cancelled,3.0
+ORD00830,Priya Zhang,,Clothing,Rain Jacket,9.0,351.61,0.0,3164.49,2024-02-12,Sharjah,UAE,Credit Card,Shipped,5.0
+ORD00831,Isabella Tanaka,isabella.tanaka150@example.com,Beauty,Lipstick Set,7.0,70.85,10.0,446.35,2024-09-20,Dubai,UAE,UPI,Shipped,1.0
+ORD00832,Diya Rossi,diya.rossi281@example.com,Electronics,Earbuds,4.0,126.45,5.0,480.51,2023-05-29,Bengaluru,India,Debit Card,Delivered,5.0
+ORD00833,Sofia Garcia,sofia.garcia565@example.com,Sports,Dumbbell Set,9.0,292.54,20.0,2106.29,2023-09-25,Brisbane,Australia,Net Banking,Processing,3.0
+ORD00834,James Rossi,james.rossi982@example.com,Beauty,Shampoo,4.0,398.8,0.0,1595.2,2024-06-03,Marseille,France,Credit Card,Returned,4.0
+ORD00835,Chen Rossi,chen.rossi230@example.com,Books,Self-Help Guide,1.0,232.82,20.0,186.26,2023-03-08,London,UK,Cash on Delivery,Cancelled,1.0
+ORD00836,Mateo Wang,mateo.wang724@example.com,Clothing,Cotton T-Shirt,2.0,477.59,10.0,859.66,2023-01-29,Abu Dhabi,UAE,Net Banking,Shipped,3.0
+ORD00837,Li Garcia,li.garcia714@example.com,Beauty,Lipstick Set,10.0,400.22,20.0,3201.76,2023-05-28,Brasilia,Brazil,Cash on Delivery,Processing,5.0
+ORD00838,Vivaan Wang,vivaan.wang794@example.com,Electronics,Bluetooth Speaker,3.0,367.62,0.0,1102.86,2023-07-05,Pune,India,Net Banking,Delivered,2.0
+ORD00839,John Muller,john.muller702@example.com,Books,History Book,8.0,73.56,0.0,588.48,2023-11-15,Melbourne,Australia,PayPal,Cancelled,5.0
+ORD00840,Aditya Gupta,aditya.gupta206@example.com,Clothing,Running Shoes,2.0,173.16,10.0,311.69,2023-01-21,Dubai,UAE,Cash on Delivery,Delivered,2.0
+ORD00841,Priya Sharma,priya.sharma542@example.com,Electronics,Wireless Mouse,5.0,18.69,15.0,79.43,2023-03-13,Manchester,UK,PayPal,Returned,5.0
+ORD00842,Ananya Wang,ananya.wang700@example.com,Clothing,Rain Jacket,3.0,446.26,0.0,1338.78,2024-06-03,Leeds,UK,Credit Card,Returned,
+ORD00843,Sophia Reddy,sophia.reddy320@example.com,Home & Kitchen,Non-stick Pan,3.0,297.1,0.0,891.3,2024-05-24,Munich,Germany,Cash on Delivery,Processing,5.0
+ORD00844,Sofia Tanaka,sofia.tanaka967@example.com,Electronics,Bluetooth Speaker,6.0,74.98,25.0,337.41,2023-07-12,Tokyo,Japan,UPI,Delivered,5.0
+ORD00845,Mei Muller,mei.muller533@example.com,Electronics,Power Bank,10.0,289.67,20.0,2317.36,2024-07-13,Hamburg,Germany,UPI,Shipped,3.0
+ORD00846,Kavya Suzuki,kavya.suzuki387@example.com,Electronics,Earbuds,,56.64,20.0,,2023-11-10,Marseille,France,,Delivered,1.0
+ORD00847,Ananya Kumar,ananya.kumar602@example.com,Beauty,Perfume,6.0,370.93,0.0,2225.58,2023-11-07,Osaka,Japan,UPI,Returned,
+ORD00848,Sofia Suzuki,sofia.suzuki537@example.com,Clothing,Rain Jacket,1.0,455.78,0.0,455.78,2023-08-15,Sydney,Australia,PayPal,Shipped,5.0
+ORD00849,Wei Dubois,,Books,Cookbook,2.0,462.53,,925.06,2023-09-04,Melbourne,Australia,Net Banking,Shipped,4.0
+ORD00850,Vivaan Singh,vivaan.singh253@example.com,Sports,Cricket Bat,7.0,341.8,10.0,2153.34,2023-07-29,Calgary,Canada,PayPal,Delivered,4.0
+ORD00851,John Brown,john.brown195@example.com,Books,Self-Help Guide,7.0,25.69,0.0,179.83,2024-11-09,Berlin,Germany,PayPal,Delivered,5.0
+ORD00852,Aditya Gupta,aditya.gupta172@example.com,Beauty,Lipstick Set,7.0,145.98,10.0,919.67,2023-04-22,Houston,USA,,Shipped,5.0
+ORD00853,Lucas Martinez,lucas.martinez531@example.com,Electronics,Earbuds,2.0,118.18,0.0,236.36,2023-03-27,Los Angeles,USA,Net Banking,Returned,3.0
+ORD00854,Michael Dubois,michael.dubois679@example.com,Sports,Dumbbell Set,6.0,26.66,,159.96,2023-06-06,Brisbane,Australia,Debit Card,Processing,1.0
+ORD00855,John Tanaka,john.tanaka299@example.com,Sports,Yoga Mat,4.0,171.26,0.0,685.04,2024-03-27,Los Angeles,USA,Cash on Delivery,Returned,3.0
+ORD00856,Rohan Rossi,rohan.rossi59@example.com,Electronics,Bluetooth Speaker,9.0,13.64,15.0,104.35,2024-01-15,Delhi,India,Credit Card,Shipped,
+ORD00857,Aarav Muller,aarav.muller397@example.com,Sports,Yoga Mat,1.0,284.0,25.0,213.0,2024-08-08,Kyoto,Japan,PayPal,Returned,3.0
+ORD00858,Li Martinez,li.martinez354@example.com,Beauty,Sunscreen,3.0,229.84,5.0,655.04,2023-05-28,Vancouver,Canada,Net Banking,Processing,4.0
+ORD00859,Yuki Sharma,yuki.sharma308@example.com,Clothing,Cotton T-Shirt,9.0,426.58,0.0,3839.22,2024-10-03,Melbourne,Australia,Net Banking,Cancelled,5.0
+ORD00860,Yuki Garcia,yuki.garcia398@example.com,Books,Self-Help Guide,7.0,70.89,5.0,471.42,2023-08-11,Munich,Germany,,Returned,5.0
+ORD00861,Sophia Suzuki,sophia.suzuki315@example.com,Clothing,Wool Sweater,2.0,273.7,20.0,437.92,2023-02-22,Munich,Germany,UPI,Returned,4.0
+ORD00862,Isabella Silva,isabella.silva966@example.com,Books,Fiction Novel,7.0,285.86,0.0,2001.02,2024-10-18,Osaka,Japan,Debit Card,Cancelled,3.0
+ORD00863,Lucas Singh,lucas.singh499@example.com,Home & Kitchen,Storage Jars,10.0,267.64,0.0,2676.4,2024-11-23,New York,USA,Credit Card,Delivered,
+ORD00864,Lucas Patel,lucas.patel93@example.com,Home & Kitchen,Blender,3.0,479.19,0.0,1437.57,2024-01-07,Abu Dhabi,UAE,Cash on Delivery,Cancelled,3.0
+ORD00865,Kavya Williams,kavya.williams576@example.com,Clothing,Denim Jeans,2.0,268.49,0.0,536.98,2024-07-29,Brasilia,Brazil,Net Banking,Processing,3.0
+ORD00866,Ishaan Singh,ishaan.singh100@example.com,Electronics,USB-C Cable,8.0,192.79,0.0,1542.32,2024-08-23,Perth,Australia,Cash on Delivery,Returned,1.0
+ORD00867,Olivia Muller,olivia.muller348@example.com,Electronics,Power Bank,3.0,313.9,0.0,941.7,2023-04-24,Hamburg,Germany,UPI,Delivered,5.0
+ORD00868,Aarav Dubois,aarav.dubois428@example.com,Clothing,Running Shoes,4.0,259.14,0.0,1036.56,2024-05-16,Melbourne,Australia,Credit Card,Shipped,4.0
+ORD00869,Michael Suzuki,michael.suzuki280@example.com,Beauty,Sunscreen,6.0,277.88,0.0,1667.28,2024-08-10,Bengaluru,India,Net Banking,Shipped,4.0
+ORD00870,John Patel,john.patel277@example.com,Beauty,Sunscreen,9.0,427.55,20.0,3078.36,2023-12-17,Birmingham,UK,PayPal,Processing,5.0
+ORD00871,Kavya Brown,kavya.brown461@example.com,Beauty,Face Serum,6.0,431.43,0.0,2588.58,2023-05-12,Los Angeles,USA,Credit Card,Shipped,3.0
+ORD00872,Liam Johnson,liam.johnson885@example.com,Electronics,Wireless Mouse,6.0,435.73,0.0,2614.38,2024-08-19,Marseille,France,,Delivered,1.0
+ORD00873,Chen Singh,chen.singh764@example.com,Electronics,USB-C Cable,2.0,6.9,5.0,13.11,2023-08-04,Pune,India,Credit Card,Cancelled,5.0
+ORD00874,Ananya Martinez,ananya.martinez726@example.com,Books,Children's Storybook,8.0,147.59,0.0,1180.72,2024-03-29,London,UK,Credit Card,Shipped,4.0
+ORD00875,Rohan Rossi,rohan.rossi194@example.com,Beauty,Face Serum,2.0,98.16,5.0,186.5,2023-06-16,Kyoto,Japan,Cash on Delivery,Cancelled,4.0
+ORD00876,Ananya Suzuki,ananya.suzuki354@example.com,Beauty,Shampoo,5.0,144.32,0.0,721.6,2023-03-06,Marseille,France,PayPal,Delivered,4.0
+ORD00877,Aditya Garcia,,Beauty,Face Serum,6.0,350.55,0.0,2103.3,2024-08-05,Montreal,Canada,Net Banking,Processing,5.0
+ORD00878,Mary Martinez,mary.martinez501@example.com,Home & Kitchen,Storage Jars,4.0,117.92,15.0,400.93,2024-02-24,Nice,France,UPI,Cancelled,5.0
+ORD00879,Michael Singh,michael.singh769@example.com,Books,History Book,3.0,395.19,0.0,1185.57,2024-02-14,Sydney,Australia,Net Banking,Shipped,3.0
+ORD00880,Ananya Reddy,,Books,Cookbook,4.0,15.73,10.0,56.63,2024-07-16,Vancouver,Canada,Debit Card,Cancelled,5.0
+ORD00881,Emma Suzuki,emma.suzuki164@example.com,Books,Fiction Novel,2.0,38.12,25.0,57.18,2024-09-14,Vancouver,Canada,Debit Card,Returned,3.0
+ORD00882,Emma Martinez,,Home & Kitchen,LED Lamp,5.0,343.61,0.0,1718.05,2024-09-05,Birmingham,UK,UPI,Processing,3.0
+ORD00883,Mary Muller,mary.muller65@example.com,Electronics,Earbuds,4.0,108.68,5.0,412.98,2023-11-17,Marseille,France,Cash on Delivery,Processing,4.0
+ORD00884,Chen Smith,chen.smith989@example.com,Home & Kitchen,LED Lamp,4.0,355.51,5.0,1350.94,2024-05-15,Abu Dhabi,UAE,Credit Card,Processing,2.0
+ORD00885,John Singh,john.singh84@example.com,Sports,Football,5.0,38.13,5.0,181.12,2023-10-10,Birmingham,UK,,Delivered,3.0
+ORD00886,Wei Sharma,wei.sharma845@example.com,Sports,Football,5.0,478.55,15.0,2033.84,2024-09-11,Sao Paulo,Brazil,,Shipped,5.0
+ORD00887,Ava Reddy,ava.reddy63@example.com,Beauty,Shampoo,9.0,144.82,20.0,1042.7,2023-01-12,Montreal,Canada,Debit Card,Shipped,1.0
+ORD00888,Wei Suzuki,wei.suzuki477@example.com,Clothing,Wool Sweater,9.0,82.7,15.0,632.66,2023-04-21,Calgary,Canada,UPI,Shipped,5.0
+ORD00889,Kavya Gupta,kavya.gupta331@example.com,Electronics,Bluetooth Speaker,6.0,278.52,15.0,1420.45,2024-01-20,Sao Paulo,Brazil,PayPal,Cancelled,4.0
+ORD00890,Priya Zhang,priya.zhang779@example.com,Electronics,Webcam,10.0,24.49,0.0,244.9,2024-05-23,New York,USA,Debit Card,Shipped,3.0
+ORD00891,Chen Johnson,chen.johnson369@example.com,Home & Kitchen,Blender,6.0,376.67,0.0,2260.02,2024-06-21,Yokohama,Japan,PayPal,Shipped,2.0
+ORD00892,Sofia Smith,sofia.smith119@example.com,Home & Kitchen,Coffee Maker,9.0,16.99,5.0,145.26,2024-05-05,Mumbai,India,Debit Card,Shipped,3.0
+ORD00893,David Zhang,david.zhang775@example.com,Beauty,Sunscreen,,383.94,20.0,,2024-07-17,New York,USA,Debit Card,Returned,
+ORD00894,Diya Muller,diya.muller358@example.com,Beauty,Face Serum,6.0,257.03,20.0,1233.74,2023-08-06,London,UK,PayPal,Returned,5.0
+ORD00895,Mary Silva,mary.silva855@example.com,Clothing,Rain Jacket,4.0,166.89,0.0,667.56,2024-10-28,Calgary,Canada,Credit Card,Cancelled,5.0
+ORD00896,Haruto Tanaka,haruto.tanaka116@example.com,Electronics,Smartwatch,4.0,104.07,10.0,374.65,2024-11-21,Hamburg,Germany,UPI,Cancelled,
+ORD00897,Wei Johnson,wei.johnson906@example.com,Home & Kitchen,Coffee Maker,5.0,11.12,15.0,47.26,2023-07-31,Nice,France,PayPal,Processing,4.0
+ORD00898,Ava Gupta,ava.gupta492@example.com,Sports,Cycling Helmet,4.0,43.45,0.0,173.8,2023-02-01,Dubai,UAE,,Delivered,1.0
+ORD00899,Kavya Garcia,kavya.garcia582@example.com,Clothing,Cotton T-Shirt,4.0,324.66,15.0,1103.84,2023-03-19,Calgary,Canada,PayPal,Delivered,1.0
+ORD00900,Mateo Reddy,mateo.reddy270@example.com,Books,Cookbook,1.0,440.74,0.0,440.74,2023-01-15,New York,USA,PayPal,Shipped,5.0
+ORD00901,Chen Rossi,chen.rossi24@example.com,Beauty,Perfume,3.0,111.66,20.0,267.98,2023-01-31,Chennai,India,Net Banking,Cancelled,1.0
+ORD00902,Liam Patel,liam.patel983@example.com,Home & Kitchen,LED Lamp,8.0,105.34,10.0,758.45,2023-07-12,Frankfurt,Germany,,Delivered,1.0
+ORD00903,Lucas Muller,lucas.muller446@example.com,Sports,Football,1.0,146.83,15.0,124.81,2024-04-12,Lyon,France,UPI,Processing,5.0
+ORD00904,Rohan Zhang,rohan.zhang356@example.com,Books,Cookbook,6.0,236.4,10.0,1276.56,2023-06-01,Nice,France,UPI,Cancelled,4.0
+ORD00905,Mateo Singh,mateo.singh368@example.com,Beauty,Sunscreen,9.0,431.59,0.0,3884.31,2023-12-18,Brasilia,Brazil,Debit Card,Returned,3.0
+ORD00906,Lucas Muller,lucas.muller836@example.com,Clothing,Baseball Cap,7.0,440.96,0.0,3086.72,2024-06-16,San Francisco,USA,Credit Card,Processing,3.0
+ORD00907,Yuki Johnson,yuki.johnson807@example.com,Home & Kitchen,Cutlery Set,6.0,276.48,20.0,1327.1,2023-08-13,Abu Dhabi,UAE,PayPal,Cancelled,2.0
+ORD00908,Diya Garcia,diya.garcia711@example.com,Clothing,Baseball Cap,,397.83,0.0,,2024-05-22,London,UK,PayPal,Processing,4.0
+ORD00909,Kavya Smith,kavya.smith99@example.com,Clothing,Cotton T-Shirt,,151.41,0.0,,2023-03-10,Calgary,Canada,Credit Card,Cancelled,4.0
+ORD00910,Aarav Dubois,aarav.dubois398@example.com,Home & Kitchen,Coffee Maker,10.0,296.9,0.0,2969.0,2024-11-26,Paris,France,Net Banking,Processing,4.0
+ORD00911,Chen Martinez,chen.martinez393@example.com,Sports,Yoga Mat,10.0,312.01,25.0,2340.07,2023-01-28,Tokyo,Japan,Net Banking,Delivered,5.0
+ORD00912,Aditya Kumar,aditya.kumar851@example.com,Beauty,Face Serum,6.0,124.48,0.0,746.88,2023-11-27,Calgary,Canada,Debit Card,Returned,1.0
+ORD00913,Li Singh,li.singh692@example.com,Electronics,Earbuds,3.0,234.27,20.0,562.25,2024-07-02,Bengaluru,India,Cash on Delivery,Delivered,5.0
+ORD00914,Priya Garcia,priya.garcia167@example.com,Electronics,Webcam,7.0,59.29,0.0,415.03,2023-07-23,Nice,France,Debit Card,Delivered,3.0
+ORD00915,Haruto Tanaka,haruto.tanaka188@example.com,Clothing,Running Shoes,10.0,423.54,25.0,3176.55,2023-04-29,Los Angeles,USA,Debit Card,Shipped,5.0
+ORD00916,Liam Sharma,liam.sharma376@example.com,Beauty,Sunscreen,,264.96,0.0,,2024-03-04,Paris,France,UPI,Cancelled,4.0
+ORD00917,Aditya Kumar,aditya.kumar899@example.com,Beauty,Lipstick Set,9.0,460.04,0.0,4140.36,2023-05-04,Delhi,India,Credit Card,Returned,3.0
+ORD00918,Michael Rossi,michael.rossi270@example.com,Books,Fiction Novel,3.0,293.15,0.0,879.45,2023-08-26,Munich,Germany,UPI,Shipped,4.0
+ORD00919,Aarav Wang,aarav.wang808@example.com,Electronics,Bluetooth Speaker,5.0,294.86,,1474.3,2023-05-21,Melbourne,Australia,,Cancelled,3.0
+ORD00920,Li Martinez,li.martinez220@example.com,Electronics,USB-C Cable,9.0,430.05,0.0,3870.45,2024-06-06,London,UK,Net Banking,Returned,2.0
+ORD00921,Liam Gupta,liam.gupta772@example.com,Books,Self-Help Guide,5.0,206.16,0.0,1030.8,2023-11-25,Tokyo,Japan,Debit Card,Processing,5.0
+ORD00922,Sofia Johnson,sofia.johnson131@example.com,Books,Children's Storybook,9.0,444.93,0.0,4004.37,2023-09-05,Sharjah,UAE,UPI,Cancelled,4.0
+ORD00923,Ava Sharma,ava.sharma576@example.com,Electronics,USB-C Cable,1.0,187.91,25.0,140.93,2024-10-27,Brisbane,Australia,,Returned,4.0
+ORD00924,Lucas Martinez,lucas.martinez396@example.com,Beauty,Perfume,10.0,301.67,0.0,3016.7,2024-04-25,Sydney,Australia,PayPal,Cancelled,5.0
+ORD00925,David Dubois,david.dubois258@example.com,Beauty,Lipstick Set,5.0,299.24,15.0,1271.77,2023-09-03,Dubai,UAE,UPI,Processing,4.0
+ORD00926,David Suzuki,david.suzuki613@example.com,Books,Cookbook,3.0,402.11,5.0,1146.01,2024-01-06,Brasilia,Brazil,UPI,Shipped,5.0
+ORD00927,David Gupta,david.gupta741@example.com,Home & Kitchen,LED Lamp,10.0,396.02,0.0,3960.2,2024-10-25,Marseille,France,Debit Card,Cancelled,4.0
+ORD00928,Isabella Muller,isabella.muller350@example.com,Clothing,Running Shoes,5.0,66.59,20.0,266.36,2023-01-04,Los Angeles,USA,,Processing,5.0
+ORD00929,Isabella Rossi,isabella.rossi284@example.com,Sports,Cycling Helmet,5.0,30.24,25.0,113.4,2024-09-01,Houston,USA,Net Banking,Cancelled,3.0
+ORD00930,Priya Reddy,priya.reddy821@example.com,Electronics,Wireless Mouse,5.0,58.19,0.0,290.95,2023-04-09,Osaka,Japan,Credit Card,Returned,
+ORD00931,Ishaan Zhang,ishaan.zhang737@example.com,Home & Kitchen,Blender,4.0,114.12,10.0,410.83,2024-07-19,Melbourne,Australia,Debit Card,Delivered,4.0
+ORD00932,Haruto Johnson,haruto.johnson990@example.com,Books,Cookbook,1.0,477.46,10.0,429.71,2024-05-12,New York,USA,Debit Card,Cancelled,5.0
+ORD00933,Ava Gupta,ava.gupta940@example.com,Clothing,Running Shoes,4.0,337.22,20.0,1079.1,2024-04-01,Munich,Germany,Credit Card,Delivered,5.0
+ORD00934,Michael Singh,michael.singh394@example.com,Sports,Football,,383.7,25.0,,2024-03-23,Rio de Janeiro,Brazil,UPI,Delivered,5.0
+ORD00935,John Garcia,john.garcia382@example.com,Clothing,Baseball Cap,7.0,88.35,5.0,587.53,2023-11-18,Perth,Australia,UPI,Shipped,3.0
+ORD00936,John Dubois,john.dubois984@example.com,Electronics,Laptop Stand,2.0,228.86,20.0,366.18,2024-08-08,Brisbane,Australia,Net Banking,Delivered,5.0
+ORD00937,Isabella Suzuki,isabella.suzuki262@example.com,Home & Kitchen,Coffee Maker,5.0,241.87,5.0,1148.88,2023-02-07,Kyoto,Japan,Credit Card,Shipped,3.0
+ORD00938,Aditya Dubois,aditya.dubois52@example.com,Home & Kitchen,Non-stick Pan,5.0,229.28,20.0,917.12,2023-10-13,Manchester,UK,Net Banking,Processing,2.0
+ORD00939,Diya Kumar,diya.kumar587@example.com,Beauty,Shampoo,8.0,471.3,5.0,3581.88,2023-01-18,Berlin,Germany,Credit Card,Delivered,3.0
+ORD00940,Sophia Reddy,sophia.reddy567@example.com,Home & Kitchen,LED Lamp,9.0,466.41,0.0,4197.69,2023-11-30,Birmingham,UK,Cash on Delivery,Delivered,1.0
+ORD00941,John Singh,john.singh481@example.com,Clothing,Denim Jeans,10.0,417.97,10.0,3761.73,2024-04-18,Frankfurt,Germany,Debit Card,Delivered,3.0
+ORD00942,Wei Dubois,wei.dubois69@example.com,Books,Cookbook,,233.08,20.0,,2024-07-17,Brasilia,Brazil,Net Banking,Returned,5.0
+ORD00943,Mary Dubois,mary.dubois858@example.com,Beauty,Sunscreen,9.0,468.75,25.0,3164.06,2023-05-10,Delhi,India,Credit Card,Returned,4.0
+ORD00944,Ishaan Dubois,ishaan.dubois392@example.com,Books,Self-Help Guide,6.0,246.17,5.0,1403.17,2024-03-21,Leeds,UK,,Returned,3.0
+ORD00945,Wei Williams,wei.williams146@example.com,Electronics,Laptop Stand,5.0,245.95,25.0,922.31,2024-01-16,Frankfurt,Germany,Debit Card,Cancelled,3.0
+ORD00946,Rohan Reddy,rohan.reddy55@example.com,Home & Kitchen,Cutlery Set,7.0,43.67,25.0,229.27,2023-02-11,Paris,France,UPI,Processing,5.0
+ORD00947,Priya Sharma,priya.sharma150@example.com,Beauty,Perfume,1.0,257.21,15.0,218.63,2023-01-25,Nice,France,UPI,Returned,5.0
+ORD00948,James Williams,james.williams821@example.com,Sports,Cycling Helmet,8.0,380.45,0.0,3043.6,2024-11-13,Brasilia,Brazil,PayPal,Returned,3.0
+ORD00949,Isabella Tanaka,isabella.tanaka732@example.com,Books,Self-Help Guide,4.0,51.13,20.0,163.62,2023-08-14,Mumbai,India,UPI,Delivered,3.0
+ORD00950,Emma Muller,emma.muller819@example.com,Clothing,Wool Sweater,5.0,495.26,0.0,2476.3,2023-06-17,Bengaluru,India,PayPal,Cancelled,3.0
+ORD00951,Michael Gupta,michael.gupta506@example.com,Electronics,Bluetooth Speaker,6.0,310.32,25.0,1396.44,2023-09-22,Sharjah,UAE,Cash on Delivery,Processing,4.0
+ORD00952,David Singh,david.singh856@example.com,Beauty,Perfume,5.0,404.06,5.0,1919.28,2023-08-20,Chennai,India,Net Banking,Processing,5.0
+ORD00953,Kavya Martinez,kavya.martinez415@example.com,Electronics,Webcam,5.0,57.72,5.0,274.17,2023-08-13,Frankfurt,Germany,Debit Card,Delivered,5.0
+ORD00954,Mary Suzuki,mary.suzuki430@example.com,Sports,Cricket Bat,4.0,85.41,0.0,341.64,2023-11-18,Chennai,India,Net Banking,Cancelled,5.0
+ORD00955,Aarav Zhang,aarav.zhang122@example.com,Home & Kitchen,Coffee Maker,8.0,464.28,5.0,3528.53,2024-02-20,Osaka,Japan,UPI,Shipped,3.0
+ORD00956,James Gupta,james.gupta608@example.com,Books,Fiction Novel,2.0,399.12,,798.24,2024-07-07,Yokohama,Japan,Credit Card,Shipped,1.0
+ORD00957,Olivia Gupta,,Home & Kitchen,Blender,6.0,334.7,0.0,2008.2,2023-11-14,Sydney,Australia,Credit Card,Returned,1.0
+ORD00958,Ava Sharma,ava.sharma197@example.com,Clothing,Wool Sweater,8.0,58.23,0.0,465.84,2024-09-19,Vancouver,Canada,Credit Card,Cancelled,4.0
+ORD00959,Priya Silva,priya.silva622@example.com,Clothing,Baseball Cap,7.0,426.82,25.0,2240.8,2024-04-08,Brisbane,Australia,UPI,Cancelled,3.0
+ORD00960,Mei Williams,mei.williams216@example.com,Clothing,Wool Sweater,3.0,23.21,0.0,69.63,2023-06-01,Houston,USA,Debit Card,Shipped,4.0
+ORD00961,Haruto Zhang,haruto.zhang594@example.com,Clothing,Baseball Cap,7.0,65.7,10.0,413.91,2023-08-03,Paris,France,UPI,Shipped,4.0
+ORD00962,Aditya Patel,,Home & Kitchen,Cutlery Set,8.0,234.43,15.0,1594.12,2024-04-05,Birmingham,UK,PayPal,Cancelled,5.0
+ORD00963,Lucas Gupta,,Clothing,Running Shoes,8.0,438.38,0.0,3507.04,2023-05-24,Frankfurt,Germany,UPI,Shipped,4.0
+ORD00964,Vivaan Sharma,vivaan.sharma729@example.com,Home & Kitchen,Storage Jars,1.0,56.78,5.0,53.94,2023-08-05,Birmingham,UK,PayPal,Returned,4.0
+ORD00965,Mateo Silva,mateo.silva628@example.com,Sports,Dumbbell Set,1.0,230.2,10.0,207.18,2024-07-05,Paris,France,UPI,Processing,
+ORD00966,Liam Kumar,liam.kumar900@example.com,Books,History Book,10.0,288.09,5.0,2736.85,2024-04-05,Montreal,Canada,PayPal,Delivered,5.0
+ORD00967,Sara Tanaka,sara.tanaka544@example.com,Clothing,Cotton T-Shirt,8.0,123.3,,986.4,2023-02-18,Chicago,USA,Cash on Delivery,Returned,1.0
+ORD00968,David Williams,david.williams680@example.com,Electronics,Earbuds,4.0,269.37,0.0,1077.48,2023-08-29,Kyoto,Japan,Debit Card,Returned,1.0
+ORD00969,Li Suzuki,li.suzuki663@example.com,Clothing,Wool Sweater,,69.29,10.0,,2023-06-23,Montreal,Canada,Net Banking,Shipped,3.0
+ORD00970,Yuki Gupta,yuki.gupta784@example.com,Home & Kitchen,Blender,9.0,321.32,0.0,2891.88,2023-05-05,Delhi,India,Credit Card,Processing,2.0
+ORD00971,Haruto Garcia,haruto.garcia513@example.com,Sports,Football,8.0,335.66,0.0,2685.28,2023-12-31,Chicago,USA,Debit Card,Cancelled,5.0
+ORD00972,Sara Sharma,sara.sharma636@example.com,Electronics,Bluetooth Speaker,6.0,84.37,5.0,480.91,2024-05-05,Sydney,Australia,UPI,Cancelled,4.0
+ORD00973,Ishaan Silva,ishaan.silva413@example.com,Clothing,Denim Jeans,8.0,387.86,0.0,3102.88,2023-08-21,Nice,France,Net Banking,Processing,3.0
+ORD00974,Mateo Patel,,Clothing,Cotton T-Shirt,1.0,493.89,15.0,419.81,2024-03-01,Bengaluru,India,,Cancelled,2.0
+ORD00975,Ava Silva,ava.silva120@example.com,Sports,Dumbbell Set,9.0,498.09,15.0,3810.39,2023-05-03,Dubai,UAE,,Processing,5.0
+ORD00976,Sofia Suzuki,sofia.suzuki880@example.com,Electronics,Wireless Mouse,3.0,349.47,0.0,1048.41,2023-10-15,Perth,Australia,Credit Card,Returned,5.0
+ORD00977,Kavya Williams,kavya.williams27@example.com,Home & Kitchen,Blender,2.0,435.4,0.0,870.8,2024-01-07,New York,USA,UPI,Processing,2.0
+ORD00978,Priya Muller,priya.muller820@example.com,Electronics,Laptop Stand,5.0,421.53,0.0,2107.65,2024-07-16,Sharjah,UAE,Cash on Delivery,Processing,4.0
+ORD00979,Ishaan Tanaka,ishaan.tanaka42@example.com,Home & Kitchen,Cutlery Set,6.0,138.18,0.0,829.08,2023-04-07,Dubai,UAE,Credit Card,Cancelled,
+ORD00980,Mei Wang,mei.wang110@example.com,Home & Kitchen,Coffee Maker,9.0,448.04,15.0,3427.51,2023-06-22,London,UK,PayPal,Delivered,3.0
+ORD00981,Priya Silva,priya.silva418@example.com,Electronics,Webcam,4.0,248.86,20.0,796.35,2023-08-05,Sharjah,UAE,Net Banking,Shipped,4.0
+ORD00982,Mary Singh,mary.singh605@example.com,Books,Children's Storybook,4.0,310.11,20.0,992.35,2023-09-19,Abu Dhabi,UAE,Credit Card,Delivered,3.0
+ORD00983,Yuki Brown,yuki.brown591@example.com,Clothing,Baseball Cap,4.0,70.56,,282.24,2023-09-13,Pune,India,Credit Card,Cancelled,3.0
+ORD00984,Sara Reddy,sara.reddy668@example.com,Clothing,Baseball Cap,1.0,209.61,25.0,157.21,2023-05-28,London,UK,,Processing,4.0
+ORD00985,John Silva,john.silva455@example.com,Beauty,Shampoo,3.0,107.36,5.0,305.98,2024-05-16,Marseille,France,Net Banking,Delivered,4.0
+ORD00986,Michael Gupta,michael.gupta911@example.com,Electronics,Earbuds,4.0,209.64,0.0,838.56,2023-10-18,Vancouver,Canada,Net Banking,Delivered,5.0
+ORD00987,Aditya Muller,aditya.muller311@example.com,Beauty,Shampoo,5.0,420.54,10.0,1892.43,2023-06-14,Lyon,France,Net Banking,Shipped,
+ORD00988,Diya Martinez,diya.martinez972@example.com,Sports,Cycling Helmet,3.0,59.36,10.0,160.27,2023-04-12,Montreal,Canada,PayPal,Cancelled,
+ORD00989,Liam Reddy,liam.reddy290@example.com,Home & Kitchen,Coffee Maker,9.0,428.65,0.0,3857.85,2024-10-04,Paris,France,Debit Card,Delivered,5.0
+ORD00990,Emma Muller,emma.muller493@example.com,Clothing,Denim Jeans,5.0,361.84,10.0,1628.28,2024-08-23,Frankfurt,Germany,PayPal,Returned,4.0
+ORD00991,Ishaan Tanaka,ishaan.tanaka201@example.com,Clothing,Running Shoes,6.0,181.66,15.0,926.47,2024-05-19,Frankfurt,Germany,Cash on Delivery,Delivered,2.0
+ORD00992,Liam Singh,liam.singh888@example.com,Electronics,Laptop Stand,9.0,498.0,25.0,3361.5,2023-05-19,Munich,Germany,Debit Card,Processing,4.0
+ORD00993,Aarav Muller,aarav.muller288@example.com,Beauty,Perfume,4.0,51.27,0.0,205.08,2023-04-06,Vancouver,Canada,Credit Card,Cancelled,5.0
+ORD00994,Priya Sharma,priya.sharma502@example.com,Clothing,Wool Sweater,2.0,48.91,10.0,88.04,2023-01-01,Kyoto,Japan,UPI,Cancelled,3.0
+ORD00995,Aarav Reddy,aarav.reddy586@example.com,Electronics,Webcam,3.0,120.94,,362.82,2023-07-03,Munich,Germany,Debit Card,Shipped,1.0
+ORD00996,Li Garcia,li.garcia138@example.com,Electronics,Bluetooth Speaker,4.0,186.49,10.0,671.36,2024-03-18,London,UK,,Shipped,1.0
+ORD00997,Priya Wang,,Clothing,Baseball Cap,7.0,58.72,5.0,390.49,2023-03-16,Leeds,UK,Credit Card,Cancelled,3.0
+ORD00998,Sara Silva,sara.silva906@example.com,Beauty,Perfume,10.0,449.99,15.0,3824.91,2024-04-08,Manchester,UK,Net Banking,Cancelled,5.0
+ORD00999,Sara Zhang,sara.zhang220@example.com,Beauty,Face Serum,5.0,190.89,0.0,954.45,2024-08-18,Los Angeles,USA,Credit Card,Shipped,5.0
+ORD01000,Lucas Reddy,lucas.reddy405@example.com,Beauty,Perfume,3.0,31.15,5.0,88.78,2023-05-10,Berlin,Germany,Cash on Delivery,Returned,2.0
