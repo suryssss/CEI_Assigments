@@ -1,0 +1,6 @@
+Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region
+AA-10315,Alex Avila,Corporate,United States,Hyderabad,Minnesota,55407,Central
+AA-10375,Allen Armold,Home Office,United States,Mumbai,Arizona,85204,West
+AA-10480,Andrew Allen,Consumer,United States,Bangalore,North Carolina,28027,South
+SU-00001,Surya Intern,Consumer,India,Hyderabad,Telangana,500001,South
+SU-00002,Test Customer,Corporate,India,Bangalore,Karnataka,560001,South
