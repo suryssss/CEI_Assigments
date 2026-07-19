@@ -1,0 +1,29 @@
+E-Commerce Data Quality Report
+================================
+
+Customers
+---------
+12 customers have invalid emails
+Invalid email customer_ids: C0057, C0115, C0117, C0177, C0334, C0338, C0355, C0373, C0379, C0451, C0519, C0534
+
+Products
+--------
+544 product names required normalization
+
+Orders
+------
+30 orders have missing customer_id
+
+Order Items
+-----------
+36 order_items have negative quantity (returns)
+
+Referential Integrity
+---------------------
+5 order_items reference missing orders
+  item_id=I001201 order_id=O00601
+  item_id=I001202 order_id=O00602
+  item_id=I001203 order_id=O00603
+  item_id=I001204 order_id=O00604
+  item_id=I001205 order_id=O00605
+
